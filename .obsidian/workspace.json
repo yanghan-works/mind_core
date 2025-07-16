@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/未命名.md",
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "☄️ 流星笔记 (Meteor Note) 模板"
             }
           }
         ],
@@ -279,10 +279,11 @@
   },
   "active": "fbab46815090e860",
   "lastOpenFiles": [
-    "Templates/哪个新想法或行动.md",
     "Templates/未命名.md",
+    "Templates/未命名 1.md",
     "Templates/Daily Note Template.md",
-    "Templates/闪念.md",
+    "Templates/哪个新想法或行动.md",
+    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Daily Notes/2025-07-16.md",
     "Flashcards/深度学习.md",
     "README.md",
@@ -311,7 +312,6 @@
     "02-Areas/用户与权限管理.md",
     "02-Areas/文件系统层次标准 (FHS).md",
     "02-Areas/文件系统.md",
-    "02-Areas/软件包管理.md",
     "Attachments",
     "Templates",
     "03-Resources",
