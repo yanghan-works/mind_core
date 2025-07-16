@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/深度学习.md",
+                "file": "Templates/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "深度学习"
+              "title": "未命名"
             }
           }
         ],
@@ -279,13 +279,15 @@
   },
   "active": "fbab46815090e860",
   "lastOpenFiles": [
+    "Templates/哪个新想法或行动.md",
+    "Templates/未命名.md",
+    "Templates/Daily Note Template.md",
+    "Templates/闪念.md",
     "Daily Notes/2025-07-16.md",
     "Flashcards/深度学习.md",
     "README.md",
-    "Templates/闪念.md",
     "FETCH_HEAD",
     "Flashcards",
-    "Templates/Daily Note Template.md",
     "02-Areas/课程大纲：学习科学.md",
     "02-Areas/课程大纲：批判性思维与问题解决.md",
     "02-Areas/课程大纲：沟通、说服与共情.md",
@@ -310,8 +312,6 @@
     "02-Areas/文件系统层次标准 (FHS).md",
     "02-Areas/文件系统.md",
     "02-Areas/软件包管理.md",
-    "02-Areas/权限系统.md",
-    "02-Areas/进程管理.md",
     "Attachments",
     "Templates",
     "03-Resources",
