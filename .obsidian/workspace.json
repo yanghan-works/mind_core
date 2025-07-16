@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/未命名.md",
+                "file": "Flashcards/深度学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "深度学习"
             }
           }
         ],
@@ -280,7 +280,7 @@
   "active": "fbab46815090e860",
   "lastOpenFiles": [
     "README.md",
-    "Flashcards/未命名.md",
+    "Flashcards/深度学习.md",
     "Templates/闪念.md",
     "Daily Notes/2025-07-16.md",
     "FETCH_HEAD",
