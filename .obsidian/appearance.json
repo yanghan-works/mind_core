@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#148ccc",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [],
+  "showRibbon": true
+}
