@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 79.62382445141067,
+        "dimension": 76.41065830721003,
         "children": [
           {
             "id": "bbaa2a5aed54ab49",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/ping.md",
+                "file": "03-Resources/课程大纲：学习科学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping"
+              "title": "课程大纲：学习科学"
             }
           },
           {
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,25 +53,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping：网络连通性与延迟测试"
-            }
+              "title": "域名，网络中的名字"
+            },
+            "group": "02389c167a197462"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "fb756f46ba09c66d",
+        "id": "c31c46dcd24be30e",
         "type": "tabs",
-        "dimension": 20.37617554858934,
+        "dimension": 23.58934169278997,
         "children": [
           {
-            "id": "384a4aaba796f91d",
+            "id": "8dc9b64ae943ce3f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,10 +98,10 @@
                   "close": false
                 }
               },
-              "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板 的关系图"
-            }
+              "title": "域名，网络中的名字 的关系图"
+            },
+            "group": "02389c167a197462"
           }
         ]
       }
@@ -191,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ping：网络连通性与延迟测试 的出链列表"
+              "title": "域名，网络中的名字 的出链列表"
             }
           },
           {
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping：网络连通性与延迟测试 的大纲"
+              "title": "域名，网络中的名字 的大纲"
             }
           },
           {
@@ -290,14 +290,14 @@
   },
   "active": "f04c353058f98c77",
   "lastOpenFiles": [
-    "02-Areas/ping -c 指定发送次数.md",
-    "02-Areas/ping -s 指定发送大小.md",
-    "02-Areas/Ping：网络连通性与延迟测试.md",
-    "02-Areas/域名，网络中的名字.md",
-    "Canvas/Ping检查网络连通性.canvas",
-    "00-Inbox/ping.md",
     "02-Areas/ip地址，网络中的身份证.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/Ping：网络连通性与延迟测试.md",
+    "02-Areas/ping -s 指定发送大小.md",
+    "02-Areas/ping -c 指定发送次数.md",
+    "02-Areas/域名，网络中的名字.md",
     "02-Areas/Ping 检查主机和网络设备连通性.md",
+    "00-Inbox/ping.md",
     "Canvas/ping-canvas.md",
     "00-Inbox/Ping：网络连通性与延迟测试.md",
     "03-Resources/课程大纲：学习科学.md",
