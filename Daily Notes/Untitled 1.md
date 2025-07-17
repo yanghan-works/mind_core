@@ -1,8 +1,7 @@
 ---
 tags:
   - inbox/fleeting
-created: <% tp.date.now("YYYY年M月D日", 0, tp.file.title, "YYYY-MM-DD") %>
-source:
+created: Untitled 1
 ---
 # 这是一个闪念笔记，它的唯一使命就是“快”！
 
