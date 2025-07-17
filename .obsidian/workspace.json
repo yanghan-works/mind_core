@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/未命名.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "🌟 专业版康奈尔笔记模板"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Inbox/未命名.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "未命名 的关系图"
+              "title": "🌟 专业版康奈尔笔记模板 的关系图"
             }
           }
         ]
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/未命名.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "🌟 专业版康奈尔笔记模板 的大纲"
             }
           },
           {
@@ -312,8 +312,12 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "Templates/🌟 专业版康奈尔笔记模板.md",
+    "Templates/HH：mm.md",
+    "Templates/YYYY-MM-DD.md",
+    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "00-Inbox/未命名.md",
+    "Templates/🌟 专业版康奈尔笔记模板.md",
     "00-Inbox/你玩.md",
     "00-Inbox/未命名 4.md",
     "00-Inbox/未命名 2.md",
@@ -321,7 +325,6 @@
     "00-Inbox/未命名 3.md",
     "01-Projects/未命名.md",
     "Templates/属性模板.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "03-Resources/课程大纲：沟通、说服与共情.md",
@@ -336,12 +339,9 @@
     "02-Areas/Linux/ping -c 指定发送次数.md",
     "02-Areas/Linux",
     "Canvas/Ping检查网络连通性.canvas",
-    "Templates/YYYY-MM-DD.md",
-    "Templates/HH：mm.md",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
     "02-Areas/Ping 检查主机和网络设备连通性 2.md",
-    "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
     "Attachments/Pasted image 20250717170824.png",
     "FETCH_HEAD",
     "Flashcards",
