@@ -1,7 +1,6 @@
 ---
 # --- 元数据区：你的第二大脑引擎 ---
 # 本区域为 Dataview 和 Obsidian 提供动力，请勿轻易修改。
-type: daily-note
 tags: [daily, dn]
 date: <% tp.file.title %>
 aliases: 

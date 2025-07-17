@@ -17,6 +17,14 @@
     {
       "folder": "Daily Notes",
       "template": "Templates/Daily Note Template.md"
+    },
+    {
+      "folder": "00-Inbox",
+      "template": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md"
+    },
+    {
+      "folder": "02-Areas",
+      "template": "Templates/未命名.md"
     }
   ],
   "enable_file_templates": false,
