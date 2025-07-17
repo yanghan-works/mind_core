@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
+                "file": "02-Areas/Linux/ping：网络排查流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping -s 指定发送大小"
+              "title": "ping：网络排查流程"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
+                "file": "02-Areas/Linux/ping：网络排查流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ping -s 指定发送大小 的关系图"
+              "title": "ping：网络排查流程 的关系图"
             }
           }
         ]
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
+                "file": "02-Areas/Linux/ping：网络排查流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ping -s 指定发送大小 的出链列表"
+              "title": "ping：网络排查流程 的出链列表"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
+                "file": "02-Areas/Linux/ping：网络排查流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping -s 指定发送大小 的大纲"
+              "title": "ping：网络排查流程 的大纲"
             }
           },
           {
@@ -312,13 +312,14 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/Linux/ping -c 指定发送次数.md",
-    "02-Areas/Linux/ping -s 指定发送大小.md",
-    "02-Areas/Linux/ping：网络排查流程.md",
+    "02-Areas/Linux/RTT和丢包率.md",
+    "02-Areas/Linux/域名，网络中的名字.md",
     "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
     "02-Areas/Linux/ip地址，网络中的身份证.md",
-    "02-Areas/Linux/域名，网络中的名字.md",
-    "02-Areas/Linux/RTT和丢包率.md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+    "02-Areas/Linux/ping -s 指定发送大小.md",
+    "02-Areas/Linux/ping -c 指定发送次数.md",
+    "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux",
     "Canvas/Ping检查网络连通性.canvas",
     "Templates/YYYY-MM-DD.md",
@@ -329,7 +330,6 @@
     "02-Areas/Ping 检查主机和网络设备连通性 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
