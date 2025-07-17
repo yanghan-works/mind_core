@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/未命名.md",
-                "mode": "source",
+                "file": "Daily Notes/Untitled.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Untitled"
             }
           }
         ],
@@ -279,14 +279,14 @@
   },
   "active": "fbab46815090e860",
   "lastOpenFiles": [
+    "Daily Notes/未命名.md",
+    "Daily Notes/Untitled.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/未命名.md",
     "Daily Notes/2025-07-17.md",
     "Flashcards/深度学习.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2025-07-16.md",
-    "Daily Notes/未命名.md",
-    "Daily Notes/Untitled.md",
     "Daily Notes/Untitled 1.md",
     "Templates/未命名 1.md",
     "Templates/哪个新想法或行动.md",
