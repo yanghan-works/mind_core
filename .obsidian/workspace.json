@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 64.26332288401254,
+        "dimension": 79.62382445141067,
         "children": [
           {
             "id": "bbaa2a5aed54ab49",
@@ -36,17 +36,24 @@
             "id": "f04c353058f98c77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
+              "icon": "lucide-file",
+              "title": "Ping：网络连通性与延迟测试"
             }
           }
         ],
@@ -55,7 +62,7 @@
       {
         "id": "fb756f46ba09c66d",
         "type": "tabs",
-        "dimension": 35.73667711598746,
+        "dimension": 20.37617554858934,
         "children": [
           {
             "id": "384a4aaba796f91d",
@@ -184,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/ip地址，网络中的身份证.md",
+                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ip地址，网络中的身份证 的出链列表"
+              "title": "Ping：网络连通性与延迟测试 的出链列表"
             }
           },
           {
@@ -198,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/ip地址，网络中的身份证.md",
+                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ip地址，网络中的身份证 的大纲"
+              "title": "Ping：网络连通性与延迟测试 的大纲"
             }
           },
           {
@@ -283,13 +290,15 @@
   },
   "active": "f04c353058f98c77",
   "lastOpenFiles": [
-    "02-Areas/ip地址，网络中的身份证.md",
     "02-Areas/ping -s 指定发送大小.md",
-    "02-Areas/ping -c 指定发送次数.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/域名，网络中的名字.md",
     "00-Inbox/ping.md",
-    "Ping检查网络连通性.canvas",
-    "Canvas/ping-canvas.md",
+    "02-Areas/ip地址，网络中的身份证.md",
+    "02-Areas/ping -c 指定发送次数.md",
     "02-Areas/Ping：网络连通性与延迟测试.md",
+    "02-Areas/Ping 检查主机和网络设备连通性.md",
+    "Canvas/ping-canvas.md",
     "00-Inbox/Ping：网络连通性与延迟测试.md",
     "03-Resources/课程大纲：学习科学.md",
     "02-Areas/vim：命令行编辑器.md",
@@ -307,9 +316,6 @@
     "00-Inbox/在这里粘贴新笔记链接.md",
     "README.md",
     "Daily Notes/2025-07-16.md",
-    "Daily Notes/2025-07-17.md",
-    "Daily Notes/2025-07-18.md",
-    "Templates/YYYY-MM-DD.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",

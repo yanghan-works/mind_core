@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"44da2b4e9fa85358","x":-345,"y":-260,"width":250,"height":60,"type":"file","file":"02-Areas/ping -c 指定发送次数.md"},
-		{"id":"c40b4af0820659f0","x":-345,"y":-160,"width":250,"height":60,"type":"file","file":"02-Areas/ping -s 指定发送大小.md"},
-		{"id":"4630c7f33cf0b308","x":20,"y":-260,"width":250,"height":60,"type":"file","file":"02-Areas/ip地址，网络中的身份证.md"},
-		{"id":"f3ba8ffd1bec0fba","x":20,"y":-160,"width":250,"height":60,"type":"text","text":"域名"}
-	],
-	"edges":[]
-}
