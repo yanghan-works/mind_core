@@ -310,10 +310,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dc9b64ae943ce3f",
+  "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+    "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
     "02-Areas/Linux/未命名.md",
+    "02-Areas/ping 可以确认主机是否存活.md",
+    "02-Areas/ping 可以测量网络延迟 (RTT).md",
+    "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "Canvas/Ping检查网络连通性.canvas",
     "Templates/🌟 专业版康奈尔笔记模板.md",
@@ -336,9 +339,6 @@
     "02-Areas/Linux/域名，网络中的名字.md",
     "02-Areas/Linux/ip地址，网络中的身份证.md",
     "02-Areas/Linux/丢包率.md",
-    "02-Areas/Linux/RTT.md",
-    "02-Areas/Linux/ping -s 指定发送大小.md",
-    "02-Areas/Linux/ping -c 指定发送次数.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
