@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-07-17.md",
+                "file": "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "🤝 会议同步点 (Meeting Sync-Point)"
             }
           }
         ],
@@ -279,11 +279,14 @@
   },
   "active": "fbab46815090e860",
   "lastOpenFiles": [
-    "Templates/时间戳.md",
-    "Daily Notes/2025-07-17.md",
+    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+    "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+    "Templates/时间戳.md",
+    "Templates/@李四.md",
+    "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-18.md",
     "Templates/Daily Note Template.md",
     "01-Projects/未命名 1.md",
@@ -302,9 +305,6 @@
     "Daily Notes/Untitled 1.md",
     "Daily Notes/Untitled 3.md",
     "Canvas/未命名.md",
-    "Canvas/Untitled.md",
-    "Flashcards/深度学习.md",
-    "Templates/未命名 1.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
