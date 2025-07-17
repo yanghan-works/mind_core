@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "Templates/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板"
+              "title": "未命名"
             }
           }
         ],
@@ -279,13 +279,17 @@
   },
   "active": "fbab46815090e860",
   "lastOpenFiles": [
-    "Templates/未命名.md",
-    "Templates/未命名 1.md",
-    "Templates/Daily Note Template.md",
-    "Templates/哪个新想法或行动.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
-    "Daily Notes/2025-07-16.md",
+    "Templates/未命名.md",
+    "Daily Notes/2025-07-17.md",
     "Flashcards/深度学习.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2025-07-16.md",
+    "Daily Notes/未命名.md",
+    "Daily Notes/Untitled.md",
+    "Daily Notes/Untitled 1.md",
+    "Templates/未命名 1.md",
+    "Templates/哪个新想法或行动.md",
     "README.md",
     "FETCH_HEAD",
     "Flashcards",
@@ -294,8 +298,6 @@
     "02-Areas/课程大纲：沟通、说服与共情.md",
     "Daily Notes/未命名 2.md",
     "Daily Notes/未命名 1.md",
-    "Daily Notes/未命名.md",
-    "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-16_星期三.md",
     "Canvas/未命名.canvas",
     "02-Areas/未命名.md",
@@ -310,8 +312,6 @@
     "02-Areas/apt：Debian,Ubuntu 软件包管理.md",
     "02-Areas/alias：命令别名.md",
     "02-Areas/用户与权限管理.md",
-    "02-Areas/文件系统层次标准 (FHS).md",
-    "02-Areas/文件系统.md",
     "Attachments",
     "Templates",
     "03-Resources",
