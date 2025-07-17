@@ -36,24 +36,17 @@
             "id": "f04c353058f98c77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00-Inbox/ping.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Ping检查网络连通性.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "ping"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping检查网络连通性"
             }
           }
         ],
@@ -191,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Inbox/ping.md",
+                "file": "02-Areas/ip地址，网络中的身份证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ping 的出链列表"
+              "title": "ip地址，网络中的身份证 的出链列表"
             }
           },
           {
@@ -205,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/ping.md",
+                "file": "02-Areas/ip地址，网络中的身份证.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping 的大纲"
+              "title": "ip地址，网络中的身份证 的大纲"
             }
           },
           {
@@ -290,8 +283,14 @@
   },
   "active": "f04c353058f98c77",
   "lastOpenFiles": [
-    "00-Inbox/Ping：网络连通性与延迟测试.md",
+    "02-Areas/ip地址，网络中的身份证.md",
+    "02-Areas/ping -s 指定发送大小.md",
+    "02-Areas/ping -c 指定发送次数.md",
     "00-Inbox/ping.md",
+    "Ping检查网络连通性.canvas",
+    "Canvas/ping-canvas.md",
+    "02-Areas/Ping：网络连通性与延迟测试.md",
+    "00-Inbox/Ping：网络连通性与延迟测试.md",
     "03-Resources/课程大纲：学习科学.md",
     "02-Areas/vim：命令行编辑器.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
@@ -304,7 +303,6 @@
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
     "00-Inbox/google.md",
     "00-Inbox/123.md",
-    "02-Areas/Ping：网络连通性与延迟测试.md",
     "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
     "00-Inbox/在这里粘贴新笔记链接.md",
     "README.md",
@@ -312,10 +310,6 @@
     "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-18.md",
     "Templates/YYYY-MM-DD.md",
-    "Templates/HH：mm.md",
-    "02-Areas/未命名.md",
-    "02-Areas/防火墙.md",
-    "01-Projects/未命名 2.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
@@ -333,7 +327,6 @@
     "01_Toolbox/未命名.canvas",
     "04-Canvas/Ping.canvas",
     "04-Canvas/未命名.canvas",
-    "02-Areas/Linux/Ping-Cancas.canvas",
-    "未命名.canvas"
+    "02-Areas/Linux/Ping-Cancas.canvas"
   ]
 }

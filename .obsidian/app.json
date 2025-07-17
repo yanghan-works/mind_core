@@ -4,8 +4,8 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "trashOption": "local",
-  "newFileLocation": "current",
-  "newFileFolderPath": "",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02-Areas",
   "attachmentFolderPath": "Attachments",
   "vimMode": false
 }
