@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🔥 永恒之火 (Eternal Flame) 模板"
+              "title": "🌟 专业版康奈尔笔记模板"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🔥 永恒之火 (Eternal Flame) 模板 的关系图"
+              "title": "🌟 专业版康奈尔笔记模板 的关系图"
             }
           }
         ]
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "🔥 永恒之火 (Eternal Flame) 模板 的出链列表"
+              "title": "🌟 专业版康奈尔笔记模板 的出链列表"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔥 永恒之火 (Eternal Flame) 模板 的大纲"
+              "title": "🌟 专业版康奈尔笔记模板 的大纲"
             }
           },
           {
@@ -310,11 +310,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15d0c464a1deac65",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
+    "00-Inbox/未命名 4.md",
+    "00-Inbox/未命名 2.md",
+    "00-Inbox/未命名 1.md",
+    "00-Inbox/未命名.md",
+    "Templates/🌟 专业版康奈尔笔记模板.md",
+    "00-Inbox/未命名 3.md",
+    "01-Projects/未命名.md",
+    "Templates/属性模板.md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "Templates/属性模板.md",
     "03-Resources/课程大纲：沟通、说服与共情.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
@@ -323,7 +331,6 @@
     "02-Areas/Linux/ip地址，网络中的身份证.md",
     "02-Areas/Linux/丢包率.md",
     "02-Areas/Linux/RTT.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "02-Areas/Linux/ping -s 指定发送大小.md",
     "02-Areas/Linux/ping -c 指定发送次数.md",
     "02-Areas/Linux",
@@ -335,13 +342,7 @@
     "02-Areas/Ping 检查主机和网络设备连通性 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性.md",
-    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
     "Attachments/Pasted image 20250717170824.png",
-    "README.md",
-    "00-Inbox/ping.md",
-    "Canvas/ping-canvas.md",
-    "00-Inbox/Ping：网络连通性与延迟测试.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
