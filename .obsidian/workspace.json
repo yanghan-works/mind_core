@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Linux/ping：网络排查流程.md",
+                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping：网络排查流程"
+              "title": "Ping：网络连通性与延迟测试"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Linux/ping：网络排查流程.md",
+                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ping：网络排查流程 的关系图"
+              "title": "Ping：网络连通性与延迟测试 的关系图"
             }
           }
         ]
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Linux/ping：网络排查流程.md",
+                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ping：网络排查流程 的出链列表"
+              "title": "Ping：网络连通性与延迟测试 的出链列表"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Linux/ping：网络排查流程.md",
+                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping：网络排查流程 的大纲"
+              "title": "Ping：网络连通性与延迟测试 的大纲"
             }
           },
           {
@@ -312,11 +312,11 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
+    "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux/域名，网络中的名字.md",
     "02-Areas/Linux/ip地址，网络中的身份证.md",
     "02-Areas/Linux/丢包率.md",
     "02-Areas/Linux/RTT.md",
-    "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "02-Areas/Linux/ping -s 指定发送大小.md",

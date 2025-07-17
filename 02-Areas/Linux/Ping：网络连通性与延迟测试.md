@@ -64,8 +64,8 @@ ping www.baidu.com
 
 ## 返回结果说明:
 
-- [[RTT]]
-- [[丢包率]]
+RTT
+- 丢包率
 
 
 [[Ping检查网络连通性.canvas]]
