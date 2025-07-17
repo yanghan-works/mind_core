@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "00-Inbox/ping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,12 +73,84 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板"
+              "title": "ping"
             },
             "group": "ffecbe41b51e83a4"
+          },
+          {
+            "id": "3feeb25bf2c3c181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/ping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ping"
+            }
+          },
+          {
+            "id": "a7174b212bc9ffdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/ping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ping"
+            }
+          },
+          {
+            "id": "905fbb18e3b57b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/ping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ping"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "976175e63017accb",
@@ -90,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "00-Inbox/ping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板 的关系图"
+              "title": "ping 的关系图"
             },
             "group": "ffecbe41b51e83a4"
           }
@@ -210,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "00-Inbox/ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板 的出链列表"
+              "title": "ping 的出链列表"
             }
           },
           {
@@ -224,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "00-Inbox/ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板 的大纲"
+              "title": "ping 的大纲"
             }
           },
           {
@@ -239,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "file": "00-Inbox/ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +321,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "☄️ 流星笔记 (Meteor Note) 模板 的反向链接列表"
+              "title": "ping 的反向链接列表"
             }
           },
           {
@@ -293,12 +365,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5b20137c99faea5",
+  "active": "905fbb18e3b57b86",
   "lastOpenFiles": [
+    "00-Inbox/123.md",
+    "00-Inbox/ping.md",
+    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
-    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
-    "00-Inbox/ping命令检查网络连通性.md",
     "02-Areas/Ping：网络连通性与延迟测试.md",
     "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
     "00-Inbox/在这里粘贴新笔记链接.md",
@@ -320,7 +393,6 @@
     "Templates/@李四.md",
     "Templates/Daily Note Template.md",
     "01-Projects/0001-01-02.md",
-    "Daily Notes/2025-07-15.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
