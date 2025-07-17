@@ -1,1 +1,5 @@
-ping -s 指定发送大小
+
+
+```shell
+ping -s ip地址或者域名
+```
