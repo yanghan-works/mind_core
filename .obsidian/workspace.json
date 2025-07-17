@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🌟 专业版康奈尔笔记模板"
+              "title": "ping：检查主机和网络设备之间的连通性"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🌟 专业版康奈尔笔记模板 的关系图"
+              "title": "ping：检查主机和网络设备之间的连通性 的关系图"
             }
           }
         ]
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟 专业版康奈尔笔记模板 的大纲"
+              "title": "ping：检查主机和网络设备之间的连通性 的大纲"
             }
           },
           {
@@ -312,12 +312,12 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
+    "Templates/🌟 专业版康奈尔笔记模板.md",
+    "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
     "Templates/HH：mm.md",
     "Templates/YYYY-MM-DD.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
-    "00-Inbox/未命名.md",
-    "Templates/🌟 专业版康奈尔笔记模板.md",
     "00-Inbox/你玩.md",
     "00-Inbox/未命名 4.md",
     "00-Inbox/未命名 2.md",
