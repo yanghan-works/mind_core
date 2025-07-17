@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+                "file": "00-Inbox/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🚀 项目驾驶舱 (Project Cockpit)"
+              "title": "未命名"
             }
           }
         ],
@@ -240,9 +240,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "e2954a3e5ed40ba5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -264,14 +274,17 @@
   },
   "active": "f5b20137c99faea5",
   "lastOpenFiles": [
+    "README.md",
+    "00-Inbox/未命名.md",
+    "01-Projects/Untitled.md",
+    "01-Projects/未命名.md",
+    "01-Projects/未命名 1.md",
+    "02-Areas/vim：命令行编辑器.md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
-    "01-Projects/Untitled.md",
-    "01-Projects/未命名 1.md",
-    "01-Projects/未命名.md",
     "Daily Notes/2025-07-16.md",
     "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-18.md",
@@ -284,12 +297,9 @@
     "Templates/Daily Note Template.md",
     "01-Projects/0001-01-02.md",
     "Daily Notes/2025-07-15.md",
-    "00-Inbox/未命名.md",
     "Daily Notes/未命名 2.md",
     "Daily Notes/未命名 1.md",
     "Daily Notes/未命名.md",
-    "Daily Notes/Untitled.md",
-    "Daily Notes/Untitled 2.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
