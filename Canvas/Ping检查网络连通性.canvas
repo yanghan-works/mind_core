@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"6a86b3f3a8c48420","type":"group","x":260,"y":-700,"width":290,"height":220,"label":"目标"},
-		{"id":"c40b4af0820659f0","type":"file","file":"02-Areas/ping -s 指定发送大小.md","x":-150,"y":-640,"width":250,"height":60},
-		{"id":"44da2b4e9fa85358","type":"file","file":"02-Areas/ping -c 指定发送次数.md","x":-150,"y":-560,"width":250,"height":60},
-		{"id":"4630c7f33cf0b308","type":"file","file":"02-Areas/ip地址，网络中的身份证.md","x":280,"y":-680,"width":250,"height":60},
-		{"id":"a6d0d5792e0ff3fd","type":"file","file":"02-Areas/域名，网络中的名字.md","x":280,"y":-560,"width":250,"height":60},
-		{"id":"25df83a91e8a31bb","type":"file","file":"02-Areas/Ping：网络连通性与延迟测试.md","x":-150,"y":-760,"width":250,"height":50},
+		{"id":"c40b4af0820659f0","type":"file","file":"02-Areas/Linux/ping -s 指定发送大小.md","x":-150,"y":-640,"width":250,"height":60},
+		{"id":"44da2b4e9fa85358","type":"file","file":"02-Areas/Linux/ping -c 指定发送次数.md","x":-150,"y":-560,"width":250,"height":60},
+		{"id":"4630c7f33cf0b308","type":"file","file":"02-Areas/Linux/ip地址，网络中的身份证.md","x":280,"y":-680,"width":250,"height":60},
+		{"id":"a6d0d5792e0ff3fd","type":"file","file":"02-Areas/Linux/域名，网络中的名字.md","x":280,"y":-560,"width":250,"height":60},
+		{"id":"25df83a91e8a31bb","type":"file","file":"02-Areas/Linux/Ping：网络连通性与延迟测试.md","x":-150,"y":-760,"width":250,"height":50},
 		{"id":"6f5e639053057f69","type":"text","text":"主机","x":-340,"y":-168,"width":250,"height":60},
-		{"id":"778c2a89d7808cdf","x":-25,"y":-168,"width":290,"height":60,"type":"file","file":"02-Areas/RTT和丢包率.md"},
+		{"id":"778c2a89d7808cdf","x":-25,"y":-168,"width":290,"height":60,"type":"file","file":"02-Areas/Linux/RTT和丢包率.md"},
 		{"id":"c3bce1321cef03b5","type":"text","text":"路由器，主机，服务器","x":530,"y":-168,"width":250,"height":60}
 	],
 	"edges":[

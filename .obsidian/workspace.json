@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/域名，网络中的名字.md",
+                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "域名，网络中的名字"
+              "title": "ping -s 指定发送大小"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/域名，网络中的名字.md",
+                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "域名，网络中的名字 的关系图"
+              "title": "ping -s 指定发送大小 的关系图"
             }
           }
         ]
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/域名，网络中的名字.md",
+                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "域名，网络中的名字 的出链列表"
+              "title": "ping -s 指定发送大小 的出链列表"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/域名，网络中的名字.md",
+                "file": "02-Areas/Linux/ping -s 指定发送大小.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "域名，网络中的名字 的大纲"
+              "title": "ping -s 指定发送大小 的大纲"
             }
           },
           {
@@ -312,16 +312,20 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/ping：网络排查流程.md",
-    "02-Areas/ip地址，网络中的身份证.md",
-    "02-Areas/RTT和丢包率.md",
-    "02-Areas/Ping：网络连通性与延迟测试.md",
-    "02-Areas/ping -s 指定发送大小.md",
-    "02-Areas/域名，网络中的名字.md",
-    "02-Areas/ping -c 指定发送次数.md",
-    "Templates/属性模板.md",
+    "02-Areas/Linux/ping -c 指定发送次数.md",
+    "02-Areas/Linux/ping -s 指定发送大小.md",
+    "02-Areas/Linux/ping：网络排查流程.md",
+    "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+    "02-Areas/Linux/ip地址，网络中的身份证.md",
+    "02-Areas/Linux/域名，网络中的名字.md",
+    "02-Areas/Linux/RTT和丢包率.md",
+    "02-Areas/Linux",
+    "Canvas/Ping检查网络连通性.canvas",
     "Templates/YYYY-MM-DD.md",
     "Templates/HH：mm.md",
+    "Attachments/Pasted image 20250717172001.png",
+    "Attachments/Pasted image 20250717172008.png",
+    "Templates/属性模板.md",
     "02-Areas/Ping 检查主机和网络设备连通性 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性.md",
@@ -330,9 +334,6 @@
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
-    "Canvas/Ping检查网络连通性.canvas",
-    "Attachments/Pasted image 20250717172008.png",
-    "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717170824.png",
     "README.md",
     "00-Inbox/ping.md",
@@ -348,7 +349,6 @@
     "Attachments",
     "Templates",
     "03-Resources",
-    "02-Areas",
     "02_Assets/Pasted image 20250714133913.png",
     "02_Assets/Pasted image 20250714133909.png",
     "02_Canvas/未命名.canvas",
