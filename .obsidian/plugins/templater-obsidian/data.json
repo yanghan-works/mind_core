@@ -25,6 +25,14 @@
     {
       "folder": "02-Areas",
       "template": "Templates/未命名.md"
+    },
+    {
+      "folder": "01-Projects",
+      "template": "Templates/未命名.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
