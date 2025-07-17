@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/vim：命令行编辑器.md",
+                "file": "00-Inbox/ping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,10 +29,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vim：命令行编辑器"
+              "title": "ping"
+            }
+          },
+          {
+            "id": "f04c353058f98c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/ping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ping"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fb756f46ba09c66d",
@@ -166,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/vim：命令行编辑器.md",
+                "file": "00-Inbox/ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "vim：命令行编辑器 的出链列表"
+              "title": "ping 的出链列表"
             }
           },
           {
@@ -180,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/vim：命令行编辑器.md",
+                "file": "00-Inbox/ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vim：命令行编辑器 的大纲"
+              "title": "ping 的大纲"
             }
           },
           {
@@ -263,14 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "f04c353058f98c77",
   "lastOpenFiles": [
+    "00-Inbox/Ping：网络连通性与延迟测试.md",
+    "00-Inbox/ping.md",
+    "03-Resources/课程大纲：学习科学.md",
+    "02-Areas/vim：命令行编辑器.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "01-Projects/未命名.md",
     "01-Projects/未命名 1.md",
     "01-Projects/Untitled.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "00-Inbox/ping.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
@@ -280,7 +308,6 @@
     "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
     "00-Inbox/在这里粘贴新笔记链接.md",
     "README.md",
-    "02-Areas/vim：命令行编辑器.md",
     "Daily Notes/2025-07-16.md",
     "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-18.md",
@@ -289,8 +316,6 @@
     "02-Areas/未命名.md",
     "02-Areas/防火墙.md",
     "01-Projects/未命名 2.md",
-    "Templates/@李四.md",
-    "Templates/Daily Note Template.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
