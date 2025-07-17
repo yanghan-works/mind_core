@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/未命名.md",
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,11 +73,56 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
-            }
+              "title": "☄️ 流星笔记 (Meteor Note) 模板"
+            },
+            "group": "ffecbe41b51e83a4"
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "976175e63017accb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384a4aaba796f91d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "☄️ 流星笔记 (Meteor Note) 模板 的关系图"
+            },
+            "group": "ffecbe41b51e83a4"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Toolbox/未命名.md",
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "☄️ 流星笔记 (Meteor Note) 模板 的出链列表"
             }
           },
           {
@@ -179,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Toolbox/未命名.md",
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "☄️ 流星笔记 (Meteor Note) 模板 的大纲"
             }
           },
           {
@@ -194,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Toolbox/未命名.md",
+                "file": "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,21 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
-            }
-          },
-          {
-            "id": "a4b5f390272a436d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "☄️ 流星笔记 (Meteor Note) 模板 的反向链接列表"
             }
           },
           {
@@ -227,8 +258,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -240,19 +271,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "e2954a3e5ed40ba5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,17 +295,20 @@
   },
   "active": "f5b20137c99faea5",
   "lastOpenFiles": [
+    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+    "00-Inbox/ping命令检查网络连通性.md",
+    "02-Areas/Ping：网络连通性与延迟测试.md",
+    "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
+    "00-Inbox/在这里粘贴新笔记链接.md",
     "README.md",
-    "00-Inbox/未命名.md",
     "01-Projects/Untitled.md",
     "01-Projects/未命名.md",
     "01-Projects/未命名 1.md",
     "02-Areas/vim：命令行编辑器.md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
-    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Daily Notes/2025-07-16.md",
     "Daily Notes/2025-07-17.md",
     "Daily Notes/2025-07-18.md",
@@ -297,9 +321,6 @@
     "Templates/Daily Note Template.md",
     "01-Projects/0001-01-02.md",
     "Daily Notes/2025-07-15.md",
-    "Daily Notes/未命名 2.md",
-    "Daily Notes/未命名 1.md",
-    "Daily Notes/未命名.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",
