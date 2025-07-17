@@ -33,31 +33,6 @@
             }
           },
           {
-            "id": "f04c353058f98c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ping：网络连通性与延迟测试"
-            },
-            "group": "02389c167a197462"
-          },
-          {
             "id": "a1d9dbcb3f33b8aa",
             "type": "leaf",
             "state": {
@@ -80,6 +55,30 @@
               "icon": "lucide-file",
               "title": "属性模板"
             }
+          },
+          {
+            "id": "15d0c464a1deac65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/域名，网络中的名字.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "域名，网络中的名字"
+            }
           }
         ],
         "currentTab": 2
@@ -95,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,9 +122,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping：网络连通性与延迟测试 的关系图"
-            },
-            "group": "02389c167a197462"
+              "title": "域名，网络中的名字 的关系图"
+            }
           }
         ]
       }
@@ -215,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/属性模板.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "属性模板 的出链列表"
+              "title": "域名，网络中的名字 的出链列表"
             }
           },
           {
@@ -229,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/属性模板.md",
+                "file": "02-Areas/域名，网络中的名字.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "属性模板 的大纲"
+              "title": "域名，网络中的名字 的大纲"
             }
           },
           {
@@ -312,38 +310,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1d9dbcb3f33b8aa",
+  "active": "15d0c464a1deac65",
   "lastOpenFiles": [
+    "02-Areas/ping：网络排查流程.md",
+    "02-Areas/ip地址，网络中的身份证.md",
+    "02-Areas/RTT和丢包率.md",
+    "02-Areas/Ping：网络连通性与延迟测试.md",
+    "02-Areas/ping -s 指定发送大小.md",
+    "02-Areas/域名，网络中的名字.md",
+    "02-Areas/ping -c 指定发送次数.md",
+    "Templates/属性模板.md",
+    "Templates/YYYY-MM-DD.md",
+    "Templates/HH：mm.md",
+    "02-Areas/Ping 检查主机和网络设备连通性 2.md",
+    "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
+    "02-Areas/Ping 检查主机和网络设备连通性.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/属性模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
     "Canvas/Ping检查网络连通性.canvas",
-    "02-Areas/RTT和丢包率.md",
-    "02-Areas/Ping：网络连通性与延迟测试.md",
-    "02-Areas/ip地址，网络中的身份证.md",
-    "02-Areas/域名，网络中的名字.md",
     "Attachments/Pasted image 20250717172008.png",
     "Attachments/Pasted image 20250717172001.png",
-    "02-Areas/ping -s 指定发送大小.md",
-    "02-Areas/ping -c 指定发送次数.md",
-    "02-Areas/ping命令：网络排查流程.md",
     "Attachments/Pasted image 20250717170824.png",
     "README.md",
-    "02-Areas/Ping 检查主机和网络设备连通性.md",
     "00-Inbox/ping.md",
     "Canvas/ping-canvas.md",
     "00-Inbox/Ping：网络连通性与延迟测试.md",
-    "03-Resources/课程大纲：学习科学.md",
-    "02-Areas/vim：命令行编辑器.md",
-    "01-Projects/未命名.md",
-    "01-Projects/未命名 1.md",
-    "01-Projects/Untitled.md",
-    "00-Inbox/google.md",
-    "00-Inbox/123.md",
-    "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",

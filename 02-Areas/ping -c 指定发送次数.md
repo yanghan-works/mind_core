@@ -1,3 +1,8 @@
+---
+tags: 
+aliases: 
+created: 2025-07-17 17:34
+---
 
 ```shell
 ping -c [次数] [目标IP或域名]

@@ -1,7 +1,9 @@
 ---
-tags: 
-aliases: 
-created: 2025-07-17 17:34
+type: Linux
+tags:
+  - Linux
+  - 检查网络
+aliases:
 ---
 ## 核心概念
 
@@ -42,12 +44,9 @@ ping www.baidu.com
 
 ## 网络不同排查流程
 
-检查网络故障步骤：[[ping：网络排查流程]]
+检查网络故障步骤：[[ping命令：网络排查流程]]
 
-
-## 返回结果说明:
-
-- [[RTT和丢包率]]
+## 返回结果：[[RTT和丢包率]]
 
 
 [[Ping检查网络连通性.canvas]]

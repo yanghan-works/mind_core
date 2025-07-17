@@ -24,7 +24,7 @@
     },
     {
       "folder": "02-Areas",
-      "template": ""
+      "template": "Templates/属性模板.md"
     }
   ],
   "enable_file_templates": false,
