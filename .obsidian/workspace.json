@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "Templates/属性模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping：网络连通性与延迟测试"
+              "title": "属性模板"
             }
           }
         ],
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "Templates/属性模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ping：网络连通性与延迟测试 的出链列表"
+              "title": "属性模板 的出链列表"
             }
           },
           {
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Ping：网络连通性与延迟测试.md",
+                "file": "Templates/属性模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping：网络连通性与延迟测试 的大纲"
+              "title": "属性模板 的大纲"
             }
           },
           {
@@ -314,14 +314,23 @@
   },
   "active": "a1d9dbcb3f33b8aa",
   "lastOpenFiles": [
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
+    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
+    "Templates/属性模板.md",
+    "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
+    "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/RTT和丢包率.md",
+    "02-Areas/Ping：网络连通性与延迟测试.md",
+    "02-Areas/ip地址，网络中的身份证.md",
+    "02-Areas/域名，网络中的名字.md",
+    "Attachments/Pasted image 20250717172008.png",
+    "Attachments/Pasted image 20250717172001.png",
     "02-Areas/ping -s 指定发送大小.md",
     "02-Areas/ping -c 指定发送次数.md",
-    "02-Areas/ip地址，网络中的身份证.md",
-    "02-Areas/Ping：网络连通性与延迟测试.md",
-    "Attachments/Pasted image 20250717170824.png",
     "02-Areas/ping命令：网络排查流程.md",
-    "02-Areas/域名，网络中的名字.md",
-    "Canvas/Ping检查网络连通性.canvas",
+    "Attachments/Pasted image 20250717170824.png",
     "README.md",
     "02-Areas/Ping 检查主机和网络设备连通性.md",
     "00-Inbox/ping.md",
@@ -329,18 +338,12 @@
     "00-Inbox/Ping：网络连通性与延迟测试.md",
     "03-Resources/课程大纲：学习科学.md",
     "02-Areas/vim：命令行编辑器.md",
-    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "01-Projects/未命名.md",
     "01-Projects/未命名 1.md",
     "01-Projects/Untitled.md",
-    "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
-    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
     "00-Inbox/google.md",
     "00-Inbox/123.md",
     "02-Areas/Drawing 2025-07-17 09.40.22.excalidraw.md",
-    "00-Inbox/在这里粘贴新笔记链接.md",
     "FETCH_HEAD",
     "Flashcards",
     "Canvas/未命名.canvas",

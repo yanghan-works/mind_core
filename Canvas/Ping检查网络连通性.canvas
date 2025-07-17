@@ -5,9 +5,10 @@
 		{"id":"44da2b4e9fa85358","type":"file","file":"02-Areas/ping -c 指定发送次数.md","x":-150,"y":-560,"width":250,"height":60},
 		{"id":"4630c7f33cf0b308","type":"file","file":"02-Areas/ip地址，网络中的身份证.md","x":280,"y":-680,"width":250,"height":60},
 		{"id":"a6d0d5792e0ff3fd","type":"file","file":"02-Areas/域名，网络中的名字.md","x":280,"y":-560,"width":250,"height":60},
-		{"id":"6f5e639053057f69","type":"text","text":"主机","x":-220,"y":-290,"width":250,"height":60},
-		{"id":"c3bce1321cef03b5","type":"text","text":"路由器，主机，服务器","x":240,"y":-290,"width":250,"height":60},
-		{"id":"25df83a91e8a31bb","x":-150,"y":-760,"width":250,"height":50,"type":"file","file":"02-Areas/Ping：网络连通性与延迟测试.md"}
+		{"id":"25df83a91e8a31bb","type":"file","file":"02-Areas/Ping：网络连通性与延迟测试.md","x":-150,"y":-760,"width":250,"height":50},
+		{"id":"6f5e639053057f69","type":"text","text":"主机","x":-340,"y":-168,"width":250,"height":60},
+		{"id":"778c2a89d7808cdf","x":-25,"y":-168,"width":290,"height":60,"type":"file","file":"02-Areas/RTT和丢包率.md"},
+		{"id":"c3bce1321cef03b5","type":"text","text":"路由器，主机，服务器","x":530,"y":-168,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e90d68a4388eca36","fromNode":"6f5e639053057f69","fromSide":"top","toNode":"25df83a91e8a31bb","toSide":"left"},
@@ -15,7 +16,9 @@
 		{"id":"db9a429f861673a0","fromNode":"c40b4af0820659f0","fromSide":"right","toNode":"6a86b3f3a8c48420","toSide":"left"},
 		{"id":"2183a96424238d9e","fromNode":"44da2b4e9fa85358","fromSide":"right","toNode":"6a86b3f3a8c48420","toSide":"left"},
 		{"id":"2ea0fff0c885b71b","fromNode":"6f5e639053057f69","fromSide":"top","toNode":"c40b4af0820659f0","toSide":"left"},
-		{"id":"7bf50c918ad72ac7","fromNode":"6a86b3f3a8c48420","fromSide":"right","toNode":"c3bce1321cef03b5","toSide":"right","label":"发送ICMP数据包\n回复ICMP数据包"},
-		{"id":"6d8bcd75f385de75","fromNode":"25df83a91e8a31bb","fromSide":"right","toNode":"6a86b3f3a8c48420","toSide":"left"}
+		{"id":"7bf50c918ad72ac7","fromNode":"6a86b3f3a8c48420","fromSide":"right","toNode":"c3bce1321cef03b5","toSide":"top","label":"发送ICMP数据包\n\n"},
+		{"id":"6d8bcd75f385de75","fromNode":"25df83a91e8a31bb","fromSide":"right","toNode":"6a86b3f3a8c48420","toSide":"left"},
+		{"id":"7ef85426bf2a4c0d","fromNode":"778c2a89d7808cdf","fromSide":"left","toNode":"6f5e639053057f69","toSide":"right"},
+		{"id":"7132061cf14daa87","fromNode":"c3bce1321cef03b5","fromSide":"left","toNode":"778c2a89d7808cdf","toSide":"right","label":"回复ICMP数据包"}
 	]
 }
