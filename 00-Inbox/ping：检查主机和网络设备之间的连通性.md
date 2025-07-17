@@ -2,9 +2,6 @@
 date: 2025-07-17 21:58
 tags:
   - Cornell
-  - 
-cssclasses:
-  - cornell-notes
 ---
 > [!tip] 🎯 **核心 | Core** _目标 & 锚点：一句话锁定。
 > 检查网络连通性
