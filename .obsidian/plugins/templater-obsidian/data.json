@@ -25,6 +25,10 @@
     {
       "folder": "02-Areas",
       "template": "Templates/🔥 永恒之火 (Eternal Flame) 模板.md"
+    },
+    {
+      "folder": "01-Projects",
+      "template": "Templates/🚀 项目驾驶舱 (Project Cockpit).md"
     }
   ],
   "enable_file_templates": false,
