@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🌟 专业版康奈尔笔记模板"
+              "title": "未命名"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🌟 专业版康奈尔笔记模板 的关系图"
+              "title": "未命名 的关系图"
             }
           }
         ]
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
+                "file": "00-Inbox/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟 专业版康奈尔笔记模板 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -310,13 +310,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "15d0c464a1deac65",
   "lastOpenFiles": [
+    "Templates/🌟 专业版康奈尔笔记模板.md",
+    "00-Inbox/未命名.md",
+    "00-Inbox/你玩.md",
     "00-Inbox/未命名 4.md",
     "00-Inbox/未命名 2.md",
     "00-Inbox/未命名 1.md",
-    "00-Inbox/未命名.md",
-    "Templates/🌟 专业版康奈尔笔记模板.md",
     "00-Inbox/未命名 3.md",
     "01-Projects/未命名.md",
     "Templates/属性模板.md",
@@ -341,7 +342,6 @@
     "Attachments/Pasted image 20250717172008.png",
     "02-Areas/Ping 检查主机和网络设备连通性 2.md",
     "02-Areas/Ping 检查主机和网络设备连通性 2 2.md",
-    "02-Areas/Ping 检查主机和网络设备连通性.md",
     "Attachments/Pasted image 20250717170824.png",
     "FETCH_HEAD",
     "Flashcards",
