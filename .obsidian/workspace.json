@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping：网络连通性与延迟测试"
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping：网络连通性与延迟测试 的关系图"
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的关系图"
             }
           }
         ]
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ping：网络连通性与延迟测试 的出链列表"
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的出链列表"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping：网络连通性与延迟测试 的大纲"
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的大纲"
             }
           },
           {
@@ -312,12 +312,13 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
+    "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
+    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux/域名，网络中的名字.md",
     "02-Areas/Linux/ip地址，网络中的身份证.md",
     "02-Areas/Linux/丢包率.md",
     "02-Areas/Linux/RTT.md",
-    "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "02-Areas/Linux/ping -s 指定发送大小.md",
     "02-Areas/Linux/ping -c 指定发送次数.md",
