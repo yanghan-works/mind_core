@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 76.41065830721003,
+        "dimension": 76.56739811912226,
         "children": [
           {
             "id": "bbaa2a5aed54ab49",
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Linux/未命名.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "ping：检查主机和网络设备之间的连通性"
             }
           }
         ],
@@ -86,7 +86,7 @@
       {
         "id": "c31c46dcd24be30e",
         "type": "tabs",
-        "dimension": 23.58934169278997,
+        "dimension": 23.432601880877744,
         "children": [
           {
             "id": "8dc9b64ae943ce3f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Linux/未命名.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "未命名 的关系图"
+              "title": "ping：检查主机和网络设备之间的连通性 的关系图"
             }
           }
         ]
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Linux/未命名.md",
+                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "ping：检查主机和网络设备之间的连通性 的大纲"
             }
           },
           {
@@ -312,11 +312,12 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
     "02-Areas/Linux/未命名.md",
-    "02-Areas/ping 可以确认主机是否存活.md",
-    "02-Areas/ping 可以测量网络延迟 (RTT).md",
     "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+    "01-Projects/未命名.md",
+    "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
+    "02-Areas/ping 可以测量网络延迟 (RTT).md",
+    "02-Areas/ping 可以确认主机是否存活.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "Canvas/Ping检查网络连通性.canvas",
     "Templates/🌟 专业版康奈尔笔记模板.md",
@@ -329,7 +330,6 @@
     "00-Inbox/未命名 2.md",
     "00-Inbox/未命名 1.md",
     "00-Inbox/未命名 3.md",
-    "01-Projects/未命名.md",
     "Templates/属性模板.md",
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
