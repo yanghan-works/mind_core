@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IP 地址"
+              "title": "未命名"
             },
             "group": "5b6d4a711c45ea97"
           },
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IP 地址 的大纲"
+              "title": "未命名 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "IP 地址 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -340,12 +340,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "IP 地址 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -410,6 +410,17 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/费曼学习法.md",
+    "02-Areas/未命名.md",
+    "02-Areas/时间快.md",
+    "02-Areas/帕金森定律.md",
+    "02-Areas/番茄钟.md",
+    "02-Areas/交叉学习.md",
+    "02-Areas/间隔重复.md",
+    "02-Areas/主动回忆.md",
+    "02-Areas/高效学习方法.md",
+    "00-Inbox/ping：检查网络连通性.md",
+    "02-Areas/IP 地址.md",
     "03-Resources/精通的架构：科学学习实用指南.md",
     "03-Resources/沟通、共情与说服的终极修炼指南：从掌控自己到影响世界.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
@@ -418,9 +429,7 @@
     "02-Areas/域名.md",
     "02-Areas/丢包率.md",
     "Canvas/Ping检查网络连通性.canvas",
-    "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/TTL.md",
-    "02-Areas/IP 地址.md",
     "02-Areas/ICMP.md",
     "02-Areas/RTT.md",
     "02-Areas/DNS解析服务.md",
@@ -428,15 +437,6 @@
     "02-Areas/DHCP服务器.md",
     "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ip地址.md",
-    "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",
-    "Excalidraw/未命名.md",
-    "Templates/🌟 专业版康奈尔笔记模板.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
-    "Templates/YYYY-MM-DD.md",
-    "00-Inbox/未命名.md",
-    "02-Areas/Linux/未命名.md",
-    "01-Projects/未命名.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
