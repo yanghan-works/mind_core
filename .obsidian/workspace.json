@@ -16,9 +16,9 @@
               "state": {
                 "file": "Canvas/Ping检查网络连通性.canvas",
                 "viewState": {
-                  "x": 8,
-                  "y": -230,
-                  "zoom": -0.30857658019357154
+                  "x": -124,
+                  "y": -526.234375,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -257,17 +257,18 @@
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
     "02-Areas/Ping 检查网络连通性.md",
-    "Canvas/Ping检查网络连通性.canvas",
-    "02-Areas/丢包率.md",
+    "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ICMP.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/ip 地址.md",
+    "02-Areas/ip地址.md",
+    "02-Areas/丢包率.md",
     "02-Areas/RTT.md",
     "02-Areas/域名.md",
-    "02-Areas/ip地址.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",
     "Excalidraw/未命名.md",
     "00-Inbox/ping：检查网络连通性.md",
-    "02-Areas/ping：检查网络连通性.md",
     "Templates/🌟 专业版康奈尔笔记模板.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/YYYY-MM-DD.md",
@@ -281,7 +282,6 @@
     "Templates/HH：mm.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "00-Inbox/你玩.md",
-    "00-Inbox/未命名 4.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",

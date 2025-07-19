@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"3da389993c027f43","type":"group","x":-420,"y":-600,"width":640,"height":320,"label":"原子"},
-		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-400,"y":-580,"width":250,"height":60},
-		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-63,"y":-580,"width":250,"height":60},
-		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-400,"y":-480,"width":250,"height":60},
-		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-63,"y":-480,"width":250,"height":60},
-		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-400,"y":-380,"width":250,"height":60},
-		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-415,"y":-200,"width":477,"height":320}
+		{"id":"3da389993c027f43","type":"group","x":-560,"y":-860,"width":640,"height":320,"label":"原子"},
+		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-540,"y":-840,"width":250,"height":60},
+		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-203,"y":-840,"width":250,"height":60},
+		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-540,"y":-740,"width":250,"height":60},
+		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-203,"y":-740,"width":250,"height":60},
+		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-540,"y":-640,"width":250,"height":60},
+		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-560,"y":-500,"width":635,"height":280}
 	],
 	"edges":[]
 }
