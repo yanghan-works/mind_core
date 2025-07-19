@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IP 地址"
+              "title": "Ping 检查网络连通性"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "IP 地址 的关系图"
+              "title": "Ping 检查网络连通性 的关系图"
             }
           }
         ]
@@ -290,12 +290,12 @@
   },
   "active": "a18ff3324c15197e",
   "lastOpenFiles": [
+    "02-Areas/ICMP.md",
+    "02-Areas/IP 地址.md",
     "02-Areas/域名.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/DNS解析服务.md",
-    "02-Areas/IP 地址.md",
     "02-Areas/路由器.md",
-    "02-Areas/ICMP.md",
     "02-Areas/DHCP服务器.md",
     "02-Areas/RTT.md",
     "02-Areas/丢包率.md",
