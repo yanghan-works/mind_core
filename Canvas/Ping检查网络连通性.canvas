@@ -5,7 +5,7 @@
 		{"id":"fb3cf3da39cca9eb","type":"group","x":100,"y":-520,"width":318,"height":121,"label":"传输协议"},
 		{"id":"d3b5e6061fa921fc","type":"text","text":"ping","x":-737,"y":-490,"width":250,"height":60},
 		{"id":"17c3bab4335ea982","type":"text","text":"主机","x":-737,"y":-360,"width":250,"height":60},
-		{"id":"65b7f87719cfee97","type":"text","text":"[[ip 地址]]","x":-318,"y":-450,"width":250,"height":60},
+		{"id":"65b7f87719cfee97","type":"text","text":"[[IP 地址]]","x":-318,"y":-450,"width":250,"height":60},
 		{"id":"b9f94965d9f34eb8","type":"text","text":"[[域名]]","x":-318,"y":-540,"width":250,"height":60},
 		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":140,"y":-490,"width":250,"height":60},
 		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":560,"y":-490,"width":250,"height":60},

@@ -65,9 +65,57 @@
               "icon": "lucide-file",
               "title": "域名"
             }
+          },
+          {
+            "id": "82cb3db4101c8aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/域名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "域名"
+            }
+          },
+          {
+            "id": "1f4959e12334b15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/IP 地址.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IP 地址"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "c31c46dcd24be30e",
@@ -80,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/域名.md",
+                "file": "02-Areas/IP 地址.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "域名 的关系图"
+              "title": "IP 地址 的关系图"
             }
           }
         ]
@@ -192,17 +240,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4dc62fd6dcdf585",
+  "active": "1f4959e12334b15c",
   "lastOpenFiles": [
-    "Canvas/Ping检查网络连通性.canvas",
-    "02-Areas/Ping 检查网络连通性.md",
-    "02-Areas/RTT.md",
-    "02-Areas/ping：检查网络连通性.md",
-    "02-Areas/ICMP.md",
-    "02-Areas/ip 地址.md",
-    "02-Areas/ip地址.md",
-    "02-Areas/丢包率.md",
     "02-Areas/域名.md",
+    "02-Areas/IP 地址.md",
+    "02-Areas/RTT.md",
+    "02-Areas/ICMP.md",
+    "02-Areas/丢包率.md",
+    "02-Areas/DNS解析服务.md",
+    "02-Areas/Ping 检查网络连通性.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/ping：检查网络连通性.md",
+    "02-Areas/ip地址.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",
     "Excalidraw/未命名.md",

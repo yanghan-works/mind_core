@@ -11,7 +11,7 @@ created: 2025-07-19 09:08
 
 ## 如何使用 ping 命令？
 
-- Ping [[ip 地址]]或者[[域名]]
+- Ping [[IP 地址]]或者[[域名]]
 ```shell
 ping 8.8.8.8
 ping www.baidu.com
