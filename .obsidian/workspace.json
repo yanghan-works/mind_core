@@ -9,72 +9,23 @@
         "dimension": 76.56739811912226,
         "children": [
           {
-            "id": "bbaa2a5aed54ab49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resources/课程大纲：学习科学.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "课程大纲：学习科学"
-            }
-          },
-          {
-            "id": "a1d9dbcb3f33b8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/属性模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "属性模板"
-            }
-          },
-          {
-            "id": "15d0c464a1deac65",
+            "id": "a3c1d3433cebcb1d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas/Ping检查网络连通性.canvas",
                 "viewState": {
-                  "x": -177.5,
-                  "y": -272.296875,
-                  "zoom": 0
+                  "x": 8,
+                  "y": -230,
+                  "zoom": -0.30857658019357154
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Ping检查网络连通性"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c31c46dcd24be30e",
@@ -110,7 +61,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 1.000000000000004,
                   "close": false
                 }
               },
@@ -303,12 +254,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15d0c464a1deac65",
+  "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/Ping 检查网络连通性.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/丢包率.md",
+    "02-Areas/ICMP.md",
+    "02-Areas/RTT.md",
+    "02-Areas/域名.md",
+    "02-Areas/ip地址.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",
     "Excalidraw/未命名.md",
-    "Canvas/Ping检查网络连通性.canvas",
     "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/ping：检查网络连通性.md",
     "Templates/🌟 专业版康奈尔笔记模板.md",
@@ -325,13 +282,6 @@
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
     "00-Inbox/你玩.md",
     "00-Inbox/未命名 4.md",
-    "00-Inbox/未命名 2.md",
-    "00-Inbox/未命名 1.md",
-    "00-Inbox/未命名 3.md",
-    "Templates/属性模板.md",
-    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
-    "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "03-Resources/课程大纲：沟通、说服与共情.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",

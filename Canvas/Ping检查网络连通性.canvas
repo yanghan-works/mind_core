@@ -1,17 +1,12 @@
 {
 	"nodes":[
-		{"id":"3da389993c027f43","x":-420,"y":-600,"width":640,"height":320,"type":"group","label":"原子"},
-		{"id":"b532b4272615ff53","x":-399,"y":-240,"width":598,"height":320,"type":"group","label":"疑问"},
-		{"id":"aa07f395efa1dc17","type":"text","text":"Ping","x":-700,"y":-110,"width":250,"height":60},
-		{"id":"56ce5c56c266fdd6","type":"text","text":"ip地址","x":-400,"y":-580,"width":250,"height":60},
-		{"id":"55e121fea9cc6ec1","type":"text","text":"域名","x":-63,"y":-580,"width":250,"height":60},
-		{"id":"0d15f64851f67c2d","type":"text","text":"ICMP","x":-400,"y":-480,"width":250,"height":60},
-		{"id":"798409a7b2124ebb","type":"text","text":"RTT","x":-63,"y":-480,"width":250,"height":60},
-		{"id":"f33082ff4b2ca2c3","x":-400,"y":-380,"width":250,"height":60,"type":"text","text":"丢包率"},
-		{"id":"79d24acc2c8a3ec2","x":-379,"y":-220,"width":250,"height":60,"type":"text","text":"什么是Ping命令？"},
-		{"id":"77a57bb94adac645","x":-71,"y":-220,"width":250,"height":60,"type":"text","text":"Ping命令的工作原理？"},
-		{"id":"54b4310d9f2229d2","x":-379,"y":-110,"width":250,"height":60,"type":"text","text":"Ping命令能做什么？"},
-		{"id":"b040ed9de3aff26c","x":-379,"y":0,"width":250,"height":60,"type":"text","text":"怎么使用Ping命令？"}
+		{"id":"3da389993c027f43","type":"group","x":-420,"y":-600,"width":640,"height":320,"label":"原子"},
+		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-400,"y":-580,"width":250,"height":60},
+		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-63,"y":-580,"width":250,"height":60},
+		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-400,"y":-480,"width":250,"height":60},
+		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-63,"y":-480,"width":250,"height":60},
+		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-400,"y":-380,"width":250,"height":60},
+		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-415,"y":-200,"width":477,"height":320}
 	],
 	"edges":[]
 }
