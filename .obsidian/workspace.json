@@ -16,16 +16,58 @@
               "state": {
                 "file": "Canvas/Ping检查网络连通性.canvas",
                 "viewState": {
-                  "x": -185.84477150814718,
-                  "y": 165.7651143171692,
-                  "zoom": -0.29540119144583826
+                  "x": 22.5,
+                  "y": -570,
+                  "zoom": -0.826424885056191
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Ping检查网络连通性"
             }
+          },
+          {
+            "id": "85532acfc429b1c4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Ping检查网络连通性.canvas",
+                "viewState": {
+                  "x": 12.975014967821316,
+                  "y": -692.9934211130923,
+                  "zoom": -0.8005462532305855
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping检查网络连通性"
+            }
+          },
+          {
+            "id": "e4dc62fd6dcdf585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/域名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "域名"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c31c46dcd24be30e",
@@ -38,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
+                "file": "02-Areas/域名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,7 +108,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping检查网络连通性 的关系图"
+              "title": "域名 的关系图"
             }
           }
         ]
@@ -150,16 +192,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3c1d3433cebcb1d",
+  "active": "e4dc62fd6dcdf585",
   "lastOpenFiles": [
-    "02-Areas/Ping 检查网络连通性.md",
-    "02-Areas/ping：检查网络连通性.md",
     "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/RTT.md",
+    "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ICMP.md",
     "02-Areas/ip 地址.md",
     "02-Areas/ip地址.md",
     "02-Areas/丢包率.md",
-    "02-Areas/RTT.md",
     "02-Areas/域名.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",

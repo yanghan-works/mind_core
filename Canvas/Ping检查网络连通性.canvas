@@ -1,24 +1,26 @@
 {
 	"nodes":[
-		{"id":"3da389993c027f43","type":"group","x":-620,"y":-1000,"width":640,"height":320,"label":"原子"},
-		{"id":"f99f4618d269e2fe","x":-365,"y":290,"width":290,"height":210,"type":"group","label":"参数"},
-		{"id":"32cdbea3409a5580","x":-240,"y":60,"width":583,"height":100,"type":"group","label":"结果"},
-		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-600,"y":-980,"width":250,"height":60},
-		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-263,"y":-980,"width":250,"height":60},
-		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-600,"y":-880,"width":250,"height":60},
-		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-263,"y":-880,"width":250,"height":60},
-		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-600,"y":-780,"width":250,"height":60},
-		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-620,"y":-640,"width":635,"height":280},
-		{"id":"86da061faea3cc39","type":"text","text":"主机","x":-760,"y":-188,"width":250,"height":60},
-		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":80,"y":-188,"width":250,"height":60},
-		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":-220,"y":80,"width":250,"height":60},
-		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":73,"y":80,"width":250,"height":60},
-		{"id":"d3b5e6061fa921fc","x":-680,"y":280,"width":250,"height":60,"type":"text","text":"Ping"},
-		{"id":"65b7f87719cfee97","x":-345,"y":420,"width":250,"height":60,"type":"text","text":"[[ip 地址]]"},
-		{"id":"b9f94965d9f34eb8","x":-345,"y":310,"width":250,"height":60,"type":"text","text":"[[域名]]"}
+		{"id":"32cdbea3409a5580","type":"group","x":-560,"y":-200,"width":583,"height":100,"label":"结果"},
+		{"id":"f99f4618d269e2fe","type":"group","x":-338,"y":-560,"width":290,"height":200,"label":"参数"},
+		{"id":"fb3cf3da39cca9eb","type":"group","x":100,"y":-520,"width":318,"height":121,"label":"传输协议"},
+		{"id":"d3b5e6061fa921fc","type":"text","text":"ping","x":-737,"y":-490,"width":250,"height":60},
+		{"id":"17c3bab4335ea982","type":"text","text":"主机","x":-737,"y":-360,"width":250,"height":60},
+		{"id":"65b7f87719cfee97","type":"text","text":"[[ip 地址]]","x":-318,"y":-450,"width":250,"height":60},
+		{"id":"b9f94965d9f34eb8","type":"text","text":"[[域名]]","x":-318,"y":-540,"width":250,"height":60},
+		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":140,"y":-490,"width":250,"height":60},
+		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":560,"y":-490,"width":250,"height":60},
+		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":-540,"y":-180,"width":250,"height":60},
+		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":-247,"y":-180,"width":250,"height":60},
+		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-628,"y":-1420,"width":651,"height":660}
 	],
 	"edges":[
-		{"id":"9defb5a65fa559c4","fromNode":"86da061faea3cc39","fromSide":"right","toNode":"b41ff53604651678","toSide":"left"},
-		{"id":"1a4e0c2ce5c93836","fromNode":"b41ff53604651678","fromSide":"left","toNode":"86da061faea3cc39","toSide":"right","label":"发送\n返回"}
+		{"id":"89b97d1dc642334e","fromNode":"d3b5e6061fa921fc","fromSide":"right","toNode":"f99f4618d269e2fe","toSide":"left","label":"携带"},
+		{"id":"12f1f964ed24a09d","fromNode":"f99f4618d269e2fe","fromSide":"right","toNode":"fb3cf3da39cca9eb","toSide":"left","label":"通过"},
+		{"id":"775fc3e9fe577223","fromNode":"fb3cf3da39cca9eb","fromSide":"right","toNode":"b41ff53604651678","toSide":"left","label":"发送\n\n"},
+		{"id":"5ddf62ddf7b14508","fromNode":"b41ff53604651678","fromSide":"top","toNode":"fb3cf3da39cca9eb","toSide":"top","label":"返回"},
+		{"id":"06a55b16780d3150","fromNode":"b41ff53604651678","fromSide":"left","toNode":"fb3cf3da39cca9eb","toSide":"right","toEnd":"none"},
+		{"id":"59142de0e4234f0f","fromNode":"fb3cf3da39cca9eb","fromSide":"bottom","toNode":"32cdbea3409a5580","toSide":"right"},
+		{"id":"b2a4f103ea2f0a95","fromNode":"32cdbea3409a5580","fromSide":"left","toNode":"17c3bab4335ea982","toSide":"bottom"},
+		{"id":"10efa1165d74edcc","fromNode":"17c3bab4335ea982","fromSide":"top","toNode":"d3b5e6061fa921fc","toSide":"bottom"}
 	]
 }
