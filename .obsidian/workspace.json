@@ -64,8 +64,8 @@
               "state": {
                 "file": "Canvas/Ping检查网络连通性.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -177.5,
+                  "y": -272.296875,
                   "zoom": 0
                 }
               },
@@ -305,9 +305,12 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/ping：检查网络连通性.md",
-    "00-Inbox/ping：检查网络连通性.md",
+    "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-19 08.56.52.excalidraw.md",
+    "Excalidraw/未命名.md",
     "Canvas/Ping检查网络连通性.canvas",
+    "00-Inbox/ping：检查网络连通性.md",
+    "02-Areas/ping：检查网络连通性.md",
     "Templates/🌟 专业版康奈尔笔记模板.md",
     "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "Templates/YYYY-MM-DD.md",
@@ -329,8 +332,6 @@
     "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
     "03-Resources/课程大纲：沟通、说服与共情.md",
-    "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
-    "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
