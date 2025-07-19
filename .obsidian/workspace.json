@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/RTT.md",
+                "file": "02-Areas/路由器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RTT"
+              "title": "路由器"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/RTT.md",
+                "file": "02-Areas/路由器.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "RTT 的关系图"
+              "title": "路由器 的关系图"
             }
           }
         ]
@@ -290,16 +290,18 @@
   },
   "active": "a18ff3324c15197e",
   "lastOpenFiles": [
+    "02-Areas/TTL.md",
     "02-Areas/DHCP服务器.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/域名.md",
+    "02-Areas/RTT.md",
+    "02-Areas/丢包率.md",
+    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "02-Areas/IP 地址.md",
     "02-Areas/ICMP.md",
     "02-Areas/路由器.md",
-    "02-Areas/Ping 检查网络连通性.md",
-    "02-Areas/域名.md",
     "02-Areas/DNS解析服务.md",
-    "02-Areas/RTT.md",
-    "02-Areas/丢包率.md",
-    "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ip地址.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
@@ -314,9 +316,6 @@
     "01-Projects/未命名.md",
     "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
     "02-Areas/ping 可以测量网络延迟 (RTT).md",
-    "02-Areas/ping 可以确认主机是否存活.md",
-    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "Templates/HH：mm.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
