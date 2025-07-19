@@ -60,24 +60,17 @@
             "id": "15d0c464a1deac65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Canvas/Ping检查网络连通性.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "ping：检查主机和网络设备之间的连通性"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping检查网络连通性"
             }
           }
         ],
@@ -94,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+                "file": "Canvas/Ping检查网络连通性.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ping：检查主机和网络设备之间的连通性 的关系图"
+              "title": "Ping检查网络连通性 的关系图"
             }
           }
         ]
@@ -227,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+                "file": "Canvas/Ping检查网络连通性.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping：检查主机和网络设备之间的连通性 的大纲"
+              "title": "Ping检查网络连通性 的大纲"
             }
           },
           {
@@ -312,8 +305,12 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/Ping 检查主机与网络设备之间是否连接通畅.md",
-    "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+    "02-Areas/ping：检查网络连通性.md",
+    "00-Inbox/ping：检查网络连通性.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "Templates/🌟 专业版康奈尔笔记模板.md",
+    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
+    "Templates/YYYY-MM-DD.md",
     "00-Inbox/未命名.md",
     "02-Areas/Linux/未命名.md",
     "01-Projects/未命名.md",
@@ -321,12 +318,8 @@
     "02-Areas/ping 可以测量网络延迟 (RTT).md",
     "02-Areas/ping 可以确认主机是否存活.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "Canvas/Ping检查网络连通性.canvas",
-    "Templates/🌟 专业版康奈尔笔记模板.md",
     "Templates/HH：mm.md",
-    "Templates/YYYY-MM-DD.md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
     "00-Inbox/你玩.md",
     "00-Inbox/未命名 4.md",
     "00-Inbox/未命名 2.md",
@@ -338,7 +331,6 @@
     "03-Resources/课程大纲：沟通、说服与共情.md",
     "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
     "02-Areas/Linux/ping：网络排查流程.md",
-    "02-Areas/Linux/域名，网络中的名字.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
