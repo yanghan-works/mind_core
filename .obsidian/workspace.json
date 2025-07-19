@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 61.99238578680203,
+        "dimension": 68.52791878172589,
         "children": [
           {
             "id": "a3c1d3433cebcb1d",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,8 +29,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "最快速高效学习方法：认知科学原理与具体实践步骤"
-            }
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南"
+            },
+            "group": "5b6d4a711c45ea97"
           },
           {
             "id": "85532acfc429b1c4",
@@ -191,7 +192,7 @@
       {
         "id": "c31c46dcd24be30e",
         "type": "tabs",
-        "dimension": 38.00761421319797,
+        "dimension": 31.472081218274113,
         "children": [
           {
             "id": "8dc9b64ae943ce3f",
@@ -199,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,10 +228,27 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "最快速高效学习方法：认知科学原理与具体实践步骤 的关系图"
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的关系图"
             }
+          },
+          {
+            "id": "14625aa63c80c882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的大纲"
+            },
+            "group": "5b6d4a711c45ea97"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,10 +331,10 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "03-Resources/影响力的构建：高效沟通、说服与共情的领导者指南.md",
+    "03-Resources/影响力的艺术与科学：沟通、共情与说服综合指南.md",
+    "03-Resources/精通的架构：科学学习实用指南.md",
+    "03-Resources/批判性思维与问题解决：驾驭复杂性的原理与实践指南.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
-    "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/域名.md",
     "02-Areas/丢包率.md",
