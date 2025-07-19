@@ -113,9 +113,57 @@
               "icon": "lucide-file",
               "title": "IP 地址"
             }
+          },
+          {
+            "id": "26b847b050c1784e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/IP 地址.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IP 地址"
+            }
+          },
+          {
+            "id": "a18ff3324c15197e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/IP 地址.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IP 地址"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "c31c46dcd24be30e",
@@ -240,15 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f4959e12334b15c",
+  "active": "a18ff3324c15197e",
   "lastOpenFiles": [
     "02-Areas/域名.md",
-    "02-Areas/IP 地址.md",
-    "02-Areas/RTT.md",
-    "02-Areas/ICMP.md",
-    "02-Areas/丢包率.md",
-    "02-Areas/DNS解析服务.md",
     "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/DNS解析服务.md",
+    "02-Areas/IP 地址.md",
+    "02-Areas/路由器.md",
+    "02-Areas/ICMP.md",
+    "02-Areas/DHCP服务器.md",
+    "02-Areas/RTT.md",
+    "02-Areas/丢包率.md",
     "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ip地址.md",
@@ -267,8 +317,6 @@
     "02-Areas/ping 可以确认主机是否存活.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "Templates/HH：mm.md",
-    "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "00-Inbox/你玩.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
