@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+                "file": "02-Areas/Ping 检查主机与网络设备之间是否连接通畅.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping：检查主机和网络设备之间的连通性"
+              "title": "Ping 检查主机与网络设备之间是否连接通畅"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+                "file": "02-Areas/Ping 检查主机与网络设备之间是否连接通畅.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ping：检查主机和网络设备之间的连通性 的关系图"
+              "title": "Ping 检查主机与网络设备之间是否连接通畅 的关系图"
             }
           }
         ]
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+                "file": "02-Areas/Ping 检查主机与网络设备之间是否连接通畅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping：检查主机和网络设备之间的连通性 的大纲"
+              "title": "Ping 检查主机与网络设备之间是否连接通畅 的大纲"
             }
           },
           {
@@ -312,8 +312,10 @@
   },
   "active": "15d0c464a1deac65",
   "lastOpenFiles": [
-    "02-Areas/Linux/未命名.md",
     "00-Inbox/ping：检查主机和网络设备之间的连通性.md",
+    "02-Areas/Ping 检查主机与网络设备之间是否连接通畅.md",
+    "00-Inbox/未命名.md",
+    "02-Areas/Linux/未命名.md",
     "01-Projects/未命名.md",
     "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
     "02-Areas/ping 可以测量网络延迟 (RTT).md",
@@ -337,8 +339,6 @@
     "02-Areas/Linux/Ping：网络连通性与延迟测试.md",
     "02-Areas/Linux/ping：网络排查流程.md",
     "02-Areas/Linux/域名，网络中的名字.md",
-    "02-Areas/Linux/ip地址，网络中的身份证.md",
-    "02-Areas/Linux/丢包率.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
