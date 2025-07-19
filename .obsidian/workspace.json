@@ -12,17 +12,24 @@
             "id": "a3c1d3433cebcb1d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": -124,
-                  "y": -526.234375,
-                  "zoom": 0
+                "file": "02-Areas/Ping 检查网络连通性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
+              "icon": "lucide-file",
+              "title": "Ping 检查网络连通性"
             }
           }
         ]
@@ -38,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping检查网络连通性 的关系图"
+              "title": "Ping 检查网络连通性 的关系图"
             }
           }
         ]
@@ -171,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping检查网络连通性 的大纲"
+              "title": "Ping 检查网络连通性 的大纲"
             }
           },
           {
@@ -256,10 +263,10 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/ping：检查网络连通性.md",
-    "02-Areas/ICMP.md",
     "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/ICMP.md",
     "02-Areas/ip 地址.md",
     "02-Areas/ip地址.md",
     "02-Areas/丢包率.md",
