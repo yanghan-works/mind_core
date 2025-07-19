@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
+                "file": "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "解决方案的架构师：高效批判性思维与问题解决综合指南"
+              "title": "最快速高效学习方法：认知科学原理与具体实践步骤"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
+                "file": "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "解决方案的架构师：高效批判性思维与问题解决综合指南 的关系图"
+              "title": "最快速高效学习方法：认知科学原理与具体实践步骤 的关系图"
             }
           }
         ]
@@ -313,10 +313,10 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
-    "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
-    "03-Resources/课程大纲：沟通、说服与共情.md",
+    "03-Resources/影响力的构建：高效沟通、说服与共情的领导者指南.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+    "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
+    "03-Resources/最快速高效学习方法：认知科学原理与具体实践步骤.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/域名.md",
     "02-Areas/丢包率.md",
