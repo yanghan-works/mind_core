@@ -12,17 +12,24 @@
             "id": "a3c1d3433cebcb1d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": 22.5,
-                  "y": -570,
-                  "zoom": -0.826424885056191
+                "file": "03-Resources/课程大纲：学习科学.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
+              "icon": "lucide-file",
+              "title": "课程大纲：学习科学"
             }
           },
           {
@@ -179,8 +186,7 @@
               "title": "Ping 检查网络连通性"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "c31c46dcd24be30e",
@@ -193,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "03-Resources/课程大纲：学习科学.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping 检查网络连通性 的关系图"
+              "title": "课程大纲：学习科学 的关系图"
             }
           }
         ]
@@ -305,21 +311,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4b57c22b0d1fd86",
+  "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "Canvas/Ping检查网络连通性.canvas",
+    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+    "03-Resources/解决方案的架构师：高效批判性思维与问题解决综合指南.md",
+    "03-Resources/课程大纲：学习科学.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/域名.md",
+    "02-Areas/丢包率.md",
+    "Canvas/Ping检查网络连通性.canvas",
     "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/TTL.md",
     "02-Areas/IP 地址.md",
     "02-Areas/ICMP.md",
     "02-Areas/RTT.md",
-    "02-Areas/丢包率.md",
     "02-Areas/DNS解析服务.md",
     "02-Areas/路由器.md",
     "02-Areas/DHCP服务器.md",
-    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "02-Areas/ping：检查网络连通性.md",
     "02-Areas/ip地址.md",
     "Excalidraw/Drawing 2025-07-19 08.58.14.excalidraw.md",
@@ -332,7 +340,6 @@
     "02-Areas/Linux/未命名.md",
     "01-Projects/未命名.md",
     "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
-    "02-Areas/ping 可以测量网络延迟 (RTT).md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
