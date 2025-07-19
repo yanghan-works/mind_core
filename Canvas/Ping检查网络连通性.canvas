@@ -1,12 +1,24 @@
 {
 	"nodes":[
-		{"id":"3da389993c027f43","type":"group","x":-560,"y":-860,"width":640,"height":320,"label":"原子"},
-		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-540,"y":-840,"width":250,"height":60},
-		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-203,"y":-840,"width":250,"height":60},
-		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-540,"y":-740,"width":250,"height":60},
-		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-203,"y":-740,"width":250,"height":60},
-		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-540,"y":-640,"width":250,"height":60},
-		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-560,"y":-500,"width":635,"height":280}
+		{"id":"3da389993c027f43","type":"group","x":-620,"y":-1000,"width":640,"height":320,"label":"原子"},
+		{"id":"f99f4618d269e2fe","x":-365,"y":290,"width":290,"height":210,"type":"group","label":"参数"},
+		{"id":"32cdbea3409a5580","x":-240,"y":60,"width":583,"height":100,"type":"group","label":"结果"},
+		{"id":"56ce5c56c266fdd6","type":"text","text":"[[ip地址]]","x":-600,"y":-980,"width":250,"height":60},
+		{"id":"55e121fea9cc6ec1","type":"text","text":"[[域名]]","x":-263,"y":-980,"width":250,"height":60},
+		{"id":"0d15f64851f67c2d","type":"text","text":"[[ICMP]]","x":-600,"y":-880,"width":250,"height":60},
+		{"id":"798409a7b2124ebb","type":"text","text":"[[RTT]]","x":-263,"y":-880,"width":250,"height":60},
+		{"id":"f33082ff4b2ca2c3","type":"text","text":"[[丢包率]]","x":-600,"y":-780,"width":250,"height":60},
+		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性.md","x":-620,"y":-640,"width":635,"height":280},
+		{"id":"86da061faea3cc39","type":"text","text":"主机","x":-760,"y":-188,"width":250,"height":60},
+		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":80,"y":-188,"width":250,"height":60},
+		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":-220,"y":80,"width":250,"height":60},
+		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":73,"y":80,"width":250,"height":60},
+		{"id":"d3b5e6061fa921fc","x":-680,"y":280,"width":250,"height":60,"type":"text","text":"Ping"},
+		{"id":"65b7f87719cfee97","x":-345,"y":420,"width":250,"height":60,"type":"text","text":"[[ip 地址]]"},
+		{"id":"b9f94965d9f34eb8","x":-345,"y":310,"width":250,"height":60,"type":"text","text":"[[域名]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9defb5a65fa559c4","fromNode":"86da061faea3cc39","fromSide":"right","toNode":"b41ff53604651678","toSide":"left"},
+		{"id":"1a4e0c2ce5c93836","fromNode":"b41ff53604651678","fromSide":"left","toNode":"86da061faea3cc39","toSide":"right","label":"发送\n返回"}
+	]
 }

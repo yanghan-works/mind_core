@@ -6,30 +6,23 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 76.56739811912226,
+        "dimension": 61.99238578680203,
         "children": [
           {
             "id": "a3c1d3433cebcb1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Canvas/Ping检查网络连通性.canvas",
+                "viewState": {
+                  "x": -185.84477150814718,
+                  "y": 165.7651143171692,
+                  "zoom": -0.29540119144583826
                 }
               },
-              "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping检查网络连通性"
             }
           }
         ]
@@ -37,7 +30,7 @@
       {
         "id": "c31c46dcd24be30e",
         "type": "tabs",
-        "dimension": 23.432601880877744,
+        "dimension": 38.00761421319797,
         "children": [
           {
             "id": "8dc9b64ae943ce3f",
@@ -45,7 +38,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "Canvas/Ping检查网络连通性.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +66,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping 检查网络连通性 的关系图"
+              "title": "Ping检查网络连通性 的关系图"
             }
           }
         ]
@@ -138,114 +131,10 @@
   "right": {
     "id": "886f1be8c587b705",
     "type": "split",
-    "children": [
-      {
-        "id": "09102da91de121a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7573bdd248bd0cf9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "1e4a32b22889b5fe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Templates/🌟 专业版康奈尔笔记模板.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "🌟 专业版康奈尔笔记模板 的出链列表"
-            }
-          },
-          {
-            "id": "4c8822225dd87751",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Ping 检查网络连通性 的大纲"
-            }
-          },
-          {
-            "id": "ca6be307c5c9ee95",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "💧 清泉日记 (Clear Spring Journal) 模板 的反向链接列表"
-            }
-          },
-          {
-            "id": "fc5629de07a24715",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "01af3e3b043a0616",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "c7136e44fde9880e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,9 +152,9 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/ping：检查网络连通性.md",
     "Canvas/Ping检查网络连通性.canvas",
-    "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/ICMP.md",
     "02-Areas/ip 地址.md",
     "02-Areas/ip地址.md",
