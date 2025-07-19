@@ -159,17 +159,24 @@
             "id": "f4b57c22b0d1fd86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": 36.5,
-                  "y": -491.98372569089054,
-                  "zoom": -0.8005462532305855
+                "file": "02-Areas/Ping 检查网络连通性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
+              "icon": "lucide-file",
+              "title": "Ping 检查网络连通性"
             }
           }
         ],
@@ -186,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping检查网络连通性 的关系图"
+              "title": "Ping 检查网络连通性 的关系图"
             }
           }
         ]
@@ -300,9 +307,9 @@
   },
   "active": "f4b57c22b0d1fd86",
   "lastOpenFiles": [
+    "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/域名.md",
-    "Canvas/Ping检查网络连通性.canvas",
     "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/TTL.md",
     "02-Areas/IP 地址.md",
