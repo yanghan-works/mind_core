@@ -3,6 +3,7 @@ tags:
   - 网络排查
   - 网络
   - Linux
+  - ping
 aliases: 
 created: 2025-07-19 09:08
 ---
