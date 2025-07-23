@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/交叉学习.md",
+                "file": "02-Areas/间隔重复.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,163 +29,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "交叉学习"
+              "title": "间隔重复"
             },
             "group": "5b6d4a711c45ea97"
-          },
-          {
-            "id": "85532acfc429b1c4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": 12.975014967821316,
-                  "y": -692.9934211130923,
-                  "zoom": -0.8005462532305855
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
-            }
-          },
-          {
-            "id": "e4dc62fd6dcdf585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/域名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "域名"
-            }
-          },
-          {
-            "id": "82cb3db4101c8aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/域名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "域名"
-            }
-          },
-          {
-            "id": "1f4959e12334b15c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/IP 地址.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IP 地址"
-            }
-          },
-          {
-            "id": "26b847b050c1784e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/IP 地址.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IP 地址"
-            }
-          },
-          {
-            "id": "a18ff3324c15197e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/Ping检查网络连通性.canvas",
-                "viewState": {
-                  "x": 36.5,
-                  "y": -614.028647509403,
-                  "zoom": -0.8005462532305855
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping检查网络连通性"
-            }
-          },
-          {
-            "id": "f4b57c22b0d1fd86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
-            }
           }
         ]
       },
@@ -237,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/交叉学习.md",
+                "file": "02-Areas/间隔重复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "交叉学习 的大纲"
+              "title": "间隔重复 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -410,12 +256,12 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/交叉学习.md",
     "02-Areas/主动回忆.md",
     "02-Areas/高效学习方法.md",
     "02-Areas/间隔重复.md",
     "02-Areas/类比法.md",
     "03-Resources/超级学习系统.md",
-    "02-Areas/交叉学习.md",
     "02-Areas/帕金森定律.md",
     "02-Areas/组块化.md",
     "02-Areas/番茄钟.md",
