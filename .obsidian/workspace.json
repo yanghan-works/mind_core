@@ -6,7 +6,6 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 68.52791878172589,
         "children": [
           {
             "id": "a3c1d3433cebcb1d",
@@ -29,36 +28,43 @@
             "id": "b42cfbd7bfe5d23b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Areas/Ping 测试网络连接性.canvas",
-                "viewState": {
-                  "x": 315,
-                  "y": -659,
-                  "zoom": -0.9899463353360769
+                "file": "02-Areas/Ping 测试网络连接性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Ping 测试网络连接性"
-            }
+            },
+            "group": "6406ecf38fc58b07"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "c31c46dcd24be30e",
+        "id": "4d979bf83bdad6ba",
         "type": "tabs",
-        "dimension": 31.472081218274113,
         "children": [
           {
-            "id": "8dc9b64ae943ce3f",
+            "id": "c90513c9791cb825",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping 测试网络连接性.canvas",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -79,13 +85,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224458,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Ping 测试网络连接性 的关系图"
-            }
+            },
+            "group": "6406ecf38fc58b07"
           }
         ]
       }
@@ -160,8 +167,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
-                "collapseAll": false,
+                "file": "02-Areas/Ping 测试网络连接性.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -170,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "高效学习方法 的反向链接列表"
+              "title": "Ping 测试网络连接性 的反向链接列表"
             }
           },
           {
@@ -232,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Ping 测试网络连接性.canvas",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,15 +269,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b42cfbd7bfe5d23b",
+  "active": "c90513c9791cb825",
   "lastOpenFiles": [
-    "02-Areas/Ping 测试网络连接性.md",
+    "02-Areas/未命名.canvas",
     "02-Areas/Ping 测试网络连接性.canvas",
+    "02-Areas/高效学习方法.md",
+    "02-Areas/批判性思维与问题解决.md",
+    "02-Areas/Ping 测试网络连接性.md",
+    "Excalidraw/Drawing 2025-07-24 18.44.37.excalidraw.md",
+    "Excalidraw",
     "02-Areas/IP 地址.md",
     "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
     "00-Inbox/ping：检查网络连通性.md",
-    "02-Areas/高效学习方法.md",
-    "02-Areas/批判性思维与问题解决.md",
     "00-Inbox/未命名.md",
     "Templates/🌟 康奈尔笔记模板.md",
     "02-Areas/Cynefin 框架.md",
@@ -289,7 +299,6 @@
     "02-Areas/DNS解析服务.md",
     "02-Areas/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "02-Areas/ping：检查网络连通性.md",
-    "02-Areas/未命名 11.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
@@ -299,7 +308,6 @@
     "Canvas/未命名.canvas",
     "Daily Notes",
     "DailyNotes",
-    "Excalidraw",
     "Canvas",
     "Attachments",
     "Templates",
