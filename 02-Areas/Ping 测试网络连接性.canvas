@@ -6,16 +6,16 @@
 		{"id":"fb3cf3da39cca9eb","type":"group","x":560,"y":-818,"width":318,"height":121,"label":"传输协议"},
 		{"id":"b9f94965d9f34eb8","type":"text","text":"[[域名]]","x":121,"y":-898,"width":250,"height":60},
 		{"id":"140f8e616a61c8f6","type":"text","text":"[[DNS]]","x":121,"y":-798,"width":250,"height":60},
-		{"id":"65b7f87719cfee97","type":"text","text":"[[IP 地址]]","x":121,"y":-689,"width":250,"height":60},
+		{"id":"65b7f87719cfee97","type":"text","text":"[[IP Address]]","x":121,"y":-689,"width":250,"height":60},
 		{"id":"17c3bab4335ea982","type":"text","text":"[[主机]]","x":-280,"y":-460,"width":250,"height":60},
-		{"id":"bc75fe81e16110c5","type":"text","text":"","x":-640,"y":-460,"width":250,"height":60},
+		{"id":"bc75fe81e16110c5","type":"text","text":"[[Ping 测试网络连接性]]","x":-640,"y":-460,"width":250,"height":60},
+		{"id":"c28752bbe03eb766","type":"text","text":"-c","x":-640,"y":-786,"width":250,"height":60},
+		{"id":"39e7fbbcf72fe233","type":"text","text":"-s","x":-376,"y":-790,"width":250,"height":60},
 		{"id":"b41ff53604651678","type":"text","text":"目标主机","x":1040,"y":-796,"width":250,"height":60},
 		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":600,"y":-796,"width":250,"height":60},
 		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":150,"y":-460,"width":250,"height":60},
 		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":443,"y":-460,"width":250,"height":60},
-		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":713,"y":-460,"width":250,"height":60},
-		{"id":"c28752bbe03eb766","type":"text","text":"-c","x":-640,"y":-786,"width":250,"height":60},
-		{"id":"39e7fbbcf72fe233","type":"text","text":"-s","x":-376,"y":-790,"width":250,"height":60}
+		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":713,"y":-460,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"89b97d1dc642334e","fromNode":"bc75fe81e16110c5","fromSide":"top","toNode":"56ccc542b7066694","toSide":"bottom","label":"携带"},

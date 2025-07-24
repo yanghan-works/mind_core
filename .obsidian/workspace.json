@@ -33,9 +33,9 @@
               "state": {
                 "file": "02-Areas/Ping 测试网络连接性.canvas",
                 "viewState": {
-                  "x": -152.5158945945334,
-                  "y": -575.0468004539172,
-                  "zoom": -0.3333333333333334
+                  "x": 315,
+                  "y": -659,
+                  "zoom": -0.9899463353360769
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -264,9 +264,10 @@
   },
   "active": "b42cfbd7bfe5d23b",
   "lastOpenFiles": [
-    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
-    "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/Ping 测试网络连接性.md",
+    "02-Areas/Ping 测试网络连接性.canvas",
+    "02-Areas/IP 地址.md",
+    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
     "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/高效学习方法.md",
     "02-Areas/批判性思维与问题解决.md",
@@ -289,7 +290,6 @@
     "02-Areas/Drawing 2025-07-19 08.58.14.excalidraw.md",
     "02-Areas/ping：检查网络连通性.md",
     "02-Areas/未命名 11.md",
-    "02-Areas/Drawing 2025-07-19 08.56.52.excalidraw.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
