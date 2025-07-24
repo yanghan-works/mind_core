@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 37.56345177664975,
+        "dimension": 68.2741116751269,
         "children": [
           {
             "id": "a3c1d3433cebcb1d",
@@ -40,8 +40,7 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Ping 测试网络连接性"
-            },
-            "group": "6406ecf38fc58b07"
+            }
           },
           {
             "id": "5506d3f40e7108ac",
@@ -60,12 +59,17 @@
             "id": "77a3896083cdc77c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md"
+                "file": "02-Areas/Ping 测试网络连接性.canvas",
+                "viewState": {
+                  "x": 315,
+                  "y": -659,
+                  "zoom": -0.9952995698302837
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-24 18.59.00.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping 测试网络连接性"
             }
           }
         ],
@@ -74,7 +78,7 @@
       {
         "id": "31190ca85f16ab92",
         "type": "tabs",
-        "dimension": 37.56345177664975,
+        "dimension": 31.725888324873097,
         "children": [
           {
             "id": "caf880d029caa031",
@@ -113,51 +117,6 @@
               "title": "Drawing 2025-07-24 18.59.00.excalidraw 的关系图"
             },
             "group": "0358290dc1d2c095"
-          }
-        ]
-      },
-      {
-        "id": "4d979bf83bdad6ba",
-        "type": "tabs",
-        "dimension": 24.873096446700504,
-        "children": [
-          {
-            "id": "c90513c9791cb825",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02-Areas/Ping 测试网络连接性.canvas",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Ping 测试网络连接性 的关系图"
-            },
-            "group": "6406ecf38fc58b07"
           }
         ]
       }
@@ -232,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md",
+                "file": "02-Areas/Ping 测试网络连接性.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing 2025-07-24 18.59.00.excalidraw 的反向链接列表"
+              "title": "Ping 测试网络连接性 的反向链接列表"
             }
           },
           {
@@ -304,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md",
+                "file": "02-Areas/Ping 测试网络连接性.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-24 18.59.00.excalidraw 的大纲"
+              "title": "Ping 测试网络连接性 的大纲"
             }
           }
         ]
@@ -336,13 +295,15 @@
   },
   "active": "77a3896083cdc77c",
   "lastOpenFiles": [
-    "02-Areas/主机.md",
+    "03-Resources/精通的架构：科学学习实用指南.md",
+    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md",
+    "02-Areas/未命名.canvas",
+    "02-Areas/主机.md",
     "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/Ping 测试网络连接性.md",
     "03-Resources/软件开发流程.md",
     "03-Resources/超级学习系统.md",
-    "02-Areas/未命名.canvas",
     "02-Areas/高效学习方法.md",
     "02-Areas/批判性思维与问题解决.md",
     "Excalidraw/Drawing 2025-07-24 18.44.37.excalidraw.md",
@@ -363,7 +324,6 @@
     "02-Areas/根本原因分析.md",
     "02-Areas/六顶思考帽.md",
     "02-Areas/思维导图.md",
-    "02-Areas/DHCP服务器.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
