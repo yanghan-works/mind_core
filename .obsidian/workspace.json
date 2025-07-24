@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/超级学习系统.md",
+                "file": "02-Areas/grep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "超级学习系统"
+              "title": "grep"
             }
           }
         ],
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/超级学习系统.md",
+                "file": "02-Areas/grep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "超级学习系统 的反向链接列表"
+              "title": "grep 的反向链接列表"
             }
           },
           {
@@ -311,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/超级学习系统.md",
+                "file": "02-Areas/grep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "超级学习系统 的大纲"
+              "title": "grep 的大纲"
             }
           }
         ]
@@ -341,8 +341,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d09ab45da2e5405c",
+  "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "02-Areas/sed.md",
+    "02-Areas/awk.md",
+    "02-Areas/grep.md",
+    "03-Resources/超级学习系统.md",
     "03-Resources/软件开发流程.md",
     "02-Areas/基础正则表达式BRE.md",
     "02-Areas/正则表达式.md",
@@ -357,7 +361,6 @@
     "02-Areas/ICMP.md",
     "02-Areas/TTL.md",
     "02-Areas/未命名.canvas",
-    "03-Resources/超级学习系统.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "03-Resources/精通的架构：科学学习实用指南.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
@@ -369,9 +372,6 @@
     "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
     "00-Inbox/ping：检查网络连通性.md",
     "00-Inbox/未命名.md",
-    "Templates/🌟 康奈尔笔记模板.md",
-    "02-Areas/Cynefin 框架.md",
-    "02-Areas/设计思维.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
