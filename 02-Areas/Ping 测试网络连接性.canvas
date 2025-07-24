@@ -1,26 +1,35 @@
 {
 	"nodes":[
-		{"id":"32cdbea3409a5580","type":"group","x":-560,"y":-200,"width":860,"height":100,"label":"关键指标"},
-		{"id":"f99f4618d269e2fe","type":"group","x":-338,"y":-560,"width":290,"height":200,"label":"参数"},
-		{"id":"fb3cf3da39cca9eb","type":"group","x":100,"y":-520,"width":318,"height":121,"label":"传输协议"},
-		{"id":"17c3bab4335ea982","type":"text","text":"主机","x":-737,"y":-360,"width":250,"height":60},
-		{"id":"65b7f87719cfee97","type":"text","text":"[[IP 地址]]","x":-318,"y":-450,"width":250,"height":60},
-		{"id":"b9f94965d9f34eb8","type":"text","text":"[[域名]]","x":-318,"y":-540,"width":250,"height":60},
-		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":-540,"y":-180,"width":250,"height":60},
-		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":140,"y":-490,"width":250,"height":60},
-		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":560,"y":-490,"width":250,"height":60},
-		{"id":"bc75fe81e16110c5","type":"text","text":"[[Ping 检查网络连通性 很好的版本，但是摩擦力太大]]","x":-737,"y":-490,"width":250,"height":60},
-		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":-247,"y":-180,"width":250,"height":60},
-		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":23,"y":-180,"width":250,"height":60}
+		{"id":"f99f4618d269e2fe","type":"group","x":101,"y":-938,"width":298,"height":360,"label":"参数"},
+		{"id":"32cdbea3409a5580","type":"group","x":130,"y":-480,"width":860,"height":100,"label":"关键指标"},
+		{"id":"56ccc542b7066694","type":"group","x":-660,"y":-810,"width":554,"height":104,"label":"选项"},
+		{"id":"fb3cf3da39cca9eb","type":"group","x":560,"y":-818,"width":318,"height":121,"label":"传输协议"},
+		{"id":"b9f94965d9f34eb8","type":"text","text":"[[域名]]","x":121,"y":-898,"width":250,"height":60},
+		{"id":"140f8e616a61c8f6","type":"text","text":"[[DNS]]","x":121,"y":-798,"width":250,"height":60},
+		{"id":"65b7f87719cfee97","type":"text","text":"[[IP 地址]]","x":121,"y":-689,"width":250,"height":60},
+		{"id":"17c3bab4335ea982","type":"text","text":"[[主机]]","x":-280,"y":-460,"width":250,"height":60},
+		{"id":"bc75fe81e16110c5","type":"text","text":"","x":-640,"y":-460,"width":250,"height":60},
+		{"id":"b41ff53604651678","type":"text","text":"目标主机","x":1040,"y":-796,"width":250,"height":60},
+		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":600,"y":-796,"width":250,"height":60},
+		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":150,"y":-460,"width":250,"height":60},
+		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":443,"y":-460,"width":250,"height":60},
+		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":713,"y":-460,"width":250,"height":60},
+		{"id":"c28752bbe03eb766","type":"text","text":"-c","x":-640,"y":-786,"width":250,"height":60},
+		{"id":"39e7fbbcf72fe233","type":"text","text":"-s","x":-376,"y":-790,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"89b97d1dc642334e","fromNode":"bc75fe81e16110c5","fromSide":"right","toNode":"f99f4618d269e2fe","toSide":"left","label":"携带"},
+		{"id":"89b97d1dc642334e","fromNode":"bc75fe81e16110c5","fromSide":"top","toNode":"56ccc542b7066694","toSide":"bottom","label":"携带"},
 		{"id":"12f1f964ed24a09d","fromNode":"f99f4618d269e2fe","fromSide":"right","toNode":"fb3cf3da39cca9eb","toSide":"left","label":"通过"},
 		{"id":"775fc3e9fe577223","fromNode":"fb3cf3da39cca9eb","fromSide":"right","toNode":"b41ff53604651678","toSide":"left","label":"发送\n\n"},
 		{"id":"5ddf62ddf7b14508","fromNode":"b41ff53604651678","fromSide":"top","toNode":"fb3cf3da39cca9eb","toSide":"top","label":"返回"},
 		{"id":"06a55b16780d3150","fromNode":"b41ff53604651678","fromSide":"left","toNode":"fb3cf3da39cca9eb","toSide":"right","toEnd":"none"},
-		{"id":"59142de0e4234f0f","fromNode":"fb3cf3da39cca9eb","fromSide":"bottom","toNode":"32cdbea3409a5580","toSide":"right"},
-		{"id":"b2a4f103ea2f0a95","fromNode":"32cdbea3409a5580","fromSide":"left","toNode":"17c3bab4335ea982","toSide":"bottom"},
-		{"id":"6643cccb4709dbce","fromNode":"17c3bab4335ea982","fromSide":"top","toNode":"bc75fe81e16110c5","toSide":"bottom"}
+		{"id":"59142de0e4234f0f","fromNode":"fb3cf3da39cca9eb","fromSide":"bottom","toNode":"b6e374352b0c42f6","toSide":"top"},
+		{"id":"b2a4f103ea2f0a95","fromNode":"32cdbea3409a5580","fromSide":"left","toNode":"17c3bab4335ea982","toSide":"right"},
+		{"id":"6643cccb4709dbce","fromNode":"17c3bab4335ea982","fromSide":"left","toNode":"bc75fe81e16110c5","toSide":"right"},
+		{"id":"209a80a121fc0a89","fromNode":"140f8e616a61c8f6","fromSide":"top","toNode":"b9f94965d9f34eb8","toSide":"bottom"},
+		{"id":"afe6467df04692b6","fromNode":"65b7f87719cfee97","fromSide":"top","toNode":"140f8e616a61c8f6","toSide":"bottom"},
+		{"id":"ba14014b371a00c6","fromNode":"140f8e616a61c8f6","fromSide":"bottom","toNode":"65b7f87719cfee97","toSide":"top"},
+		{"id":"2c99632f0f883ac6","fromNode":"b9f94965d9f34eb8","fromSide":"bottom","toNode":"140f8e616a61c8f6","toSide":"top"},
+		{"id":"a5f142d08a9d37e5","fromNode":"56ccc542b7066694","fromSide":"right","toNode":"f99f4618d269e2fe","toSide":"left"}
 	]
 }
