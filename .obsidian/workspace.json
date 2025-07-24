@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "file": "02-Areas/二阶思维.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南"
+              "title": "二阶思维"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "file": "02-Areas/二阶思维.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的关系图"
+              "title": "二阶思维 的关系图"
             }
           },
           {
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "file": "02-Areas/二阶思维.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的大纲"
+              "title": "二阶思维 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -255,32 +255,32 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "03-Resources/软件开发流程.md",
-    "03-Resources/超级学习系统.md",
-    "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
-    "02-Areas/IP 地址.md",
-    "02-Areas/类比法.md",
-    "02-Areas/社会性学习.md",
+    "02-Areas/评估信息来源.md",
+    "02-Areas/区分观察、推断与判断.md",
+    "02-Areas/心态理论.md",
+    "02-Areas/环境设计.md",
     "02-Areas/元认知.md",
-    "02-Areas/T型人才模型.md",
+    "02-Areas/社会性学习.md",
+    "02-Areas/身心状态管理.md",
     "02-Areas/第一性原则.md",
-    "02-Areas/丢包率.md",
-    "02-Areas/域名.md",
-    "02-Areas/TTL.md",
-    "02-Areas/5 Whys (灵魂五问法).md",
-    "02-Areas/间隔重复.md",
-    "02-Areas/交叉学习.md",
-    "02-Areas/主动回忆.md",
-    "02-Areas/高效学习方法.md",
-    "02-Areas/帕金森定律.md",
-    "02-Areas/组块化.md",
-    "02-Areas/番茄钟.md",
-    "02-Areas/费曼学习法.md",
+    "02-Areas/T型人才模型.md",
     "02-Areas/自我解释.md",
-    "02-Areas/具体实例.md",
     "02-Areas/双重编码.md",
+    "02-Areas/具体实例.md",
+    "02-Areas/类比法.md",
     "02-Areas/刻意练习.md",
+    "02-Areas/主动回忆.md",
+    "02-Areas/时间块.md",
+    "02-Areas/番茄钟.md",
+    "02-Areas/组块化.md",
+    "02-Areas/艾宾浩斯记忆曲线.md",
+    "02-Areas/费曼学习法.md",
+    "02-Areas/交叉学习.md",
+    "02-Areas/间隔重复.md",
+    "02-Areas/高效学习方法.md",
+    "03-Resources/超级学习系统.md",
+    "02-Areas/TTL.md",
+    "02-Areas/IP 地址.md",
     "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
