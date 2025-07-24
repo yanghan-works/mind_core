@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
+              "title": "Ping 测试网络连接性"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,12 +69,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.401982897776108,
+                  "scale": 0.7132754626224458,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping 检查网络连通性 的关系图"
+              "title": "Ping 测试网络连接性 的关系图"
             }
           },
           {
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 检查网络连通性 的大纲"
+              "title": "Ping 测试网络连接性 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -259,7 +259,7 @@
     "02-Areas/IP 地址.md",
     "03-Resources/软件开发流程.md",
     "03-Resources/超级学习系统.md",
-    "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/Ping 测试网络连接性.md",
     "02-Areas/类比法.md",
     "02-Areas/社会性学习.md",
     "02-Areas/元认知.md",
