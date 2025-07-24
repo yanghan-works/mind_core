@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "03-Resources/软件开发流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
+              "title": "软件开发流程"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "03-Resources/软件开发流程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ping 检查网络连通性 的关系图"
+              "title": "软件开发流程 的关系图"
             }
           },
           {
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/Ping 检查网络连通性.md",
+                "file": "03-Resources/软件开发流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 检查网络连通性 的大纲"
+              "title": "软件开发流程 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -255,16 +255,16 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
-    "02-Areas/Ping 检查网络连通性.md",
-    "02-Areas/IP 地址.md",
     "03-Resources/超级学习系统.md",
+    "03-Resources/软件开发流程.md",
+    "02-Areas/Ping 检查网络连通性.md",
+    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
+    "02-Areas/IP 地址.md",
     "02-Areas/类比法.md",
     "02-Areas/社会性学习.md",
     "02-Areas/元认知.md",
     "02-Areas/T型人才模型.md",
     "02-Areas/第一性原则.md",
-    "03-Resources/软件开发流程.md",
     "02-Areas/丢包率.md",
     "02-Areas/域名.md",
     "02-Areas/TTL.md",
