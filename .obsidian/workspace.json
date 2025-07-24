@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "高效学习方法"
+              "title": "Ping 测试网络连接性"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "02-Areas/Ping 测试网络连接性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,22 +74,31 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "高效学习方法 的关系图"
+              "title": "Ping 测试网络连接性 的关系图"
             }
           },
           {
             "id": "14625aa63c80c882",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "02-Areas/Ping 测试网络连接性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-list",
-              "title": "高效学习方法 的大纲"
+              "icon": "lucide-file",
+              "title": "Ping 测试网络连接性"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -231,6 +240,21 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "69064968100db8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Areas/Ping 测试网络连接性.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Ping 测试网络连接性 的大纲"
+            }
           }
         ]
       }
@@ -255,10 +279,14 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/域名.md",
+    "02-Areas/Ping 测试网络连接性.md",
+    "02-Areas/批判性思维与问题解决.md",
+    "02-Areas/高效学习方法.md",
+    "02-Areas/认知偏误.md",
     "02-Areas/组块化.md",
     "02-Areas/番茄钟.md",
     "02-Areas/心态理论.md",
-    "02-Areas/认知偏误.md",
     "02-Areas/六顶思考帽.md",
     "02-Areas/区分观察、推断与判断.md",
     "02-Areas/评估信息来源.md",
@@ -268,8 +296,6 @@
     "02-Areas/二阶思维.md",
     "02-Areas/设计思维.md",
     "02-Areas/Cynefin 框架.md",
-    "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/批判性思维与问题解决.md",
     "02-Areas/5 Whys (灵魂五问法).md",
     "02-Areas/环境设计.md",
     "02-Areas/元认知.md",
@@ -279,8 +305,6 @@
     "02-Areas/T型人才模型.md",
     "02-Areas/自我解释.md",
     "02-Areas/双重编码.md",
-    "02-Areas/具体实例.md",
-    "02-Areas/类比法.md",
     "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
