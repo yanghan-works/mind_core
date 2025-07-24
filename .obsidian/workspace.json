@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/超级学习系统.md",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "超级学习系统"
+              "title": "Ping 检查网络连通性"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/IP 地址.md",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,12 +69,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012131,
+                  "scale": 1.401982897776108,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "IP 地址 的关系图"
+              "title": "Ping 检查网络连通性 的关系图"
             }
           },
           {
@@ -83,18 +83,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/超级学习系统.md",
+                "file": "02-Areas/Ping 检查网络连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "超级学习系统 的大纲"
+              "title": "Ping 检查网络连通性 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,17 +255,17 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
+    "02-Areas/IP 地址.md",
+    "03-Resources/超级学习系统.md",
     "02-Areas/类比法.md",
     "02-Areas/社会性学习.md",
     "02-Areas/元认知.md",
     "02-Areas/T型人才模型.md",
     "02-Areas/第一性原则.md",
-    "03-Resources/超级学习系统.md",
     "03-Resources/软件开发流程.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/丢包率.md",
     "02-Areas/域名.md",
-    "02-Areas/IP 地址.md",
     "02-Areas/TTL.md",
     "02-Areas/5 Whys (灵魂五问法).md",
     "02-Areas/间隔重复.md",
