@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/基础正则表达式BRE.md",
+                "file": "03-Resources/超级学习系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基础正则表达式BRE"
+              "title": "超级学习系统"
             }
           }
         ],
@@ -157,7 +157,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.4019828977761022,
                   "close": false
                 }
               },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/基础正则表达式BRE.md",
+                "file": "03-Resources/超级学习系统.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基础正则表达式BRE 的反向链接列表"
+              "title": "超级学习系统 的反向链接列表"
             }
           },
           {
@@ -311,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/基础正则表达式BRE.md",
+                "file": "03-Resources/超级学习系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础正则表达式BRE 的大纲"
+              "title": "超级学习系统 的大纲"
             }
           }
         ]
@@ -341,11 +341,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38802fb7f843bdf0",
+  "active": "d09ab45da2e5405c",
   "lastOpenFiles": [
+    "03-Resources/软件开发流程.md",
+    "02-Areas/基础正则表达式BRE.md",
     "02-Areas/正则表达式.md",
     "02-Areas/扩展正则表达式.md",
-    "02-Areas/基础正则表达式BRE.md",
     "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/RTT.md",
     "02-Areas/IP Address.md",
@@ -357,7 +358,6 @@
     "02-Areas/TTL.md",
     "02-Areas/未命名.canvas",
     "03-Resources/超级学习系统.md",
-    "03-Resources/软件开发流程.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "03-Resources/精通的架构：科学学习实用指南.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
