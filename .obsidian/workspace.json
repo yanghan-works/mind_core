@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00-Inbox/ping：检查网络连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ping：检查网络连通性"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "00-Inbox/ping：检查网络连通性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "README 的关系图"
+              "title": "ping：检查网络连通性 的关系图"
             }
           }
         ]
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "00-Inbox/ping：检查网络连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "ping：检查网络连通性 的大纲"
             }
           }
         ]
@@ -251,34 +251,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "Canvas/Ping检查网络连通性.canvas",
-    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
-    "02-Areas/域名 2.md",
-    "02-Areas/具体实例.md",
-    "02-Areas/番茄钟.md",
-    "03-Resources/软件开发流程.md",
-    "03-Resources/超级学习系统.md",
     "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/批判性思维与问题解决.md",
-    "02-Areas/间隔重复.md",
     "02-Areas/高效学习方法.md",
-    "02-Areas/认知偏误.md",
-    "02-Areas/域名.md",
-    "02-Areas/组块化.md",
-    "02-Areas/心态理论.md",
-    "02-Areas/六顶思考帽.md",
+    "02-Areas/批判性思维与问题解决.md",
+    "00-Inbox/未命名.md",
+    "00-Inbox/ping：检查网络连通性.md",
+    "02-Areas/Ping 测试网络连接性.canvas",
+    "Templates/🌟 康奈尔笔记模板.md",
+    "02-Areas/Cynefin 框架.md",
+    "02-Areas/设计思维.md",
+    "02-Areas/二阶思维.md",
+    "02-Areas/系统思维.md",
+    "02-Areas/社会性学习.md",
     "02-Areas/区分观察、推断与判断.md",
+    "02-Areas/5 Whys (灵魂五问法).md",
     "02-Areas/评估信息来源.md",
     "02-Areas/根本原因分析.md",
-    "02-Areas/OODA 循环.md",
-    "02-Areas/系统思维.md",
-    "02-Areas/二阶思维.md",
-    "02-Areas/设计思维.md",
-    "02-Areas/Cynefin 框架.md",
-    "02-Areas/5 Whys (灵魂五问法).md",
-    "02-Areas/环境设计.md",
+    "02-Areas/六顶思考帽.md",
+    "02-Areas/思维导图.md",
+    "02-Areas/DHCP服务器.md",
+    "02-Areas/路由器.md",
+    "02-Areas/DNS解析服务.md",
+    "02-Areas/Drawing 2025-07-19 08.58.14.excalidraw.md",
+    "02-Areas/ping：检查网络连通性.md",
+    "02-Areas/未命名 11.md",
+    "02-Areas/Drawing 2025-07-19 08.56.52.excalidraw.md",
+    "02-Areas/ping 可以检查网络稳定性 (丢包率).md",
+    "02-Areas/未命名 10.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",

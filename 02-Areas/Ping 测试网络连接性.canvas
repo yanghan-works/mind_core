@@ -9,10 +9,9 @@
 		{"id":"8fe056e1e9fb1309","type":"text","text":"[[RTT]]","x":-540,"y":-180,"width":250,"height":60},
 		{"id":"7700b2f8c8603e0b","type":"text","text":"[[ICMP]]","x":140,"y":-490,"width":250,"height":60},
 		{"id":"b41ff53604651678","type":"text","text":"目标网络设备","x":560,"y":-490,"width":250,"height":60},
+		{"id":"bc75fe81e16110c5","type":"text","text":"[[Ping 检查网络连通性 很好的版本，但是摩擦力太大]]","x":-737,"y":-490,"width":250,"height":60},
 		{"id":"b6e374352b0c42f6","type":"text","text":"[[丢包率]]","x":-247,"y":-180,"width":250,"height":60},
-		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":23,"y":-180,"width":250,"height":60},
-		{"id":"bc75fe81e16110c5","x":-737,"y":-490,"width":250,"height":60,"type":"text","text":"[[Ping 检查网络连通性 很好的版本，但是摩擦力太大]]"},
-		{"id":"1ba1d97a13904c35","type":"file","file":"02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md","x":-566,"y":-1020,"width":436,"height":340}
+		{"id":"16d76857e5ef03d9","type":"text","text":"[[TTL]]","x":23,"y":-180,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"89b97d1dc642334e","fromNode":"bc75fe81e16110c5","fromSide":"right","toNode":"f99f4618d269e2fe","toSide":"left","label":"携带"},
