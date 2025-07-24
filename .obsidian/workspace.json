@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/软件开发流程.md",
+                "file": "03-Resources/超级学习系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "软件开发流程"
+              "title": "超级学习系统"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/软件开发流程.md",
+                "file": "03-Resources/超级学习系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件开发流程 的大纲"
+              "title": "超级学习系统 的大纲"
             },
             "group": "5b6d4a711c45ea97"
           }
@@ -256,8 +256,8 @@
   },
   "active": "a3c1d3433cebcb1d",
   "lastOpenFiles": [
-    "03-Resources/超级学习系统.md",
     "03-Resources/软件开发流程.md",
+    "03-Resources/超级学习系统.md",
     "02-Areas/Ping 检查网络连通性.md",
     "02-Areas/丢包率.md",
     "02-Areas/域名.md",
