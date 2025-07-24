@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "高效学习方法"
+              "title": "README"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -73,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "高效学习方法 的关系图"
+              "title": "README 的关系图"
             }
           }
         ]
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高效学习方法 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -251,15 +251,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3c1d3433cebcb1d",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
-    "02-Areas/批判性思维与问题解决.md",
-    "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/高效学习方法.md",
-    "02-Areas/域名.md",
-    "02-Areas/认知偏误.md",
-    "02-Areas/组块化.md",
+    "Canvas/Ping检查网络连通性.canvas",
+    "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
+    "02-Areas/域名 2.md",
+    "02-Areas/具体实例.md",
     "02-Areas/番茄钟.md",
+    "03-Resources/软件开发流程.md",
+    "03-Resources/超级学习系统.md",
+    "02-Areas/Ping 测试网络连接性.md",
+    "02-Areas/批判性思维与问题解决.md",
+    "02-Areas/间隔重复.md",
+    "02-Areas/高效学习方法.md",
+    "02-Areas/认知偏误.md",
+    "02-Areas/域名.md",
+    "02-Areas/组块化.md",
     "02-Areas/心态理论.md",
     "02-Areas/六顶思考帽.md",
     "02-Areas/区分观察、推断与判断.md",
@@ -272,14 +279,6 @@
     "02-Areas/Cynefin 框架.md",
     "02-Areas/5 Whys (灵魂五问法).md",
     "02-Areas/环境设计.md",
-    "02-Areas/元认知.md",
-    "02-Areas/社会性学习.md",
-    "02-Areas/身心状态管理.md",
-    "02-Areas/第一性原则.md",
-    "02-Areas/T型人才模型.md",
-    "02-Areas/自我解释.md",
-    "02-Areas/双重编码.md",
-    "Canvas/Ping检查网络连通性.canvas",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
