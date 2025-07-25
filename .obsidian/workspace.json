@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 79.94923857868021,
+        "dimension": 59.96192893401015,
         "children": [
           {
             "id": "e0ab2c1d86e810d1",
@@ -120,10 +120,34 @@
               },
               "icon": "lucide-file",
               "title": "sed 玩转命令行文本魔术"
-            }
+            },
+            "group": "bc3716df743f3feb"
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "7d7e616afa5d55d9",
+        "type": "tabs",
+        "dimension": 19.987309644670052,
+        "children": [
+          {
+            "id": "aaaad6f494093fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Resources/sed 玩转命令行文本魔术.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "sed 玩转命令行文本魔术 的大纲"
+            },
+            "group": "bc3716df743f3feb"
+          }
+        ]
       },
       {
         "id": "6d6acc5546d0584c",
