@@ -2,10 +2,14 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "strictLineBreaks": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "02-Areas",
   "attachmentFolderPath": "Attachments",
-  "vimMode": false
+  "vimMode": false,
+  "showIndentGuide": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "showInlineTitle": true
 }
