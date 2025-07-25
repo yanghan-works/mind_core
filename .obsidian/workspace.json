@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/sed 玩转命令行文本魔术.md",
+                "file": "03-Resources/超级学习系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sed 玩转命令行文本魔术"
+              "title": "超级学习系统"
             }
           }
         ],
@@ -345,20 +345,20 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "03-Resources/软件开发流程.md",
+    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
+    "03-Resources/sed 玩转命令行文本魔术.md",
     "03-Resources/grep 文本大海捞针神技.md",
     "03-Resources/awk 超强文本报表生成器.md",
     "03-Resources/正则表达式 · 精要笔记.md",
-    "03-Resources/sed 玩转命令行文本魔术.md",
     "02-Areas/正则表达式.md",
     "02-Areas/awk.md",
     "02-Areas/grep.md",
     "02-Areas/sed.md",
     "02-Areas/基础正则表达式BRE.md",
     "02-Areas/扩展正则表达式.md",
-    "03-Resources/软件开发流程.md",
     "02-Areas/高效学习方法.md",
     "03-Resources/超级学习系统.md",
-    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/RTT.md",
     "02-Areas/IP Address.md",
