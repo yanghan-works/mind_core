@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/正则笔记：化繁为简的核心洞见.md",
+                "file": "03-Resources/超级学习系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "正则笔记：化繁为简的核心洞见"
+              "title": "超级学习系统"
             },
             "group": "bc3716df743f3feb"
           }
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/正则笔记：化繁为简的核心洞见.md",
+                "file": "03-Resources/超级学习系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "正则笔记：化繁为简的核心洞见 的大纲"
+              "title": "超级学习系统 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -369,15 +369,15 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "03-Resources/软件开发流程.md",
+    "03-Resources/正则笔记：化繁为简的核心洞见.md",
     "03-Resources/grep笔记：大海捞针的艺术.md",
     "03-Resources/定时任务笔记：机器里的幽灵管家.md",
     "03-Resources/awk笔记：文本世界的Excel大师.md",
     "09_SourceHanSansSC.zip",
     "03-Resources/未命名.md",
-    "03-Resources/正则笔记：化繁为简的核心洞见.md",
     "03-Resources/sed笔记：流水线上的文本手术刀.md",
     "03-Resources/超级学习系统.md",
-    "03-Resources/软件开发流程.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "02-Areas/正则表达式.md",
     "02-Areas/awk.md",
