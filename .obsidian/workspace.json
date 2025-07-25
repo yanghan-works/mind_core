@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/正则表达式.md",
+                "file": "03-Resources/sed · 行编辑器精要.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "正则表达式"
+              "title": "sed · 行编辑器精要"
             }
           }
         ],
@@ -345,11 +345,12 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "03-Resources/正则表达式 · 精要笔记.md",
+    "03-Resources/sed · 行编辑器精要.md",
+    "02-Areas/正则表达式.md",
     "02-Areas/awk.md",
     "02-Areas/grep.md",
     "02-Areas/sed.md",
-    "02-Areas/正则表达式.md",
-    "03-Resources/正则表达式 · 精要笔记.md",
     "02-Areas/基础正则表达式BRE.md",
     "02-Areas/扩展正则表达式.md",
     "03-Resources/软件开发流程.md",
@@ -373,7 +374,6 @@
     "Excalidraw",
     "02-Areas/IP 地址.md",
     "02-Areas/Ping 检查网络连通性 很好的版本，但是摩擦力太大.md",
-    "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
