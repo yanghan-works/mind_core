@@ -1,12 +1,12 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "#148ccc",
   "monospaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Inter",
   "interfaceFontFamily": "",
   "baseFontSizeAction": true,
   "theme": "moonstone",
   "enabledCssSnippets": [],
   "showRibbon": true,
-  "baseFontSize": 18
+  "baseFontSize": 16
 }
