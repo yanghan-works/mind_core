@@ -6,6 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
+        "dimension": 79.94923857868021,
         "children": [
           {
             "id": "e0ab2c1d86e810d1",
@@ -103,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/awk.md",
+                "file": "02-Areas/正则表达式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "awk"
+              "title": "正则表达式"
             }
           }
         ],
@@ -127,6 +128,7 @@
       {
         "id": "6d6acc5546d0584c",
         "type": "tabs",
+        "dimension": 20.050761421319795,
         "children": [
           {
             "id": "d09ab45da2e5405c",
@@ -343,15 +345,16 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
-    "02-Areas/grep.md",
-    "02-Areas/sed.md",
+    "02-Areas/基础正则表达式BRE.md",
+    "02-Areas/扩展正则表达式.md",
+    "03-Resources/软件开发流程.md",
     "02-Areas/高效学习方法.md",
     "03-Resources/超级学习系统.md",
+    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "02-Areas/awk.md",
-    "03-Resources/软件开发流程.md",
-    "02-Areas/基础正则表达式BRE.md",
+    "02-Areas/grep.md",
+    "02-Areas/sed.md",
     "02-Areas/正则表达式.md",
-    "02-Areas/扩展正则表达式.md",
     "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/RTT.md",
     "02-Areas/IP Address.md",
@@ -364,7 +367,6 @@
     "02-Areas/未命名.canvas",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "03-Resources/精通的架构：科学学习实用指南.md",
-    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md",
     "Excalidraw/Drawing 2025-07-24 18.44.37.excalidraw.md",
     "Excalidraw",
