@@ -89,7 +89,11 @@
 
 **实战演练：用一行命令生成一份带表头和总计的文件大小报告**
 
-`ls -l | awk 'BEGIN { print "文件\t\t大小(B)" } /^-/ { print $9, "\t\t", $5; total += $5 } END { print "--------------------"; print "总计大小:", total }'`
+```
+ls -l | awk 'BEGIN { print "文件\t\t大小(B)" } /^-/ { print $9, "\t\t", $5; total += $5 } END { print "--------------------"; print "总计大小:", total }
+```
+
+
 
 **解读这个机器人指令：**
 

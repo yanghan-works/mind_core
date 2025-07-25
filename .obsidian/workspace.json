@@ -6,7 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 59.96192893401015,
+        "dimension": 59.96192893401016,
         "children": [
           {
             "id": "e0ab2c1d86e810d1",
@@ -369,6 +369,7 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "09_SourceHanSansSC.zip",
     "03-Resources/定时任务笔记：机器里的幽灵管家.md",
     "03-Resources/未命名.md",
     "03-Resources/正则笔记：化繁为简的核心洞见.md",
@@ -396,7 +397,6 @@
     "02-Areas/TTL.md",
     "02-Areas/未命名.canvas",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "03-Resources/精通的架构：科学学习实用指南.md",
     "Excalidraw",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
