@@ -9,96 +9,6 @@
         "dimension": 47.98439531859558,
         "children": [
           {
-            "id": "e0ab2c1d86e810d1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Areas/Ping 测试网络连接性.canvas",
-                "viewState": {
-                  "x": 315,
-                  "y": -659,
-                  "zoom": -1.4447101129305315
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping 测试网络连接性"
-            }
-          },
-          {
-            "id": "d142e97239698954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/正则表达式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式"
-            }
-          },
-          {
-            "id": "46784872bfb4b7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/正则表达式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式"
-            }
-          },
-          {
-            "id": "c8441f2e0a887279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/正则表达式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式"
-            },
-            "group": "366c3e400d2249f6"
-          },
-          {
             "id": "38802fb7f843bdf0",
             "type": "leaf",
             "state": {
@@ -123,8 +33,7 @@
             },
             "group": "bc3716df743f3feb"
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "7d7e616afa5d55d9",
@@ -160,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/正则表达式.md",
+                "file": "02-Areas/docker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,9 +97,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "正则表达式 的关系图"
-            },
-            "group": "366c3e400d2249f6"
+              "title": "docker 的关系图"
+            }
           }
         ]
       }
