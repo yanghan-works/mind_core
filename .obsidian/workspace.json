@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Linux `sed`核心内容组块化：文本处理的“流水线工人”.md",
+                "file": "02-Areas/sed 行处理,能直接修改文件内容.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux `sed`核心内容组块化：文本处理的“流水线工人”"
+              "title": "sed 行处理,能直接修改文件内容"
             },
             "group": "bc3716df743f3feb"
           }
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/Linux `sed`核心内容组块化：文本处理的“流水线工人”.md",
+                "file": "02-Areas/sed 行处理,能直接修改文件内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux `sed`核心内容组块化：文本处理的“流水线工人” 的大纲"
+              "title": "sed 行处理,能直接修改文件内容 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -369,13 +369,13 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
-    "03-Resources/Linux 定时任务核心内容组块化：你的“自动执行管家”.md",
-    "02-Areas/正则表达式.md",
-    "02-Areas/sed.md",
-    "02-Areas/grep.md",
     "02-Areas/awk.md",
-    "03-Resources/Linux `grep`核心内容组块化：文本搜索的“狙击枪”.md",
+    "02-Areas/grep.md",
+    "03-Resources/Linux 定时任务核心内容组块化：你的“自动执行管家”.md",
     "03-Resources/Linux `sed`核心内容组块化：文本处理的“流水线工人”.md",
+    "02-Areas/正则表达式.md",
+    "02-Areas/sed 行处理,能直接修改文件内容.md",
+    "03-Resources/Linux `grep`核心内容组块化：文本搜索的“狙击枪”.md",
     "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
     "03-Resources/Linux `awk`核心内容组块化：你的数据“分析师”.md",
     "02-Areas/IP Address.md",
