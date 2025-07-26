@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/docker.md",
+                "file": "02-Areas/安装rocky.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "安装rocky"
             },
             "group": "bc3716df743f3feb"
           }
@@ -46,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/docker.md",
+                "file": "02-Areas/安装rocky.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "docker 的大纲"
+              "title": "安装rocky 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/docker.md",
+                "file": "02-Areas/安装rocky.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +97,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "docker 的关系图"
+              "title": "安装rocky 的关系图"
             }
           }
         ]
@@ -277,8 +277,10 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
-    "02-Areas/sed 行处理,能直接修改文件内容.md",
+    "Attachments/Pasted image 20250726230245.png",
     "02-Areas/docker.md",
+    "02-Areas/安装rocky.md",
+    "02-Areas/sed 行处理,能直接修改文件内容.md",
     "02-Areas/awk.md",
     "02-Areas/grep.md",
     "03-Resources/Linux 定时任务核心内容组块化：你的“自动执行管家”.md",
@@ -303,9 +305,7 @@
     "03-Resources/未命名.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "02-Areas/基础正则表达式BRE.md",
-    "02-Areas/扩展正则表达式.md",
     "02-Areas/未命名.canvas",
-    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "Excalidraw",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
