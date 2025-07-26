@@ -9,7 +9,7 @@
   "attachmentFolderPath": "Attachments",
   "vimMode": false,
   "showIndentGuide": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "rightToLeft": false,
   "showInlineTitle": true
 }
