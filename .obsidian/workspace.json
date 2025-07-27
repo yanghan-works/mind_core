@@ -51,8 +51,8 @@
               "state": {
                 "file": "正则表达式.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -85,
+                  "y": -79,
                   "zoom": 0
                 }
               },
@@ -306,10 +306,10 @@
   "active": "700c5839571995c2",
   "lastOpenFiles": [
     "正则表达式.md",
-    "正则表达式.canvas",
-    "2025-07-27.md",
     "sed 流编辑器.md",
     "sed 流编辑器.canvas",
+    "正则表达式.canvas",
+    "2025-07-27.md",
     "Ping 检查网络连通性.canvas",
     "Rocky Linux工具清单.md",
     "安装rocky.md",

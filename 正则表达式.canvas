@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"dcd11c17d8ba108a","x":-232,"y":-248,"width":250,"height":60,"type":"text","text":""}
+		{"id":"dcd11c17d8ba108a","type":"text","text":"匹配零次或多次 *","x":-380,"y":-380,"width":250,"height":60},
+		{"id":"f31bde1233130dfe","x":-60,"y":-380,"width":250,"height":60,"type":"text","text":"匹配一次或多次 +"},
+		{"id":"d0b400c44bcfecb9","x":-380,"y":-261,"width":250,"height":60,"type":"text","text":"匹配零次或一次 ?"},
+		{"id":"4b619eafb66b7871","x":-380,"y":-140,"width":250,"height":60,"type":"text","text":"精准匹配次数 {}（可以用，分割）"},
+		{"id":"3ba9bb98a41c844c","x":-60,"y":-261,"width":250,"height":60,"type":"text","text":"贪婪性"}
 	],
 	"edges":[]
 }
