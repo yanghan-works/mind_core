@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"5c28d7afb7f3a895","x":-262,"y":-325,"width":250,"height":60,"type":"text","text":"-C"},
-		{"id":"dddb8f9792a87665","x":40,"y":-325,"width":250,"height":60,"type":"text","text":"ICMP"},
-		{"id":"67310a560ace699b","x":-262,"y":-200,"width":250,"height":60,"type":"text","text":"-S"},
-		{"id":"d08c1829b13d5956","x":40,"y":-200,"width":250,"height":60,"type":"text","text":"Ping"}
-	],
-	"edges":[]
-}

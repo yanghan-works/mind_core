@@ -14,7 +14,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -22,11 +22,29 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "Ping"
             },
             "group": "bc3716df743f3feb"
+          },
+          {
+            "id": "6dbd70adc64c931e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ping.canvas",
+                "viewState": {
+                  "x": -4,
+                  "y": -227.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7d7e616afa5d55d9",
@@ -39,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Ping 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -62,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -90,7 +108,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "未命名 的关系图"
+              "title": "Ping 的关系图"
             }
           }
         ]
@@ -268,12 +286,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38802fb7f843bdf0",
+  "active": "6dbd70adc64c931e",
   "lastOpenFiles": [
-    "安装rocky.md",
-    "未命名.canvas",
+    "杂记.md",
+    "Ping.canvas",
     "Rocky Linux工具清单.md",
-    "未命名.md",
+    "安装rocky.md",
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
     "02-Areas",
