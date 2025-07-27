@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/安装rocky.md",
+                "file": "03-Resources/Rocky Linux工具清单.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "安装rocky"
+              "title": "Rocky Linux工具清单"
             },
             "group": "bc3716df743f3feb"
           }
@@ -46,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/安装rocky.md",
+                "file": "03-Resources/Rocky Linux工具清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "安装rocky 的大纲"
+              "title": "Rocky Linux工具清单 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Areas/安装rocky.md",
+                "file": "03-Resources/Rocky Linux工具清单.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +97,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "安装rocky 的关系图"
+              "title": "Rocky Linux工具清单 的关系图"
             }
           }
         ]
@@ -277,8 +277,13 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
-    "00-Inbox/未命名.md",
     "02-Areas/安装rocky.md",
+    "00-Inbox/ping：检查网络连通性.md",
+    "02-Areas/Ping 测试网络连接性.canvas",
+    "02-Areas/高效学习方法.md",
+    "02-Areas/批判性思维与问题解决.md",
+    "03-Resources/Rocky Linux工具清单.md",
+    "00-Inbox/未命名.md",
     "Attachments/Pasted image 20250726232350.png",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
@@ -293,21 +298,16 @@
     "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
     "03-Resources/Linux `awk`核心内容组块化：你的数据“分析师”.md",
     "02-Areas/IP Address.md",
-    "02-Areas/Ping 测试网络连接性.canvas",
     "03-Resources/超级学习系统.md",
     "02-Areas/DNS 域名解析.md",
     "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/高效学习方法.md",
-    "02-Areas/批判性思维与问题解决.md",
     "02-Areas/ICMP.md",
     "02-Areas/TTL.md",
     "02-Areas/RTT.md",
     "02-Areas/主机.md",
     "03-Resources/软件开发流程.md",
     "09_SourceHanSansSC.zip",
-    "03-Resources/未命名.md",
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
-    "02-Areas/基础正则表达式BRE.md",
     "02-Areas/未命名.canvas",
     "Excalidraw",
     "02-Areas/Linux",
