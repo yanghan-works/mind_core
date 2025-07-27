@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Linux
 aliases: 
 created: 2025-07-26 23:02
 ---

@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"00dfc5385a28f51d","x":-351,"y":-700,"width":621,"height":300,"type":"group","label":"原子"},
-		{"id":"8d6579d1842a5b7b","type":"file","file":"sed 流编辑器.md","x":0,"y":-120,"width":360,"height":120},
-		{"id":"dfaf7f7bb8461085","type":"text","text":"sed '/模式/d'","x":0,"y":-680,"width":250,"height":60},
-		{"id":"0bde64233c5c02aa","type":"text","text":"sed '行号a 内容'","x":-331,"y":-580,"width":250,"height":60},
-		{"id":"0234b73334a25901","type":"text","text":"sed '行号i 内容'","x":0,"y":-580,"width":250,"height":60},
-		{"id":"3fc602bb4ca279cf","type":"text","text":"打印","x":-331,"y":-480,"width":250,"height":60},
-		{"id":"3b3d72bd1e416bf7","type":"text","text":"替换 s///","x":-331,"y":-680,"width":250,"height":60}
+		{"id":"00dfc5385a28f51d","type":"group","x":-340,"y":-820,"width":621,"height":420,"label":"原子"},
+		{"id":"dfaf7f7bb8461085","type":"text","text":"删除d","x":11,"y":-780,"width":250,"height":60},
+		{"id":"0bde64233c5c02aa","type":"text","text":"追加 a","x":-320,"y":-680,"width":250,"height":60},
+		{"id":"0234b73334a25901","type":"text","text":"插入 i","x":11,"y":-680,"width":250,"height":60},
+		{"id":"3fc602bb4ca279cf","type":"text","text":"打印 p","x":-320,"y":-580,"width":250,"height":60},
+		{"id":"3b3d72bd1e416bf7","type":"text","text":"替换 s（全局替换 +g）","x":-320,"y":-780,"width":250,"height":60},
+		{"id":"8b4ab95269abdbba","type":"text","text":"分组引用() \\组号","x":11,"y":-580,"width":250,"height":60},
+		{"id":"6db5d308ea63b739","type":"text","text":"[[正则表达式]]","x":-320,"y":-480,"width":250,"height":60},
+		{"id":"8d6579d1842a5b7b","type":"file","file":"sed 流编辑器.md","x":-70,"y":-320,"width":360,"height":120}
 	],
 	"edges":[]
 }

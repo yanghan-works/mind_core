@@ -49,15 +49,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "sed 流编辑器.canvas",
+                "file": "正则表达式.canvas",
                 "viewState": {
-                  "x": 14.5,
-                  "y": -340,
-                  "zoom": -0.007802999917120907
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "sed 流编辑器"
+              "title": "正则表达式"
             }
           }
         ],
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sed 流编辑器.canvas",
+                "file": "正则表达式.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "sed 流编辑器 的关系图"
+              "title": "正则表达式 的关系图"
             }
           }
         ]
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:计算机网络",
+                "query": "tag:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,13 +305,16 @@
   },
   "active": "700c5839571995c2",
   "lastOpenFiles": [
+    "正则表达式.md",
+    "正则表达式.canvas",
+    "2025-07-27.md",
     "sed 流编辑器.md",
+    "sed 流编辑器.canvas",
     "Ping 检查网络连通性.canvas",
     "Rocky Linux工具清单.md",
-    "Ping 检查网络连通性.md",
-    "sed 流编辑器.canvas",
-    "杂记.md",
     "安装rocky.md",
+    "Ping 检查网络连通性.md",
+    "杂记.md",
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
     "02-Areas",
@@ -332,8 +335,6 @@
     "03-Resources/超级学习系统.md",
     "03-Resources/软件开发流程.md",
     "Templates/created_date.md",
-    "Templates/YYYY-MM-DD.md",
-    "Templates/HH：mm.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250726232350.png",
@@ -356,7 +357,6 @@
     "02_Canvas/未命名.canvas",
     "01_Toolbox/未命名.canvas",
     "04-Canvas/Ping.canvas",
-    "04-Canvas/未命名.canvas",
-    "02-Areas/Linux/Ping-Cancas.canvas"
+    "04-Canvas/未命名.canvas"
   ]
 }
