@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0bde64233c5c02aa","type":"text","text":"追加/插入","x":-320,"y":-200,"width":250,"height":60},
+		{"id":"3fc602bb4ca279cf","type":"text","text":"打印","x":-20,"y":-200,"width":250,"height":60},
+		{"id":"dfaf7f7bb8461085","type":"text","text":"删除","x":-20,"y":-290,"width":250,"height":60},
+		{"id":"3b3d72bd1e416bf7","type":"text","text":"查找/替换","x":-320,"y":-290,"width":250,"height":60}
+	],
+	"edges":[]
+}
