@@ -11,43 +11,9 @@
             "id": "38802fb7f843bdf0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ping 检查网络连通性.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "6dbd70adc64c931e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ping 检查网络连通性.canvas",
-                "viewState": {
-                  "x": -4,
-                  "y": -227.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "700c5839571995c2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ping 检查网络连通性.md",
+                "file": "安装rocky.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +28,119 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
+              "title": "安装rocky"
             }
+          },
+          {
+            "id": "6dbd70adc64c931e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "杂记"
+            }
+          },
+          {
+            "id": "700c5839571995c2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "sed 流编辑器.canvas",
+                "viewState": {
+                  "x": -481.3457142857143,
+                  "y": -721.809017857143,
+                  "zoom": -0.09568334805530798
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "sed 流编辑器"
+            },
+            "group": "143c47a186187a14"
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "11b9d38f18e90119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c20b8ff315c71a17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sed 流编辑器.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "sed 流编辑器 的大纲"
+            },
+            "group": "143c47a186187a14"
+          }
+        ]
+      },
+      {
+        "id": "b068a1d14d3f9512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1fba8555c3eed1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "sed 流编辑器.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "sed 流编辑器 的关系图"
+            },
+            "group": "143c47a186187a14"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,16 +317,16 @@
   },
   "active": "700c5839571995c2",
   "lastOpenFiles": [
-    "Ping 检查网络连通性.canvas",
-    "sed 流编辑器.canvas",
     "sed 流编辑器.md",
-    "Ping 检查网络连通性.md",
     "正则表达式.canvas",
+    "sed 流编辑器.canvas",
+    "Ping 检查网络连通性.md",
+    "杂记.md",
+    "Ping 检查网络连通性.canvas",
     "正则表达式.md",
     "2025-07-27.md",
     "Rocky Linux工具清单.md",
     "安装rocky.md",
-    "杂记.md",
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
     "02-Areas",
