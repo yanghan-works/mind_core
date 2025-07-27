@@ -6,7 +6,6 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
-        "dimension": 47.984395318595574,
         "children": [
           {
             "id": "38802fb7f843bdf0",
@@ -23,8 +22,7 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Ping 检查网络连通性"
-            },
-            "group": "bc3716df743f3feb"
+            }
           },
           {
             "id": "6dbd70adc64c931e",
@@ -49,86 +47,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "正则表达式.canvas",
+                "file": "sed 流编辑器.canvas",
                 "viewState": {
-                  "x": 307.58887964577923,
-                  "y": -215.50729717870632,
-                  "zoom": -1
+                  "x": -25,
+                  "y": -510,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "正则表达式"
+              "title": "sed 流编辑器"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "7d7e616afa5d55d9",
-        "type": "tabs",
-        "dimension": 26.00780234070221,
-        "children": [
-          {
-            "id": "aaaad6f494093fba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Ping 检查网络连通性.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Ping 检查网络连通性 的大纲"
-            },
-            "group": "bc3716df743f3feb"
-          }
-        ]
-      },
-      {
-        "id": "6d6acc5546d0584c",
-        "type": "tabs",
-        "dimension": 26.00780234070221,
-        "children": [
-          {
-            "id": "d09ab45da2e5405c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "正则表达式.canvas",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000016,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "正则表达式 的关系图"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -305,15 +236,15 @@
   },
   "active": "700c5839571995c2",
   "lastOpenFiles": [
-    "正则表达式.md",
     "sed 流编辑器.md",
+    "Ping 检查网络连通性.md",
+    "Ping 检查网络连通性.canvas",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
+    "正则表达式.md",
     "2025-07-27.md",
-    "Ping 检查网络连通性.canvas",
     "Rocky Linux工具清单.md",
     "安装rocky.md",
-    "Ping 检查网络连通性.md",
     "杂记.md",
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
