@@ -6,6 +6,7 @@
       {
         "id": "976175e63017accb",
         "type": "tabs",
+        "dimension": 43.301587301587304,
         "children": [
           {
             "id": "38802fb7f843bdf0",
@@ -59,17 +60,24 @@
             "id": "700c5839571995c2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "sed 流编辑器.canvas",
-                "viewState": {
-                  "x": -481.3457142857143,
-                  "y": -721.809017857143,
-                  "zoom": -0.09568334805530798
+                "file": "杂记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "sed 流编辑器"
+              "icon": "lucide-file",
+              "title": "杂记"
             },
             "group": "143c47a186187a14"
           }
@@ -79,6 +87,7 @@
       {
         "id": "11b9d38f18e90119",
         "type": "tabs",
+        "dimension": 23.365079365079367,
         "children": [
           {
             "id": "c20b8ff315c71a17",
@@ -86,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sed 流编辑器.canvas",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "sed 流编辑器 的大纲"
+              "title": "杂记 的大纲"
             },
             "group": "143c47a186187a14"
           }
@@ -101,6 +110,7 @@
       {
         "id": "b068a1d14d3f9512",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "9d1fba8555c3eed1",
@@ -108,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sed 流编辑器.canvas",
+                "file": "杂记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +146,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "sed 流编辑器 的关系图"
+              "title": "杂记 的关系图"
             },
             "group": "143c47a186187a14"
           }
@@ -317,13 +327,13 @@
   },
   "active": "700c5839571995c2",
   "lastOpenFiles": [
-    "sed 流编辑器.md",
+    "正则表达式.md",
     "正则表达式.canvas",
-    "sed 流编辑器.canvas",
     "Ping 检查网络连通性.md",
+    "sed 流编辑器.canvas",
+    "sed 流编辑器.md",
     "杂记.md",
     "Ping 检查网络连通性.canvas",
-    "正则表达式.md",
     "2025-07-27.md",
     "Rocky Linux工具清单.md",
     "安装rocky.md",
