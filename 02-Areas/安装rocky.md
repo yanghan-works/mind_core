@@ -3,10 +3,6 @@ tags:
 aliases: 
 created: 2025-07-26 23:02
 ---
-VM安装时候选择安装1CPU解决灰屏
-![[Pasted image 20250726232350.png]]
-
-
 
 
 
