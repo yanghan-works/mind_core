@@ -12,24 +12,17 @@
             "id": "38802fb7f843bdf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             },
             "group": "bc3716df743f3feb"
           }
@@ -46,13 +39,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的大纲"
+              "title": "未命名 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -69,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+                "file": "未命名.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,12 +85,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761022,
+                  "scale": 1.9655560456566747,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "原子化笔记：构建第二大脑的深度解析与实践指南 的关系图"
+              "title": "未命名 的关系图"
             }
           }
         ]
@@ -277,36 +270,37 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
+    "安装rocky.md",
+    "未命名.canvas",
+    "Rocky Linux工具清单.md",
+    "未命名.md",
+    "02-Areas/Rocky Linux工具清单.md",
+    "02-Areas/安装rocky.md",
+    "02-Areas",
+    "02-Areas/批判性思维与问题解决.md",
+    "02-Areas/Ping 测试网络连接性.md",
+    "02-Areas/高效学习方法.md",
+    "02-Areas/Ping 测试网络连接性.canvas",
+    "02-Areas/sed 行处理,能直接修改文件内容.md",
+    "02-Areas/正则表达式.md",
+    "02-Areas/grep.md",
+    "02-Areas/awk.md",
+    "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
+    "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
+    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
+    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
+    "03-Resources/精通的架构：科学学习实用指南.md",
+    "03-Resources/沟通、共情与说服的终极修炼指南：从掌控自己到影响世界.md",
     "03-Resources/超级学习系统.md",
     "03-Resources/软件开发流程.md",
-    "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
-    "03-Resources/Rocky Linux工具清单.md",
     "Templates/created_date.md",
     "Templates/YYYY-MM-DD.md",
     "Templates/HH：mm.md",
     "Templates/🤝 会议同步点 (Meeting Sync-Point).md",
     "Templates/🚀 项目驾驶舱 (Project Cockpit).md",
-    "Templates/💧 清泉日记 (Clear Spring Journal) 模板.md",
-    "Templates/🌟 康奈尔笔记模板.md",
-    "Templates/🔥 永恒之火 (Eternal Flame) 模板.md",
-    "Templates/☄️ 流星笔记 (Meteor Note) 模板.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
-    "Excalidraw/Drawing 2025-07-24 18.59.00.excalidraw.md",
     "Attachments/Pasted image 20250726232350.png",
-    "02-Areas/安装rocky.md",
-    "02-Areas/高效学习方法.md",
-    "03-Resources/精通的架构：科学学习实用指南.md",
-    "03-Resources/沟通、共情与说服的终极修炼指南：从掌控自己到影响世界.md",
-    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "00-Inbox/ping：检查网络连通性.md",
-    "02-Areas/Ping 测试网络连接性.canvas",
-    "02-Areas/批判性思维与问题解决.md",
-    "00-Inbox/未命名.md",
-    "02-Areas/docker.md",
-    "02-Areas/sed 行处理,能直接修改文件内容.md",
-    "02-Areas/awk.md",
-    "02-Areas/grep.md",
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
     "Excalidraw",
@@ -321,7 +315,6 @@
     "DailyNotes",
     "Canvas",
     "Attachments",
-    "Templates",
     "02_Assets/Pasted image 20250714133913.png",
     "02_Assets/Pasted image 20250714133909.png",
     "02_Canvas/未命名.canvas",
