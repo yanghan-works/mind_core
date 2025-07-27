@@ -3,10 +3,7 @@ tags:
 aliases: 
 created: 2025-07-27 18:27
 ---
-
 > 这是一份旨在提供清晰、一致且易于使用的 RESTful API 设计规范。良好的 API 设计如同清晰的路标，能让开发者轻松理解并正确使用。
-
-
 
 ## 1. 核心原则
 
@@ -65,6 +62,7 @@ https://api.example.com/v2/users
     
     - `DELETE /users/123`：删除 ID 为 123 的用户。
         
+
 
 ## 4. 状态码：明确的响应反馈
 

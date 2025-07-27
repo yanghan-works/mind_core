@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESTful API 设计指南.md",
+                "file": "杂记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RESTful API 设计指南"
+              "title": "杂记"
             },
             "group": "143c47a186187a14"
           }
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESTful API 设计指南.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RESTful API 设计指南 的大纲"
+              "title": "杂记 的大纲"
             },
             "group": "143c47a186187a14"
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RESTful API 设计指南.md",
+                "file": "杂记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "RESTful API 设计指南 的关系图"
+              "title": "杂记 的关系图"
             },
             "group": "143c47a186187a14"
           }
@@ -328,15 +328,15 @@
   "active": "700c5839571995c2",
   "lastOpenFiles": [
     "Ping 检查网络连通性.md",
-    "sed 流编辑器.canvas",
     "sed 流编辑器.md",
     "正则表达式.md",
+    "RESTful API 设计指南.md",
+    "安装rocky.md",
+    "杂记.md",
+    "sed 流编辑器.canvas",
     "未命名.md",
     "正则表达式.canvas",
-    "RESTful API 设计指南.md",
-    "杂记.md",
     "Rocky Linux工具清单.md",
-    "安装rocky.md",
     "Ping 检查网络连通性.canvas",
     "2025-07-27.md",
     "02-Areas/Rocky Linux工具清单.md",
