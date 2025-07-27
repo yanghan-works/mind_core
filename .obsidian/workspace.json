@@ -51,9 +51,9 @@
               "state": {
                 "file": "sed 流编辑器.canvas",
                 "viewState": {
-                  "x": -45,
-                  "y": -215,
-                  "zoom": 0
+                  "x": 14.5,
+                  "y": -340,
+                  "zoom": -0.007802999917120907
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -306,11 +306,11 @@
   "active": "700c5839571995c2",
   "lastOpenFiles": [
     "sed 流编辑器.md",
-    "sed 流编辑器.canvas",
     "Ping 检查网络连通性.canvas",
-    "Ping 检查网络连通性.md",
-    "杂记.md",
     "Rocky Linux工具清单.md",
+    "Ping 检查网络连通性.md",
+    "sed 流编辑器.canvas",
+    "杂记.md",
     "安装rocky.md",
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
