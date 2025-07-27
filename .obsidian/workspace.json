@@ -45,17 +45,24 @@
             "id": "700c5839571995c2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "sed 流编辑器.canvas",
-                "viewState": {
-                  "x": -25,
-                  "y": -510,
-                  "zoom": 0
+                "file": "Ping 检查网络连通性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "sed 流编辑器"
+              "icon": "lucide-file",
+              "title": "Ping 检查网络连通性"
             }
           }
         ],
@@ -236,10 +243,10 @@
   },
   "active": "700c5839571995c2",
   "lastOpenFiles": [
-    "sed 流编辑器.md",
-    "Ping 检查网络连通性.md",
     "Ping 检查网络连通性.canvas",
     "sed 流编辑器.canvas",
+    "sed 流编辑器.md",
+    "Ping 检查网络连通性.md",
     "正则表达式.canvas",
     "正则表达式.md",
     "2025-07-27.md",
