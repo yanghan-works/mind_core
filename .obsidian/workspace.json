@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
+                "file": "03-Resources/超级学习系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zsh、Oh My Zsh 及 Powerline 字体配置技术指南"
+              "title": "超级学习系统"
             },
             "group": "bc3716df743f3feb"
           }
@@ -46,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
+                "file": "03-Resources/超级学习系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zsh、Oh My Zsh 及 Powerline 字体配置技术指南 的大纲"
+              "title": "超级学习系统 的大纲"
             },
             "group": "bc3716df743f3feb"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
+                "file": "03-Resources/超级学习系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,7 +97,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Zsh、Oh My Zsh 及 Powerline 字体配置技术指南 的关系图"
+              "title": "超级学习系统 的关系图"
             }
           }
         ]
@@ -277,8 +277,10 @@
   },
   "active": "38802fb7f843bdf0",
   "lastOpenFiles": [
-    "03-Resources/Rocky Linux工具清单.md",
+    "03-Resources/软件开发流程.md",
+    "03-Resources/超级学习系统.md",
     "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
+    "03-Resources/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
     "00-Inbox/ping：检查网络连通性.md",
     "02-Areas/Ping 测试网络连接性.canvas",
@@ -299,14 +301,12 @@
     "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
     "03-Resources/Linux `awk`核心内容组块化：你的数据“分析师”.md",
     "02-Areas/IP Address.md",
-    "03-Resources/超级学习系统.md",
     "02-Areas/DNS 域名解析.md",
     "02-Areas/Ping 测试网络连接性.md",
     "02-Areas/ICMP.md",
     "02-Areas/TTL.md",
     "02-Areas/RTT.md",
     "02-Areas/主机.md",
-    "03-Resources/软件开发流程.md",
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
     "Excalidraw",
