@@ -26,7 +26,17 @@ sed 's/旧/新/g' /etc/passwd
 
 ### 1.2 删除
 
+
+```shell
+sed 'd' /etc/passwd
+```
+
+
 ### 1.3 打印
+
+```shell
+sed 'p' /etc/passwd
+```
 
 ### 1.4 追加/插入
 
