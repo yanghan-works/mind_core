@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "杂记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sed 流编辑器"
+              "title": "杂记"
             },
             "group": "143c47a186187a14"
           }
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "sed 流编辑器 的大纲"
+              "title": "杂记 的大纲"
             },
             "group": "143c47a186187a14"
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "杂记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "sed 流编辑器 的关系图"
+              "title": "杂记 的关系图"
             },
             "group": "143c47a186187a14"
           }
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/awk.md",
+                "file": "杂记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "awk 的反向链接列表"
+              "title": "杂记 的反向链接列表"
             }
           },
           {
@@ -295,21 +295,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Areas/awk.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "awk 的大纲"
+              "title": "杂记 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,10 +325,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "700c5839571995c2",
+  "active": "69064968100db8f7",
   "lastOpenFiles": [
-    "杂记.md",
     "sed 流编辑器.md",
+    "杂记.md",
     "正则表达式.md",
     "Ping 检查网络连通性.md",
     "Rocky Linux工具清单.md",
