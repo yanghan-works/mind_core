@@ -7,36 +7,13 @@ created: 2025-07-27 14:47
 ## 1. 核心用法
 
 
-### 1.1 `s` 替换
-
-``` shell
-
-sed 's/旧/新/' /etc/passwd
-
-```
-
-
-#### 全局替换
-
-``` shell
-sed 's/旧/新/g' /etc/passwd
-```
-
+### 1.1 替换
 
 
 ### 1.2 删除
 
 
-```shell
-sed 'd' /etc/passwd
-```
 
-
-### 1.3 打印
-
-```shell
-sed 'p' /etc/passwd
-```
 
 ### 1.4 追加/插入
 
