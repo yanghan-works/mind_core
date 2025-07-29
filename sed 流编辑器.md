@@ -36,7 +36,7 @@ sed [选项] '命令' 文件名
 - **`文件名`** `sed` 要处理的源文件。如果省略，`sed` 会处理从管道（`|`）传来的数据
 
 
-### 2. 替换 (s)
+## 2. 替换 (s)
 
 ``` shell
 echo "hello world" | sed 's/world/Linux/'
@@ -77,9 +77,13 @@ echo "hello world" | sed 's/world//'
 - `gi` 连用 `echo "I love cat, my CAT is cute." | sed 's/cat/dog/ig'`
 
 
-- 内容包含 `/` 和其他特殊字符匹配
+- 内容包含 `/` 和其他特殊字符匹配（url,|，sed 命令自身的特殊字符，正则表达式元字符）
 
-	- 转义字符（不推荐）`sed 's/version=1\|beta/version=2\|release/'`
+	- 转义字符 (不推荐)`sed 's/version=1\|beta/version=2\|release/'`
 		
-    - 更换分隔符 `sed 's#version=1|beta#version=2|release#'`
+    - 更换分隔符 (推荐) `sed 's#version=1|beta#version=2|release#'`
+
+- 所有数字加上括号 `echo "file1 saved, file2 saved" | sed 's/[0-9]/(&)/g'`
+
+## 地址
 
