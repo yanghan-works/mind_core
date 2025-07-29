@@ -85,5 +85,13 @@ echo "hello world" | sed 's/world//'
 
 - 所有数字加上括号 `echo "file1 saved, file2 saved" | sed 's/[0-9]/(&)/g'`
 
-## 地址
+## 3. 地址
 
+针对某几行和某行进行操作，命令格式 `地址 命令`
+
+
+- 行号定位 `sed '3s/apple/orange/' shopping.txt`
+
+- 行号范围定位 ` sed '2,4s/^/-> /' shopping.txt`
+
+- `$` 特殊行号  `sed '$s/bread/milk/' shopping.txt`
