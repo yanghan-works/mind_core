@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "杂记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sed 流编辑器"
+              "title": "杂记"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "sed 流编辑器 的大纲"
+              "title": "杂记 的大纲"
             }
           }
         ],
@@ -208,9 +208,9 @@
   },
   "active": "8db1f20b26f87e5a",
   "lastOpenFiles": [
+    "sed 流编辑器.md",
     "正则表达式.md",
     "安装rocky.md",
-    "sed 流编辑器.md",
     "杂记.md",
     "Ping 检查网络连通性.md",
     "Rocky Linux工具清单.md",
