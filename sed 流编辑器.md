@@ -68,12 +68,26 @@ echo "hello world" | sed 's/world//'
 
 ### 2.1 替换标志 (Flags)
 
-`s` 命令的完整形态是`s/查找/替换/标志` ，表示改变替换的行为
+`s` 命令的完整形态是 `s/查找/替换/标志`。标志可以改变替换的行为。
 
 - `g` 全局替换
 
-```shell
-## 有多个world进行全局替换
+```
 echo "hello world, beautiful world" | sed 's/world/Linux/g'
+```
+
+- `i` 忽略大小写 (ignore case)
+
+```
+
+
+```shell
+echo "Hello WORLD" | sed 's/world/Linux/i'
+```
+
+- `gi` 连用
+
+```shell
+echo "I love cat, my CAT is cute." | sed 's/cat/dog/ig'
 ```
 
