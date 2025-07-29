@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "976175e63017accb",
+        "id": "12c9abc004ec62d3",
         "type": "tabs",
         "children": [
           {
-            "id": "38802fb7f843bdf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "安装rocky.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "安装rocky"
-            }
-          },
-          {
-            "id": "6dbd70adc64c931e",
+            "id": "8db1f20b26f87e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "sed 流编辑器"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,13 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dbd70adc64c931e",
+  "active": "8db1f20b26f87e5a",
   "lastOpenFiles": [
-    "杂记.md",
-    "sed 流编辑器.md",
     "正则表达式.md",
-    "Ping 检查网络连通性.md",
     "安装rocky.md",
+    "sed 流编辑器.md",
+    "杂记.md",
+    "Ping 检查网络连通性.md",
     "Rocky Linux工具清单.md",
     "RESTful API 设计指南.md",
     "sed 流编辑器.canvas",
