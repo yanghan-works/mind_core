@@ -35,7 +35,22 @@ sed [选项] '命令' 文件名
     
 - **`文件名`**: `sed` 要处理的源文件。如果省略，`sed` 会处理从管道（`|`）传来的数据。
 
+
+### 2.1 替换 (s)
+
 ``` shell
 echo "hello world" | sed 's/world/Linux/'
+
+## 匹配到world删除整行
+$ echo "hello world" | sed '/world/d'
+# (没有任何输出)
+
+## 删除world，替换为空
+echo "hello world" | sed 's/world//'
+
 ```
 
+**命令解释**
+
+-  `echo "hello world"` 生成一段文本
+- `|`  ：管道，把左边命令的输出，作为右边命令的输入
