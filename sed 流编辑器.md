@@ -96,6 +96,3 @@ echo "I love cat, my CAT is cute." | sed 's/cat/dog/ig'
 	- 转义字符（不推荐）`sed 's/version=1\|beta/version=2\|release/'`
 		
     - 更换分隔符 `sed 's@version=1|beta@version=2|release@'`
-``` shell
-
-```
