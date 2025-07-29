@@ -70,29 +70,16 @@ echo "hello world" | sed 's/world//'
 
 `s` 命令的完整形态是 `s/查找/替换/标志`。标志可以改变替换的行为。
 
-- `g` 全局替换
+- `g` 全局替换 `echo "hello world, beautiful world" | sed 's/world/Linux/g'`
 
-```
-echo "hello world, beautiful world" | sed 's/world/Linux/g'
-```
+- `i` 忽略大小写 (ignore case) `echo "Hello WORLD" | sed 's/world/Linux/i'`
 
-- `i` 忽略大小写 (ignore case)
+- `gi` 连用 `echo "I love cat, my CAT is cute." | sed 's/cat/dog/ig'`
 
-```
-
-
-```shell
-echo "Hello WORLD" | sed 's/world/Linux/i'
-```
-
-- `gi` 连用
-
-```shell
-echo "I love cat, my CAT is cute." | sed 's/cat/dog/ig'
-```
 
 - 内容包含 `/` 和其他特殊字符匹配
 
 	- 转义字符（不推荐）`sed 's/version=1\|beta/version=2\|release/'`
 		
-    - 更换分隔符 `sed 's@version=1|beta@version=2|release@'`
+    - 更换分隔符 `sed 's#version=1|beta#version=2|release#'`
+
