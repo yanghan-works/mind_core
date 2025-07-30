@@ -11,17 +11,24 @@
             "id": "8db1f20b26f87e5a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 186,
-                  "zoom": 0
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "乐高式框架学习法：五步快速掌握新领域"
             }
           }
         ]
@@ -169,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "乐高式框架学习法：五步快速掌握新领域 的大纲"
             }
           }
         ],
@@ -201,8 +208,9 @@
   },
   "active": "8db1f20b26f87e5a",
   "lastOpenFiles": [
-    "2025-07-30.md",
     "未命名.canvas",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "2025-07-30.md",
     "杂记.md",
     "sed 流编辑器.md",
     "正则表达式.md",
@@ -211,7 +219,6 @@
     "Rocky Linux工具清单.md",
     "RESTful API 设计指南.md",
     "sed 流编辑器.canvas",
-    "未命名.md",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
     "2025-07-27.md",
