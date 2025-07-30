@@ -11,24 +11,17 @@
             "id": "8db1f20b26f87e5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "杂记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 186,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "杂记"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -176,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂记 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -208,10 +201,12 @@
   },
   "active": "8db1f20b26f87e5a",
   "lastOpenFiles": [
+    "2025-07-30.md",
+    "未命名.canvas",
+    "杂记.md",
     "sed 流编辑器.md",
     "正则表达式.md",
     "安装rocky.md",
-    "杂记.md",
     "Ping 检查网络连通性.md",
     "Rocky Linux工具清单.md",
     "RESTful API 设计指南.md",
@@ -237,7 +232,6 @@
     "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
     "03-Resources/精通的架构：科学学习实用指南.md",
     "03-Resources/沟通、共情与说服的终极修炼指南：从掌控自己到影响世界.md",
-    "03-Resources/超级学习系统.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250726232350.png",
@@ -259,7 +253,6 @@
     "02_Assets/Pasted image 20250714133909.png",
     "02_Canvas/未命名.canvas",
     "01_Toolbox/未命名.canvas",
-    "04-Canvas/Ping.canvas",
-    "04-Canvas/未命名.canvas"
+    "04-Canvas/Ping.canvas"
   ]
 }
