@@ -11,24 +11,17 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "为什么用ping？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Ping 原子化框架.canvas",
+                "viewState": {
+                  "x": -282.5,
+                  "y": -390,
+                  "zoom": -0.05343925896146061
                 }
               },
-              "icon": "lucide-file",
-              "title": "为什么用ping？"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping 原子化框架"
             }
           },
           {
@@ -224,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "为什么用ping？.md",
+                "file": "Ping 原子化框架.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "为什么用ping？ 的大纲"
+              "title": "Ping 原子化框架 的大纲"
             }
           }
         ],
@@ -256,17 +249,17 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "Ping 原子化框架.canvas",
+    "RTT 延迟.md",
+    "丢包率.md",
     "为什么用ping？.md",
+    "Ping 原子化框架.canvas",
     "杂记.md",
     "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
     "安装rocky.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
-    "RTT 延迟.md",
     "Ping.md",
     "未命名.canvas",
-    "丢包率.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
