@@ -11,24 +11,17 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/原子笔记模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "原子笔记模板"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
@@ -59,24 +52,12 @@
             "id": "bf855da0eb875a3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "为什么用ping？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "为什么用ping？"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-31 09.34.48.excalidraw"
             }
           }
         ]
@@ -224,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/原子笔记模板.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原子笔记模板 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -257,20 +238,22 @@
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
     "杂记.md",
-    "sed 流编辑器.md",
+    "未命名.canvas",
+    "安装rocky.md",
+    "RESTful API 设计指南.md",
+    "Rocky Linux工具清单.md",
     "Templates/原子笔记模板.md",
+    "为什么用ping？.md",
+    "sed 流编辑器.md",
     "Templates/created_date.md",
     "Ping.md",
     "Ping -c 次数 IP地址或域名.md",
     "Ping 原子化框架.canvas",
     "RTT 延迟.md",
     "丢包率.md",
-    "为什么用ping？.md",
     "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
-    "安装rocky.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
-    "未命名.canvas",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
@@ -282,12 +265,9 @@
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "未命名.md",
-    "RESTful API 设计指南.md",
-    "Rocky Linux工具清单.md",
     "Attachments/software-architecture.excalidrawlib",
     "Drawing 2025-07-31 08.18.56.excalidraw.md",
     "s.56.excalidraw.md",
-    "2025-07-30.md",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
