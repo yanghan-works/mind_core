@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Moc.md",
+                "file": "🐍 Python 核心知识 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python - Moc"
+              "title": "🐍 Python 核心知识 MOC"
+            }
+          },
+          {
+            "id": "99b23dc8eed5f14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rocky Linux工具清单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rocky Linux工具清单"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python - Moc.md",
+                "file": "Rocky Linux工具清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python - Moc 的大纲"
+              "title": "Rocky Linux工具清单 的大纲"
             }
           }
         ],
@@ -255,14 +279,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b41db40dbc6005b",
+  "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
+    "安装rocky.md",
+    "🐍 Python 核心知识 MOC.md",
+    "杂记.md",
+    "🐘 PostgreSQL 核心知识 MOC.md",
+    "🐹 Go 语言核心知识 MOC.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
-    "Python - Moc.md",
     "RESTful API 设计指南.md",
     "Templates/HH：mm.md",
-    "安装rocky.md",
-    "杂记.md",
     "Rocky Linux工具清单.md",
     "未命名.canvas",
     "Templates/YYYY-MM-DD.md",
@@ -284,8 +310,6 @@
     "正则表达式.md",
     "ping -s  字节数  IP地址或域名.md",
     "ping  IP地址或域名.md",
-    "Ping是什么？.md",
-    "TTL 生存时间.md",
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "Attachments/software-architecture.excalidrawlib",
