@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
+                "file": "Templates/原子笔记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "杂记"
+              "title": "原子笔记模板"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md",
+                "file": "Templates/原子笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂记 的大纲"
+              "title": "原子笔记模板 的大纲"
             }
           }
         ],
@@ -256,6 +256,7 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
+    "杂记.md",
     "sed 流编辑器.md",
     "Templates/原子笔记模板.md",
     "Templates/created_date.md",
@@ -265,7 +266,6 @@
     "RTT 延迟.md",
     "丢包率.md",
     "为什么用ping？.md",
-    "杂记.md",
     "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
     "安装rocky.md",
     "Excalidraw",
