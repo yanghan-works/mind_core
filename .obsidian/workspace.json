@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "1b41db40dbc6005b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-31 14.00.06.excalidraw"
+            }
+          },
+          {
             "id": "0ae05730c6d9b53f",
             "type": "leaf",
             "state": {
@@ -60,7 +72,8 @@
               "title": "Drawing 2025-07-31 09.34.48.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Drawing 2025-07-31 14.00.06.excalidraw 的大纲"
             }
           }
         ],
@@ -235,10 +248,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d285f0222af6b1",
+  "active": "1b41db40dbc6005b",
   "lastOpenFiles": [
-    "杂记.md",
     "未命名.canvas",
+    "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
+    "杂记.md",
     "安装rocky.md",
     "RESTful API 设计指南.md",
     "Rocky Linux工具清单.md",
@@ -267,7 +281,6 @@
     "未命名.md",
     "Attachments/software-architecture.excalidrawlib",
     "Drawing 2025-07-31 08.18.56.excalidraw.md",
-    "s.56.excalidraw.md",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
