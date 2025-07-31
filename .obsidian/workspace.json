@@ -11,23 +11,6 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "1b41db40dbc6005b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "杂记.md",
@@ -46,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "杂记"
+            }
+          },
+          {
+            "id": "1b41db40dbc6005b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "乐高式框架学习法：五步快速掌握新领域"
             }
           },
           {
@@ -70,18 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "安装rocky"
-            }
-          },
-          {
-            "id": "bf855da0eb875a3a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-31 09.34.48.excalidraw"
             }
           }
         ],
@@ -230,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md",
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂记 的大纲"
+              "title": "乐高式框架学习法：五步快速掌握新领域 的大纲"
             }
           }
         ],
@@ -262,26 +257,27 @@
   },
   "active": "1b41db40dbc6005b",
   "lastOpenFiles": [
-    "Rocky Linux工具清单.md",
-    "安装rocky.md",
-    "Templates/YYYY-MM-DD.md",
-    "未命名.canvas",
-    "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
-    "杂记.md",
     "RESTful API 设计指南.md",
+    "Templates/HH：mm.md",
+    "安装rocky.md",
+    "杂记.md",
+    "Rocky Linux工具清单.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "未命名.canvas",
+    "Templates/YYYY-MM-DD.md",
+    "Templates/created_date.md",
     "Templates/原子笔记模板.md",
+    "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
     "为什么用ping？.md",
     "sed 流编辑器.md",
-    "Templates/created_date.md",
     "Ping.md",
     "Ping -c 次数 IP地址或域名.md",
     "Ping 原子化框架.canvas",
     "RTT 延迟.md",
     "丢包率.md",
-    "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
     "正则表达式.md",
@@ -291,9 +287,7 @@
     "TTL 生存时间.md",
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
-    "未命名.md",
     "Attachments/software-architecture.excalidrawlib",
-    "Drawing 2025-07-31 08.18.56.excalidraw.md",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",

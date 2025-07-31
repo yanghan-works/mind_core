@@ -1,5 +1,5 @@
 ---
 tags: 
-aliases: 
-created: <% tp.file.creation_date() %>
+alias: 
+date: <% tp.file.creation_date() %>
 ---
