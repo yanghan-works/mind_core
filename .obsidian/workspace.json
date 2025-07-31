@@ -28,12 +28,24 @@
             "id": "1b41db40dbc6005b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md"
+                "file": "杂记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-31 14.00.06.excalidraw"
+              "icon": "lucide-file",
+              "title": "杂记"
             }
           },
           {
@@ -218,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-31 14.00.06.excalidraw 的大纲"
+              "title": "杂记 的大纲"
             }
           }
         ],
@@ -250,12 +262,13 @@
   },
   "active": "1b41db40dbc6005b",
   "lastOpenFiles": [
+    "Rocky Linux工具清单.md",
+    "安装rocky.md",
+    "Templates/YYYY-MM-DD.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
     "杂记.md",
-    "安装rocky.md",
     "RESTful API 设计指南.md",
-    "Rocky Linux工具清单.md",
     "Templates/原子笔记模板.md",
     "为什么用ping？.md",
     "sed 流编辑器.md",
