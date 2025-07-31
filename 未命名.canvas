@@ -1,17 +1,22 @@
 {
 	"nodes":[
-		{"id":"8b993b7e88fb33d7","x":-680,"y":-200,"width":677,"height":252,"type":"group","label":"使用方法"},
-		{"id":"f0455d2ba779598f","x":-105,"y":200,"width":575,"height":200,"type":"group","label":"返回结果"},
-		{"id":"acb4b2262528a25e","x":-660,"y":-180,"width":250,"height":60,"type":"text","text":"Ping"},
-		{"id":"4d6602f2670c635f","x":-273,"y":-180,"width":250,"height":60,"type":"text","text":"IP地址"},
-		{"id":"d12bc893ee7a0651","x":-273,"y":-28,"width":250,"height":60,"type":"text","text":"域名"},
-		{"id":"f2a43d70c5e6e272","x":-85,"y":220,"width":250,"height":60,"type":"text","text":"TTL 生存时间"},
-		{"id":"82d1bf5d9c2e68c4","x":200,"y":220,"width":250,"height":60,"type":"text","text":"RTT 延迟"},
-		{"id":"8989f5f3e0535bff","x":-85,"y":320,"width":250,"height":60,"type":"text","text":"丢包率"}
+		{"id":"f0455d2ba779598f","type":"group","x":-340,"y":200,"width":575,"height":200,"label":"返回结果"},
+		{"id":"9a7e3dfbc268a1be","x":-325,"y":-540,"width":290,"height":300,"type":"group","label":"用法"},
+		{"id":"acb4b2262528a25e","type":"text","text":"Ping ","x":-720,"y":-180,"width":250,"height":60},
+		{"id":"7168f8e8d5acc9c1","type":"text","text":"ping -c <次数> <IP地址或域名>","x":-305,"y":-520,"width":250,"height":60},
+		{"id":"0cb3aaa3e1a8a746","type":"text","text":"ping -s <字节数> <IP地址或域名>","x":-305,"y":-420,"width":250,"height":60},
+		{"id":"179491e4f9ef932d","x":-305,"y":-320,"width":250,"height":60,"type":"text","text":"ping <IP地址或域名>"},
+		{"id":"fc7175aac19de528","x":-180,"y":-180,"width":472,"height":82,"type":"text","text":"是一个网络工具，用于测试数据包能否通过 IP 网络到达特定主机，并测量数据包往返所需的时间。它通过发送 **ICMP (Internet Control Message Protocol) 回显请求**数据包到目标主机，并监听回显回复来实现"},
+		{"id":"f2a43d70c5e6e272","type":"text","text":"TTL 生存时间","x":-320,"y":220,"width":250,"height":60},
+		{"id":"82d1bf5d9c2e68c4","type":"text","text":"RTT 延迟","x":-35,"y":220,"width":250,"height":60},
+		{"id":"8989f5f3e0535bff","type":"text","text":"丢包率","x":-320,"y":320,"width":250,"height":60},
+		{"id":"bd6b24dc48a0fb3e","x":-187,"y":2,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"ff1fc2bdc0943192","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"4d6602f2670c635f","toSide":"left"},
-		{"id":"9d8b0e69abeb3d0f","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"d12bc893ee7a0651","toSide":"left"},
-		{"id":"6d14f7cea3722b1f","fromNode":"8b993b7e88fb33d7","fromSide":"bottom","toNode":"f0455d2ba779598f","toSide":"left"}
+		{"id":"18f86049d56a14f7","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"f0455d2ba779598f","toSide":"left"},
+		{"id":"dd366b9810001f6b","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"7168f8e8d5acc9c1","toSide":"left"},
+		{"id":"7c07ba68b64a224d","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"0cb3aaa3e1a8a746","toSide":"left"},
+		{"id":"26c15bb6d2a68258","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"179491e4f9ef932d","toSide":"left"},
+		{"id":"59fe6a1ca67ad54b","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"fc7175aac19de528","toSide":"left"}
 	]
 }

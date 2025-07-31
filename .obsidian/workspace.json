@@ -11,12 +11,36 @@
             "id": "8db1f20b26f87e5a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "a7c5a402f78ebf99",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": -152,
-                  "y": 36,
+                  "x": -105,
+                  "y": -30,
                   "zoom": 0
                 }
               },
@@ -24,7 +48,8 @@
               "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,21 +224,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8db1f20b26f87e5a",
+  "active": "a7c5a402f78ebf99",
   "lastOpenFiles": [
-    "RESTful API 设计指南.md",
-    "未命名.canvas",
+    "未命名 1.canvas",
     "未命名.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "未命名.canvas",
+    "RESTful API 设计指南.md",
+    "安装rocky.md",
+    "Rocky Linux工具清单.md",
+    "杂记.md",
+    "Ping 检查网络连通性.md",
+    "sed 流编辑器.md",
+    "正则表达式.md",
+    "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
+    "Excalidraw",
+    "Attachments/software-architecture.excalidrawlib",
     "Drawing 2025-07-31 08.18.56.excalidraw.md",
     "s.56.excalidraw.md",
-    "sed 流编辑器.md",
-    "杂记.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "2025-07-30.md",
-    "正则表达式.md",
-    "安装rocky.md",
-    "Ping 检查网络连通性.md",
-    "Rocky Linux工具清单.md",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
@@ -231,13 +260,11 @@
     "02-Areas/awk.md",
     "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
     "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
-    "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250726232350.png",
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
-    "Excalidraw",
     "02-Areas/Linux",
     "Attachments/Pasted image 20250717172001.png",
     "Attachments/Pasted image 20250717172008.png",
@@ -248,11 +275,9 @@
     "Daily Notes",
     "DailyNotes",
     "Canvas",
-    "Attachments",
     "02_Assets/Pasted image 20250714133913.png",
     "02_Assets/Pasted image 20250714133909.png",
     "02_Canvas/未命名.canvas",
-    "01_Toolbox/未命名.canvas",
-    "04-Canvas/Ping.canvas"
+    "01_Toolbox/未命名.canvas"
   ]
 }
