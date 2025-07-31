@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
+                "file": "为什么用ping？.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "杂记"
+              "title": "为什么用ping？"
             }
           },
           {
@@ -59,16 +59,27 @@
             "id": "bf855da0eb875a3a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md"
+                "file": "为什么用ping？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-31 09.34.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "为什么用ping？"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
+                "file": "为什么用ping？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-31 09.34.48.excalidraw 的大纲"
+              "title": "为什么用ping？ 的大纲"
             }
           }
         ],
@@ -243,19 +254,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf855da0eb875a3a",
+  "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "安装rocky.md",
-    "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
-    "Excalidraw",
-    "杂记.md",
-    "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
+    "Ping 原子化框架.canvas",
     "为什么用ping？.md",
+    "杂记.md",
+    "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
+    "安装rocky.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
     "RTT 延迟.md",
     "Ping.md",
     "未命名.canvas",
     "丢包率.md",
-    "Ping 原子化框架.canvas",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
@@ -279,7 +290,6 @@
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
     "2025-07-27.md",
-    "02-Areas/Rocky Linux工具清单.md",
     "02-Areas",
     "02-Areas/Ping 测试网络连接性.canvas",
     "Attachments/Pasted image 20250726232123.png",
