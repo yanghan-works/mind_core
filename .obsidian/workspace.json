@@ -4,62 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "12c9abc004ec62d3",
+        "id": "742728cbcc0bdb51",
         "type": "tabs",
         "children": [
           {
-            "id": "8db1f20b26f87e5a",
+            "id": "12ca03b17b653c1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "localgraph",
               "state": {
-                "file": "Ping.canvas",
-                "viewState": {
-                  "x": -152,
-                  "y": 36,
-                  "zoom": 0
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "a7c5a402f78ebf99",
+            "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ping.canvas",
-                "viewState": {
-                  "x": -232.5,
-                  "y": -668.8301886792452,
-                  "zoom": -0.14654866335294184
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping"
-            }
-          },
-          {
-            "id": "be030a0c8903361b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ping.canvas",
-                "viewState": {
-                  "x": -199.54068733397486,
-                  "y": -419.77358490566036,
-                  "zoom": -0.14654866335294184
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,13 +199,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -234,30 +228,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be030a0c8903361b",
+  "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "Ping -c 次数 IP地址或域名.md",
-    "Ping.canvas",
-    "为什么用ping？.md",
     "丢包率.md",
-    "RTT 延迟.md",
-    "TTL 生存时间.md",
-    "Ping是什么？.md",
-    "ping  IP地址或域名.md",
+    "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
+    "Ping 原子化框架.canvas",
+    "未命名.canvas",
     "Ping.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
+    "Ping 检查网络连通性.md",
+    "Ping -c 次数 IP地址或域名.md",
+    "正则表达式.md",
     "ping -s  字节数  IP地址或域名.md",
+    "ping  IP地址或域名.md",
+    "Ping是什么？.md",
+    "TTL 生存时间.md",
+    "RTT 延迟.md",
+    "为什么用ping？.md",
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "未命名.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "RESTful API 设计指南.md",
     "安装rocky.md",
     "Rocky Linux工具清单.md",
     "杂记.md",
-    "Ping 检查网络连通性.md",
     "sed 流编辑器.md",
-    "正则表达式.md",
-    "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Excalidraw",
     "Attachments/software-architecture.excalidrawlib",
     "Drawing 2025-07-31 08.18.56.excalidraw.md",
@@ -268,7 +264,6 @@
     "Ping 检查网络连通性.canvas",
     "2025-07-27.md",
     "02-Areas/Rocky Linux工具清单.md",
-    "02-Areas/安装rocky.md",
     "02-Areas",
     "02-Areas/Ping 测试网络连接性.canvas",
     "Attachments/Pasted image 20250726232123.png",
@@ -288,7 +283,6 @@
     "Canvas",
     "02_Assets/Pasted image 20250714133913.png",
     "02_Assets/Pasted image 20250714133909.png",
-    "02_Canvas/未命名.canvas",
-    "01_Toolbox/未命名.canvas"
+    "02_Canvas/未命名.canvas"
   ]
 }
