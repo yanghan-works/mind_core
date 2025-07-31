@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux 核心知识 MOC.md",
+                "file": "Templates/原子笔记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🐧 Linux 核心知识 MOC"
+              "title": "原子笔记模板"
             }
           },
           {
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux 核心知识 MOC.md",
+                "file": "Templates/原子笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🐧 Linux 核心知识 MOC 的大纲"
+              "title": "原子笔记模板 的大纲"
             }
           }
         ],
@@ -281,8 +281,9 @@
   },
   "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
-    "🐹 Go 语言核心知识 MOC.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
     "🐧 Linux 核心知识 MOC.md",
+    "🐹 Go 语言核心知识 MOC.md",
     "🐘 PostgreSQL 核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC(Map of Content).md",
@@ -290,7 +291,6 @@
     "Rocky Linux工具清单.md",
     "安装rocky.md",
     "杂记.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "RESTful API 设计指南.md",
     "Templates/HH：mm.md",
     "未命名.canvas",
