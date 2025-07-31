@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ping.md",
+                "file": "Templates/原子笔记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping"
+              "title": "原子笔记模板"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping.md",
+                "file": "Templates/原子笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 的大纲"
+              "title": "原子笔记模板 的大纲"
             }
           }
         ],
@@ -256,6 +256,9 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
+    "Templates/created_date.md",
+    "Templates/原子笔记模板.md",
+    "Ping.md",
     "Ping -c 次数 IP地址或域名.md",
     "Ping 原子化框架.canvas",
     "RTT 延迟.md",
@@ -266,7 +269,6 @@
     "安装rocky.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
-    "Ping.md",
     "未命名.canvas",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
@@ -289,7 +291,6 @@
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
-    "2025-07-27.md",
     "02-Areas",
     "02-Areas/Ping 测试网络连接性.canvas",
     "Attachments/Pasted image 20250726232123.png",

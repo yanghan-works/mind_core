@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "created": "text",
-    "date": "text"
+    "date": "datetime"
   }
 }
