@@ -28,28 +28,38 @@
             "id": "a7c5a402f78ebf99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ping -c 次数 IP地址或域名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Ping.canvas",
+                "viewState": {
+                  "x": -232.5,
+                  "y": -668.8301886792452,
+                  "zoom": -0.14654866335294184
                 }
               },
-              "icon": "lucide-file",
-              "title": "Ping -c 次数 IP地址或域名"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping"
+            }
+          },
+          {
+            "id": "be030a0c8903361b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ping.canvas",
+                "viewState": {
+                  "x": -199.54068733397486,
+                  "y": -419.77358490566036,
+                  "zoom": -0.14654866335294184
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ping"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping -c 次数 IP地址或域名.md",
+                "file": "Ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping -c 次数 IP地址或域名 的大纲"
+              "title": "Ping 的大纲"
             }
           }
         ],
@@ -224,10 +234,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7c5a402f78ebf99",
+  "active": "be030a0c8903361b",
   "lastOpenFiles": [
-    "Ping.canvas",
     "Ping -c 次数 IP地址或域名.md",
+    "Ping.canvas",
+    "为什么用ping？.md",
+    "丢包率.md",
+    "RTT 延迟.md",
+    "TTL 生存时间.md",
+    "Ping是什么？.md",
+    "ping  IP地址或域名.md",
+    "Ping.md",
+    "ping -s  字节数  IP地址或域名.md",
+    "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "未命名.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
@@ -251,15 +270,7 @@
     "02-Areas/Rocky Linux工具清单.md",
     "02-Areas/安装rocky.md",
     "02-Areas",
-    "02-Areas/批判性思维与问题解决.md",
-    "02-Areas/Ping 测试网络连接性.md",
-    "02-Areas/高效学习方法.md",
     "02-Areas/Ping 测试网络连接性.canvas",
-    "02-Areas/sed 行处理,能直接修改文件内容.md",
-    "02-Areas/正则表达式.md",
-    "02-Areas/grep.md",
-    "02-Areas/awk.md",
-    "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250726232350.png",
