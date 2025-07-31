@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐹 Go 语言核心知识 MOC.md",
+                "file": "🐧 Linux 核心知识 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🐹 Go 语言核心知识 MOC"
+              "title": "🐧 Linux 核心知识 MOC"
             }
           },
           {
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐹 Go 语言核心知识 MOC.md",
+                "file": "🐧 Linux 核心知识 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🐹 Go 语言核心知识 MOC 的大纲"
+              "title": "🐧 Linux 核心知识 MOC 的大纲"
             }
           }
         ],
@@ -281,9 +281,9 @@
   },
   "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
+    "🐹 Go 语言核心知识 MOC.md",
     "🐧 Linux 核心知识 MOC.md",
     "🐘 PostgreSQL 核心知识 MOC.md",
-    "🐹 Go 语言核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC(Map of Content).md",
     "🐍 Python 核心知识 MOC.md",
