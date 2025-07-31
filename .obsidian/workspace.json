@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ping -c 次数 IP地址或域名.md",
+                "file": "Ping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ping -c 次数 IP地址或域名"
+              "title": "Ping"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping -c 次数 IP地址或域名.md",
+                "file": "Ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping -c 次数 IP地址或域名 的大纲"
+              "title": "Ping 的大纲"
             }
           }
         ],
@@ -256,6 +256,7 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
+    "Ping -c 次数 IP地址或域名.md",
     "Ping 原子化框架.canvas",
     "RTT 延迟.md",
     "丢包率.md",
@@ -270,7 +271,6 @@
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
-    "Ping -c 次数 IP地址或域名.md",
     "正则表达式.md",
     "ping -s  字节数  IP地址或域名.md",
     "ping  IP地址或域名.md",
