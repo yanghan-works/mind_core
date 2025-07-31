@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"f0455d2ba779598f","type":"group","x":-320,"y":-80,"width":575,"height":200,"label":"返回结果"},
+		{"id":"9a7e3dfbc268a1be","type":"group","x":-280,"y":-840,"width":290,"height":300,"label":"用法"},
+		{"id":"744c5e9f3af92ce2","x":-280,"y":-420,"width":290,"height":210,"type":"group","label":"核心概念"},
+		{"id":"135e66093f65c614","x":-260,"y":-820,"width":250,"height":60,"type":"file","file":"Ping -c 次数 IP地址或域名.md"},
+		{"id":"acb4b2262528a25e","type":"text","text":"Ping ","x":-720,"y":-180,"width":250,"height":60},
+		{"id":"0cb3aaa3e1a8a746","type":"text","text":"ping -s <字节数> <IP地址或域名>","x":-260,"y":-720,"width":250,"height":60},
+		{"id":"179491e4f9ef932d","type":"text","text":"ping <IP地址或域名>","x":-260,"y":-620,"width":250,"height":60},
+		{"id":"2832ab37f626ef51","x":-260,"y":-400,"width":250,"height":60,"type":"text","text":"Ping是什么？"},
+		{"id":"a3476ba553a6ae5e","x":-260,"y":-280,"width":250,"height":50,"type":"text","text":"为什么用ping?"},
+		{"id":"f2a43d70c5e6e272","type":"text","text":"TTL 生存时间","x":-300,"y":-60,"width":250,"height":60},
+		{"id":"82d1bf5d9c2e68c4","type":"text","text":"RTT 延迟","x":-15,"y":-60,"width":250,"height":60},
+		{"id":"8989f5f3e0535bff","type":"text","text":"丢包率","x":-300,"y":40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"18f86049d56a14f7","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"f0455d2ba779598f","toSide":"left"},
+		{"id":"d1709244c664443f","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"9a7e3dfbc268a1be","toSide":"left"},
+		{"id":"25813684e642c522","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"2832ab37f626ef51","toSide":"left"},
+		{"id":"e88449b479a7edc4","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"a3476ba553a6ae5e","toSide":"left"}
+	]
+}
