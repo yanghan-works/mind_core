@@ -11,17 +11,24 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ping 原子化框架.canvas",
-                "viewState": {
-                  "x": -282.5,
-                  "y": -390,
-                  "zoom": -0.05343925896146061
+                "file": "Ping -c 次数 IP地址或域名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ping 原子化框架"
+              "icon": "lucide-file",
+              "title": "Ping -c 次数 IP地址或域名"
             }
           },
           {
@@ -217,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping 原子化框架.canvas",
+                "file": "Ping -c 次数 IP地址或域名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 原子化框架 的大纲"
+              "title": "Ping -c 次数 IP地址或域名 的大纲"
             }
           }
         ],
@@ -249,10 +256,10 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
+    "Ping 原子化框架.canvas",
     "RTT 延迟.md",
     "丢包率.md",
     "为什么用ping？.md",
-    "Ping 原子化框架.canvas",
     "杂记.md",
     "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
     "安装rocky.md",
