@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乐高式框架学习法：五步快速掌握新领域.md",
+                "file": "Python - Moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "乐高式框架学习法：五步快速掌握新领域"
+              "title": "Python - Moc"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "乐高式框架学习法：五步快速掌握新领域.md",
+                "file": "Python - Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "乐高式框架学习法：五步快速掌握新领域 的大纲"
+              "title": "Python - Moc 的大纲"
             }
           }
         ],
@@ -257,12 +257,13 @@
   },
   "active": "1b41db40dbc6005b",
   "lastOpenFiles": [
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "Python - Moc.md",
     "RESTful API 设计指南.md",
     "Templates/HH：mm.md",
     "安装rocky.md",
     "杂记.md",
     "Rocky Linux工具清单.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "未命名.canvas",
     "Templates/YYYY-MM-DD.md",
     "Templates/created_date.md",
