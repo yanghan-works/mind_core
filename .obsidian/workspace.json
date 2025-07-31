@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/原子笔记模板.md",
+                "file": "杂记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "原子笔记模板"
+              "title": "杂记"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/原子笔记模板.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原子笔记模板 的大纲"
+              "title": "杂记 的大纲"
             }
           }
         ],
@@ -256,8 +256,9 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "Templates/created_date.md",
+    "sed 流编辑器.md",
     "Templates/原子笔记模板.md",
+    "Templates/created_date.md",
     "Ping.md",
     "Ping -c 次数 IP地址或域名.md",
     "Ping 原子化框架.canvas",
@@ -283,7 +284,6 @@
     "未命名.md",
     "RESTful API 设计指南.md",
     "Rocky Linux工具清单.md",
-    "sed 流编辑器.md",
     "Attachments/software-architecture.excalidrawlib",
     "Drawing 2025-07-31 08.18.56.excalidraw.md",
     "s.56.excalidraw.md",
