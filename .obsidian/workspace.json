@@ -11,52 +11,20 @@
             "id": "8db1f20b26f87e5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -152,
+                  "y": 36,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "未命名"
             }
-          },
-          {
-            "id": "04c531b004a28642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drawing 2025-07-31 08.18.56.excalidraw.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drawing 2025-07-31 08.18.56.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-07-31 08.18.56.excalidraw.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-31 08.18.56.excalidraw 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -231,13 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04c531b004a28642",
+  "active": "8db1f20b26f87e5a",
   "lastOpenFiles": [
-    "sed 流编辑器.md",
-    "Drawing 2025-07-31 08.18.56.excalidraw.md",
-    "未命名.md",
-    "未命名.canvas",
     "RESTful API 设计指南.md",
+    "未命名.canvas",
+    "未命名.md",
+    "Drawing 2025-07-31 08.18.56.excalidraw.md",
+    "s.56.excalidraw.md",
+    "sed 流编辑器.md",
     "杂记.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "2025-07-30.md",
@@ -263,8 +232,6 @@
     "03-Resources/Zsh、Oh My Zsh 及 Powerline 字体配置技术指南.md",
     "03-Resources/正则表达式核心内容组块化：文本界的“特种兵”.md",
     "03-Resources/原子化笔记：构建第二大脑的深度解析与实践指南.md",
-    "03-Resources/批判性思维与问题解决：从“体操套路”到“真实格斗”.md",
-    "03-Resources/精通的架构：科学学习实用指南.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250726232350.png",

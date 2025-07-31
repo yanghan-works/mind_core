@@ -1,20 +1,17 @@
 {
 	"nodes":[
-		{"id":"d12592073af397fe","x":-540,"y":-20,"width":250,"height":60,"type":"text","text":"sed"},
-		{"id":"dafb98d90023e14d","x":-220,"y":-80,"width":250,"height":60,"type":"text","text":"地址"},
-		{"id":"5256ca3818df81b2","x":60,"y":-200,"width":250,"height":60,"type":"text","text":"行号"},
-		{"id":"2586925e24d1ffe4","x":53,"y":40,"width":250,"height":60,"type":"text","text":"匹配模式"},
-		{"id":"419f4034050a1309","x":-220,"y":240,"width":250,"height":60,"type":"text","text":"命令"},
-		{"id":"688e80b350d7334d","x":60,"y":160,"width":250,"height":60,"type":"text","text":"a/i 追加插入"},
-		{"id":"d8757ad79d0bd232","x":60,"y":300,"width":250,"height":60,"type":"text","text":"s替换 g全局替换"},
-		{"id":"e8128a7f800fe900","x":60,"y":400,"width":250,"height":60,"type":"text","text":"删除 d"}
+		{"id":"8b993b7e88fb33d7","x":-680,"y":-200,"width":677,"height":252,"type":"group","label":"使用方法"},
+		{"id":"f0455d2ba779598f","x":-105,"y":200,"width":575,"height":200,"type":"group","label":"返回结果"},
+		{"id":"acb4b2262528a25e","x":-660,"y":-180,"width":250,"height":60,"type":"text","text":"Ping"},
+		{"id":"4d6602f2670c635f","x":-273,"y":-180,"width":250,"height":60,"type":"text","text":"IP地址"},
+		{"id":"d12bc893ee7a0651","x":-273,"y":-28,"width":250,"height":60,"type":"text","text":"域名"},
+		{"id":"f2a43d70c5e6e272","x":-85,"y":220,"width":250,"height":60,"type":"text","text":"TTL 生存时间"},
+		{"id":"82d1bf5d9c2e68c4","x":200,"y":220,"width":250,"height":60,"type":"text","text":"RTT 延迟"},
+		{"id":"8989f5f3e0535bff","x":-85,"y":320,"width":250,"height":60,"type":"text","text":"丢包率"}
 	],
 	"edges":[
-		{"id":"27e4f980632b845d","fromNode":"d12592073af397fe","fromSide":"right","toNode":"dafb98d90023e14d","toSide":"left"},
-		{"id":"bd2347f3de78e878","fromNode":"dafb98d90023e14d","fromSide":"right","toNode":"5256ca3818df81b2","toSide":"left"},
-		{"id":"210a9f699d8ba745","fromNode":"dafb98d90023e14d","fromSide":"right","toNode":"2586925e24d1ffe4","toSide":"left"},
-		{"id":"1da0bfe8869da4c3","fromNode":"d12592073af397fe","fromSide":"right","toNode":"419f4034050a1309","toSide":"left"},
-		{"id":"74c6e567ce89e694","fromNode":"419f4034050a1309","fromSide":"right","toNode":"688e80b350d7334d","toSide":"left"},
-		{"id":"44913edead6addc8","fromNode":"419f4034050a1309","fromSide":"right","toNode":"d8757ad79d0bd232","toSide":"left"}
+		{"id":"ff1fc2bdc0943192","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"4d6602f2670c635f","toSide":"left"},
+		{"id":"9d8b0e69abeb3d0f","fromNode":"acb4b2262528a25e","fromSide":"right","toNode":"d12bc893ee7a0651","toSide":"left"},
+		{"id":"6d14f7cea3722b1f","fromNode":"8b993b7e88fb33d7","fromSide":"bottom","toNode":"f0455d2ba779598f","toSide":"left"}
 	]
 }
