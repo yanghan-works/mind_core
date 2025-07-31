@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -40,17 +41,19 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Drawing 2025-07-31 09.17.33.excalidraw 的关系图"
             }
           },
           {
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-31 09.17.33.excalidraw"
             }
           }
         ],
@@ -199,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2025-07-31 09.17.33.excalidraw 的大纲"
             }
           }
         ],
@@ -230,11 +234,13 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "丢包率.md",
+    "RTT 延迟.md",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
-    "Ping 原子化框架.canvas",
-    "未命名.canvas",
     "Ping.md",
+    "未命名.canvas",
+    "为什么用ping？.md",
+    "丢包率.md",
+    "Ping 原子化框架.canvas",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
     "Ping 检查网络连通性.md",
@@ -244,8 +250,6 @@
     "ping  IP地址或域名.md",
     "Ping是什么？.md",
     "TTL 生存时间.md",
-    "RTT 延迟.md",
-    "为什么用ping？.md",
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "未命名.md",
