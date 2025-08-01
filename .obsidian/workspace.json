@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/原子笔记模板.md",
+                "file": "🐧 Linux 核心知识 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "原子笔记模板"
+              "title": "🐧 Linux 核心知识 MOC"
             }
           },
           {
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/原子笔记模板.md",
+                "file": "🐧 Linux 核心知识 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原子笔记模板 的大纲"
+              "title": "🐧 Linux 核心知识 MOC 的大纲"
             }
           }
         ],
@@ -281,8 +281,10 @@
   },
   "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
-    "乐高式框架学习法：五步快速掌握新领域.md",
+    "未命名.canvas",
     "🐧 Linux 核心知识 MOC.md",
+    "Templates/原子笔记模板.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
     "🐹 Go 语言核心知识 MOC.md",
     "🐘 PostgreSQL 核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC.md",
@@ -293,10 +295,8 @@
     "杂记.md",
     "RESTful API 设计指南.md",
     "Templates/HH：mm.md",
-    "未命名.canvas",
     "Templates/YYYY-MM-DD.md",
     "Templates/created_date.md",
-    "Templates/原子笔记模板.md",
     "Excalidraw/Drawing 2025-07-31 09.34.48.excalidraw.md",
     "Excalidraw/Drawing 2025-07-31 14.00.06.excalidraw.md",
     "为什么用ping？.md",
@@ -309,7 +309,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-31 09.17.33.excalidraw.md",
     "Excalidraw/Drawing 2025-07-31 08.40.40.excalidraw.md",
-    "Ping 检查网络连通性.md",
     "Attachments/Pasted image 20250731085818.png",
     "未命名 1.canvas",
     "Attachments/software-architecture.excalidrawlib",
