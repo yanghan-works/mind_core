@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_Kubernetes/Kubernetes Moc.md",
+                "file": "08_PostgreSQL/PostgreSQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Moc"
+              "title": "PostgreSQL"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_Kubernetes/Kubernetes Moc.md",
+                "file": "08_PostgreSQL/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kubernetes Moc 的大纲"
+              "title": "PostgreSQL 的大纲"
             }
           }
         ],
@@ -257,6 +257,7 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
+    "07_Kubernetes/Kubernetes Moc.md",
     "07_Kubernetes/Kubernetes 实践与排错 MOC.md",
     "07_Kubernetes/Kubernetes 生态与工具 MOC.md",
     "07_Kubernetes/Kubernetes 可观察性 (Observability) MOC.md",
@@ -267,7 +268,6 @@
     "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
     "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
     "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
-    "07_Kubernetes/Kubernetes Moc.md",
     "08_PostgreSQL/PostgreSQL.md",
     "08_PostgreSQL",
     "06_Golang/Golang Moc.md",
