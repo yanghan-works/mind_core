@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "杂记"
+              "title": "乐高式框架学习法：五步快速掌握新领域"
             }
           },
           {
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md",
+                "file": "乐高式框架学习法：五步快速掌握新领域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂记 的大纲"
+              "title": "乐高式框架学习法：五步快速掌握新领域 的大纲"
             }
           }
         ],
@@ -281,6 +281,7 @@
   },
   "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
+    "杂记.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "🐧 Linux 核心知识 MOC.md",
     "未命名.canvas",
@@ -292,7 +293,6 @@
     "🐍 Python 核心知识 MOC.md",
     "Rocky Linux工具清单.md",
     "安装rocky.md",
-    "杂记.md",
     "RESTful API 设计指南.md",
     "Templates/HH：mm.md",
     "Templates/YYYY-MM-DD.md",
