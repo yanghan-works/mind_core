@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL.md",
+                "file": "07_Kubernetes/Kubernetes Moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "Kubernetes Moc"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL.md",
+                "file": "07_Kubernetes/Kubernetes Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PostgreSQL 的大纲"
+              "title": "Kubernetes Moc 的大纲"
             }
           }
         ],
@@ -257,21 +257,21 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
-    "07_Kubernetes/Kubernetes 核心概念与架构 MOC.md",
-    "07_Kubernetes/Kubernetes 调度 (Scheduling) MOC.md",
-    "07_Kubernetes/Kubernetes 可观察性 (Observability) MOC.md",
     "07_Kubernetes/Kubernetes 实践与排错 MOC.md",
     "07_Kubernetes/Kubernetes 生态与工具 MOC.md",
+    "07_Kubernetes/Kubernetes 可观察性 (Observability) MOC.md",
+    "07_Kubernetes/Kubernetes 调度 (Scheduling) MOC.md",
+    "07_Kubernetes/Kubernetes 核心概念与架构 MOC.md",
     "07_Kubernetes/kubectl 命令 MOC.md",
+    "07_Kubernetes/Kubernetes Workloads (工作负载) MOC.md",
     "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
-    "08_PostgreSQL/PostgreSQL.md",
+    "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
+    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "07_Kubernetes/Kubernetes Moc.md",
+    "08_PostgreSQL/PostgreSQL.md",
     "08_PostgreSQL",
     "06_Golang/Golang Moc.md",
-    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "07_Kubernetes/未命名.md",
-    "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
-    "07_Kubernetes/Kubernetes Workloads (工作负载) MOC.md",
     "06_Golang/Go 基础语法 MOC.md",
     "06_Golang/Go 实战项目与模式 MOC.md",
     "06_Golang/Go 工具链与测试 MOC.md",
