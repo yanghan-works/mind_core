@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Linux 基础概念.canvas",
+                "file": "Linux.canvas",
                 "viewState": {
-                  "x": -644.0163384882894,
-                  "y": 670.355921021936,
-                  "zoom": -1.1140880164272808
+                  "x": 2417.982151249492,
+                  "y": 2.1375220279163614,
+                  "zoom": -1.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linux 基础概念"
+              "title": "Linux"
             }
           },
           {
@@ -306,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux 基础概念.canvas",
+                "file": "文件系统层次结构标准 (FHS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux 基础概念 的大纲"
+              "title": "文件系统层次结构标准 (FHS) 的大纲"
             }
           }
         ],
@@ -338,8 +338,9 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "容器安全.md",
+    "Linux.canvas",
     "Linux 基础概念.canvas",
+    "容器安全.md",
     "LXC 与其他容器技术.md",
     "Kubernetes 容器编排.md",
     "Docker 容器技术.md",
@@ -351,7 +352,6 @@
     "Bootloader 与启动流程.md",
     "文件系统层次结构标准 (FHS).md",
     "Shell 概述.md",
-    "Linux.canvas",
     "Linux MOC.md",
     "Linux 定义与历史.md",
     "GNU 项目与自由软件.md",
