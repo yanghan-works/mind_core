@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Golang/未命名.md",
+                "file": "07_Kubernetes/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_Golang/未命名.md",
+                "file": "07_Kubernetes/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,10 +257,23 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
-    "06_Golang/Go 数据结构 MOC.md",
-    "06_Golang/未命名.md",
+    "07_Kubernetes/Kubernetes 核心概念与架构 MOC.md",
+    "07_Kubernetes/未命名.md",
+    "07_Kubernetes/kubectl 命令 MOC.md",
+    "07_Kubernetes/Kubernetes Moc.md",
+    "Golang Moc.md",
     "06_Golang/Go 基础语法 MOC.md",
-    "06_Golang/Golang Moc.md",
+    "06_Golang/Go 实战项目与模式 MOC.md",
+    "06_Golang/Go 工具链与测试 MOC.md",
+    "06_Golang/Go 包与模块 MOC.md",
+    "06_Golang/Go 进阶主题 MOC.md",
+    "06_Golang/Go 标准库精选 MOC.md",
+    "06_Golang/Go 错误处理 MOC.md",
+    "06_Golang/Go 接口 (Interfaces) MOC.md",
+    "06_Golang/Go 并发编程 MOC.md",
+    "06_Golang/Go 函数与方法 MOC.md",
+    "06_Golang/Go 数据结构 MOC.md",
+    "07_Kubernetes",
     "05_Linux/Linux 内核与启动流程 MOC.md",
     "05_Linux/Linux 生态与发行版 MOC.md",
     "04_Python/Python 标准库精选 MOC.md",
@@ -271,19 +284,7 @@
     "05_Linux/Linux 常用命令 MOC.md",
     "05_Linux/Linux 核心哲学与概念 MOC.md",
     "05_Linux/Linux 文件系统与导航 MOC.md",
-    "05_Linux/Linux MOC.md",
-    "05_Linux/Linux 进程与服务管理 MOC.md",
-    "04_Python/Python 面向对象编程(OOP) MOC.md",
     "06_Golang",
-    "04_Python/Python 基础语法 MOC.md",
-    "05_Linux/Shell 脚本编程 MOC.md",
-    "05_Linux/Linux 实战技巧与 HOWTOs MOC.md",
-    "05_Linux/Linux 网络基础 MOC.md",
-    "05_Linux/Linux 容器技术 MOC.md",
-    "05_Linux/Linux 系统监控与日志 MOC.md",
-    "05_Linux/Linux 软件包管理 MOC.md",
-    "04_Python/Python 学习资源 MOC.md",
-    "04_Python/Python 项目 MOC.md",
     "05_Linux",
     "04_Python",
     "01_Attachments/Pasted image 20250726232123.png",
@@ -311,7 +312,6 @@
     "02-Areas/Ping 测试网络连接性.canvas",
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
-    "02-Areas/Linux",
     "Canvas/未命名.canvas"
   ]
 }
