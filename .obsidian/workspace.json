@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/Python MOC.md",
+                "file": "05_Linux/Linux 知识地图 (MOC).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python MOC"
+              "title": "Linux 知识地图 (MOC)"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/Python MOC.md",
+                "file": "05_Linux/Linux 知识地图 (MOC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python MOC 的大纲"
+              "title": "Linux 知识地图 (MOC) 的大纲"
             }
           }
         ],
@@ -232,36 +232,37 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "04_python/Python 数据结构 MOC.md",
-    "04_python/Python 基础语法 MOC.md",
-    "04_python/Python MOC.md",
-    "04_python/Python 标准库精选 MOC.md",
-    "04_python/Python 虚拟环境与包管理 MOC.md",
-    "04_python/Poetry - 现代化的依赖管理与打包工具.md",
-    "04_python/Python 面向对象编程(OOP) MOC.md",
-    "04_python/Python 函数与模块 MOC.md",
+    "05_Linux/Linux 文本处理 MOC.md",
+    "05_Linux/useradd, userdel, usermod - 用户管理.md",
+    "05_Linux/Linux 知识地图 (MOC).md",
+    "05_Linux/未命名.md",
+    "05_Linux/Linux 网络基础 MOC.md",
+    "05_Linux/Linux 容器技术 MOC.md",
+    "05_Linux/Linux 内核与启动流程 MOC.md",
+    "常用Linux工具列表.md",
+    "05_Linux/Shell 脚本编程 MOC.md",
+    "05_Linux/Linux 实战技巧与 HOWTOs MOC.md",
+    "05_Linux/Linux 用户与权限管理 MOC.md",
+    "05_Linux/Linux 常用命令 MOC.md",
+    "05_Linux/Linux 文件系统与导航 MOC.md",
+    "05_Linux/Linux 核心哲学与概念 MOC.md",
+    "04_Python/Python MOC.md",
+    "05_Linux",
+    "04_Python/Python 数据结构 MOC.md",
+    "04_Python/Python 基础语法 MOC.md",
+    "04_Python/Python 函数与模块 MOC.md",
+    "04_Python/Python 标准库精选 MOC.md",
+    "04_Python/Python 虚拟环境与包管理 MOC.md",
+    "04_Python/Poetry - 现代化的依赖管理与打包工具.md",
+    "04_Python/Python 面向对象编程(OOP) MOC.md",
     "04_python/Python 变量与常量.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
-    "04_python",
+    "04_Python",
     "杂记.md",
-    "常用Linux工具列表.md",
     "01_Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
     "开源与社区.md",
-    "不同发行版的特点与差异.md",
-    "安装rocky.md",
-    "Systemd 与 Init 系统.md",
-    "Shell 概述.md",
-    "RESTful API 设计指南.md",
-    "LXC 与其他容器技术.md",
-    "Linux 桌面环境 MOC.md",
-    "Linux 哲学思想.md",
-    "Linux 用户与权限 MOC.md",
-    "Linux 系统服务 MOC.md",
-    "Linux 文件系统 MOC.md",
-    "Linux 网络配置 MOC.md",
-    "Linux 软件包管理 MOC.md",
     "Linux MOC.canvas",
     "Screenshots/屏幕截图 2025-08-02 144458.png",
     "Screenshots/屏幕截图 2025-08-02 144451.png",
@@ -286,7 +287,6 @@
     "02-Areas/未命名.canvas",
     "02-Areas/Linux",
     "FETCH_HEAD",
-    "Flashcards",
     "Canvas/未命名.canvas"
   ]
 }
