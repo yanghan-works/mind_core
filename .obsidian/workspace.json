@@ -11,24 +11,10 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "杂记"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -63,13 +49,37 @@
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": -510.05757331985205,
-                  "y": 319.22404167441846,
+                  "x": 248.44661955226536,
+                  "y": -174.9803608413048,
                   "zoom": -0.856206911523413
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "未命名"
+            }
+          },
+          {
+            "id": "dc7ba20245961235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主流 Linux 发行版概述.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "主流 Linux 发行版概述"
             }
           },
           {
@@ -96,8 +106,7 @@
               "title": "安装rocky"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,13 +251,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -272,11 +280,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99b23dc8eed5f14a",
+  "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Linux 开发环境 MOC.md",
+    "🐧 Linux 核心 MOC.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "🐍 Python 核心知识 MOC.md",
+    "Linux 命令行 MOC.md",
     "Linux 系统服务 MOC.md",
+    "未命名.canvas",
+    "杂记.md",
+    "主流 Linux 发行版概述.md",
+    "Linux 安全 MOC.md",
+    "Linux 开发环境 MOC.md",
     "Linux Shell 脚本 MOC.md",
     "Linux 桌面环境 MOC.md",
     "Linux 软件包管理 MOC.md",
@@ -284,22 +299,15 @@
     "Linux 进程管理 MOC.md",
     "Linux 用户与权限 MOC.md",
     "Linux 基础概念 MOC.md",
-    "🐧 Linux 核心 MOC.md",
     "安装rocky.md",
-    "杂记.md",
     "常用Linux工具列表.md",
     "Rocky Linux工具清单.md",
-    "Linux 安全 MOC.md",
     "Linux 故障排除与优化 MOC.md",
-    "Linux 命令行 MOC.md",
     "Linux 文件系统 MOC.md",
     "容器安全基础.md",
     "以太网接口.md",
-    "🐍 Python 核心知识 MOC.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "Templates/原子笔记模板.md",
     "🐹 Go 语言核心知识 MOC.md",
-    "🐘 PostgreSQL 核心知识 MOC.md",
     "Ping 原子化框架.canvas",
     "Excalidraw",
     "Attachments/Pasted image 20250731085818.png",
