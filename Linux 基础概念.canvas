@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"7f8ad561ac88d256","x":-800,"y":-1640,"width":1420,"height":960,"type":"group","label":"虚拟化与容器"},
+		{"id":"62664d1615f8b238","type":"group","x":460,"y":-546,"width":960,"height":920,"label":"什么是 Linux？"},
+		{"id":"7947b88d9a639270","type":"group","x":-560,"y":460,"width":960,"height":900,"label":"Linux发行版"},
+		{"id":"759da5f22508bd74","type":"group","x":-1469,"y":-306,"width":909,"height":440,"label":"哲学与文化"},
+		{"id":"4b8bc8d5f1f500c6","x":-1820,"y":385,"width":901,"height":1035,"type":"group","label":"未命名组"},
+		{"id":"76ef6499efcd6273","type":"file","file":"如何选择 Linux 发行版.md","x":-540,"y":940,"width":400,"height":400},
+		{"id":"6ece5b61d4d41f10","type":"file","file":"Linux 发行版版本管理.md","x":-40,"y":940,"width":400,"height":400},
+		{"id":"de266031a71f1ea9","type":"file","file":"主流 Linux 发行版概述.md","x":-540,"y":480,"width":400,"height":400},
+		{"id":"b973b102681b5092","type":"file","file":"不同发行版的特点与差异.md","x":-40,"y":480,"width":400,"height":400},
+		{"id":"ab0acf525c252893","type":"file","file":"开源与社区.md","x":-1449,"y":-286,"width":400,"height":400},
+		{"id":"f3f3c6c46fc9c265","type":"file","file":"Linux 哲学思想.md","x":-1009,"y":-286,"width":400,"height":400},
+		{"id":"a5fb6cdd573f7d2e","type":"file","file":"Linux 基础概念 MOC.md","x":-280,"y":-286,"width":400,"height":400},
+		{"id":"8b53309f4d734637","x":-300,"y":-1620,"width":400,"height":400,"type":"file","file":"容器安全.md"},
+		{"id":"7f66c2ef047e6cbc","x":200,"y":-1620,"width":400,"height":400,"type":"file","file":"Kubernetes 容器编排.md"},
+		{"id":"f258876a7b4f47ee","x":-780,"y":-1100,"width":400,"height":400,"type":"file","file":"虚拟机 (VM) 基础.md"},
+		{"id":"0fae5b22b31121ae","x":-300,"y":-1100,"width":400,"height":400,"type":"file","file":"Docker 容器技术.md"},
+		{"id":"ea8284bedd700688","x":200,"y":-1100,"width":400,"height":400,"type":"file","file":"LXC 与其他容器技术.md"},
+		{"id":"3321b04c7534338b","x":-1339,"y":405,"width":400,"height":400,"type":"file","file":"Shell 概述.md"},
+		{"id":"212b36555134249f","x":-1800,"y":405,"width":400,"height":400,"type":"file","file":"文件系统层次结构标准 (FHS).md"},
+		{"id":"2f39b20062af4dcf","x":-1800,"y":1000,"width":400,"height":400,"type":"file","file":"Bootloader 与启动流程.md"},
+		{"id":"15106fc161d4ffac","x":-1339,"y":1000,"width":400,"height":400,"type":"file","file":"Systemd 与 Init 系统.md"},
+		{"id":"1ed2745f28412206","type":"file","file":"Linux 内核.md","x":480,"y":-526,"width":400,"height":400},
+		{"id":"2cc3f3306ca8ffd9","type":"file","file":"Linux 定义与历史.md","x":480,"y":-46,"width":400,"height":400},
+		{"id":"077de4e4de16559b","type":"file","file":"GNU 项目与自由软件.md","x":1000,"y":-526,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"50ffa3b10df6bc21","fromNode":"a5fb6cdd573f7d2e","fromSide":"right","toNode":"62664d1615f8b238","toSide":"left"},
+		{"id":"b0f60b4e7b4a9421","fromNode":"a5fb6cdd573f7d2e","fromSide":"bottom","toNode":"7947b88d9a639270","toSide":"top"},
+		{"id":"108a9d4eece6fd0a","fromNode":"a5fb6cdd573f7d2e","fromSide":"top","toNode":"7f8ad561ac88d256","toSide":"bottom"},
+		{"id":"bb431d147760a349","fromNode":"a5fb6cdd573f7d2e","fromSide":"left","toNode":"759da5f22508bd74","toSide":"right"}
+	]
+}

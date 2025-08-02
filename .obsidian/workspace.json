@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Linux 白板.canvas",
+                "file": "Linux 基础概念.canvas",
                 "viewState": {
-                  "x": 363.84737021470994,
-                  "y": -358.66301762889714,
-                  "zoom": -0.5769809835295305
+                  "x": -644.0163384882894,
+                  "y": 670.355921021936,
+                  "zoom": -1.1140880164272808
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linux 白板"
+              "title": "Linux 基础概念"
             }
           },
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Linux 白板.canvas",
+                "file": "Linux.canvas",
                 "viewState": {
                   "x": 248.44661955226536,
                   "y": -174.9803608413048,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linux 白板"
+              "title": "Linux"
             }
           },
           {
@@ -306,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux 白板.canvas",
+                "file": "Linux 基础概念.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux 白板 的大纲"
+              "title": "Linux 基础概念 的大纲"
             }
           }
         ],
@@ -338,11 +338,26 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "不同发行版的特点与差异.md",
-    "Linux 白板.canvas",
-    "Linux 发行版版本管理.md",
+    "容器安全.md",
+    "Linux 基础概念.canvas",
+    "LXC 与其他容器技术.md",
+    "Kubernetes 容器编排.md",
+    "Docker 容器技术.md",
     "如何选择 Linux 发行版.md",
-    "🐧 Linux 核心 MOC.md",
+    "虚拟机 (VM) 基础.md",
+    "Linux 哲学思想.md",
+    "开源与社区.md",
+    "Systemd 与 Init 系统.md",
+    "Bootloader 与启动流程.md",
+    "文件系统层次结构标准 (FHS).md",
+    "Shell 概述.md",
+    "Linux.canvas",
+    "Linux MOC.md",
+    "Linux 定义与历史.md",
+    "GNU 项目与自由软件.md",
+    "Linux 内核.md",
+    "不同发行版的特点与差异.md",
+    "Linux 发行版版本管理.md",
     "Linux 基础概念 MOC.md",
     "Linux 软件包管理 MOC.md",
     "Linux 故障排除与优化 MOC.md",
@@ -350,21 +365,7 @@
     "常用Linux工具列表.md",
     "Linux 安全 MOC.md",
     "Linux 开发环境 MOC.md",
-    "Linux 系统服务 MOC.md",
-    "Linux Shell 脚本 MOC.md",
-    "Linux 桌面环境 MOC.md",
-    "Linux 网络配置 MOC.md",
-    "Linux 进程管理 MOC.md",
-    "Linux 用户与权限 MOC.md",
-    "Linux 文件系统 MOC.md",
-    "Linux 命令行 MOC.md",
-    "安装rocky.md",
     "Attachments/Pasted image 20250731085818.png",
-    "Templates/原子笔记模板.md",
-    "Templates/created_date.md",
-    "Templates/HH：mm.md",
-    "Templates/YYYY-MM-DD.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
     "Ping 原子化框架.canvas",
     "Excalidraw",
     "未命名 1.canvas",
@@ -390,7 +391,6 @@
     "DailyNotes",
     "Canvas",
     "02_Assets/Pasted image 20250714133913.png",
-    "02_Assets/Pasted image 20250714133909.png",
-    "02_Canvas/未命名.canvas"
+    "02_Assets/Pasted image 20250714133909.png"
   ]
 }
