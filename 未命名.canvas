@@ -1,6 +1,33 @@
 {
 	"nodes":[
-		{"id":"f9e3cbb74d0502e3","x":-417,"y":-249,"width":250,"height":60,"type":"text","text":"[[🐧 Linux 之魂：一切皆文件 (Everything is a File)]]"}
+		{"id":"941a0734479da1f2","x":-326,"y":-521,"width":400,"height":400,"type":"file","file":"Linux 基础概念 MOC.md"},
+		{"id":"ef1e9fbdf290c7e7","x":-1040,"y":-521,"width":400,"height":400,"type":"file","file":"Linux 软件包管理 MOC.md"},
+		{"id":"9f49141fd84f1a03","x":-1040,"y":80,"width":400,"height":400,"type":"file","file":"🐧 Linux 核心 MOC.md"},
+		{"id":"68b1bc92e6d0ca15","x":-326,"y":-20,"width":400,"height":400,"type":"file","file":"Linux 命令行 MOC.md"},
+		{"id":"46302b06f5ae5c28","x":-326,"y":-1120,"width":400,"height":400,"type":"file","file":"Linux 开发环境 MOC.md"},
+		{"id":"241cc98f9cf1924f","x":-326,"y":-1680,"width":400,"height":400,"type":"file","file":"Linux 安全 MOC.md"},
+		{"id":"350ab2600cc55ded","x":-1780,"y":-20,"width":400,"height":400,"type":"file","file":"Linux 进程管理 MOC.md"},
+		{"id":"32e7c80c3a1cbfd4","x":-1780,"y":-521,"width":400,"height":400,"type":"file","file":"Linux 网络配置 MOC.md"},
+		{"id":"0717c501f6e11a3a","x":-1780,"y":-1120,"width":400,"height":400,"type":"file","file":"Linux 故障排除与优化 MOC.md"},
+		{"id":"36d4dd7b027d311b","x":-326,"y":1180,"width":400,"height":400,"type":"file","file":"Linux Shell 脚本 MOC.md"},
+		{"id":"52a36ccfcfa4bede","x":-326,"y":620,"width":400,"height":400,"type":"file","file":"Linux 文件系统 MOC.md"},
+		{"id":"d4e4d0327c39789d","x":-1780,"y":1180,"width":400,"height":400,"type":"file","file":"Linux 系统服务 MOC.md"},
+		{"id":"c61f43e85d099cef","x":-1780,"y":620,"width":400,"height":400,"type":"file","file":"Linux 用户与权限 MOC.md"},
+		{"id":"808489133d006a5e","x":-1040,"y":620,"width":400,"height":400,"type":"file","file":"Linux 桌面环境 MOC.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ae684fe9e9ac1f7a","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"941a0734479da1f2","toSide":"left"},
+		{"id":"811309bf73972827","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"68b1bc92e6d0ca15","toSide":"left"},
+		{"id":"66b6df203a437605","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"52a36ccfcfa4bede","toSide":"left"},
+		{"id":"9100eff0ac1bb30c","fromNode":"9f49141fd84f1a03","fromSide":"left","toNode":"c61f43e85d099cef","toSide":"right"},
+		{"id":"aab9a1fb1ea45e75","fromNode":"9f49141fd84f1a03","fromSide":"left","toNode":"350ab2600cc55ded","toSide":"right"},
+		{"id":"24b29dc345ac0803","fromNode":"9f49141fd84f1a03","fromSide":"left","toNode":"32e7c80c3a1cbfd4","toSide":"right"},
+		{"id":"f1f2ffd5a7a45b40","fromNode":"9f49141fd84f1a03","fromSide":"top","toNode":"ef1e9fbdf290c7e7","toSide":"bottom"},
+		{"id":"ded4dbb19258c83d","fromNode":"9f49141fd84f1a03","fromSide":"bottom","toNode":"808489133d006a5e","toSide":"top"},
+		{"id":"d3a8ef00941a229a","fromNode":"9f49141fd84f1a03","fromSide":"left","toNode":"d4e4d0327c39789d","toSide":"right"},
+		{"id":"afb2b2f9ba5a14ea","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"36d4dd7b027d311b","toSide":"left"},
+		{"id":"d3413119c5323764","fromNode":"9f49141fd84f1a03","fromSide":"left","toNode":"0717c501f6e11a3a","toSide":"right"},
+		{"id":"cf80012d1bf4d839","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"46302b06f5ae5c28","toSide":"left"},
+		{"id":"86c1e5f45b2e75f3","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"241cc98f9cf1924f","toSide":"left"}
+	]
 }
