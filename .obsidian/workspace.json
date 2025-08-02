@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/Python 基础语法 MOC.md",
+                "file": "04_python/Python MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 基础语法 MOC"
+              "title": "Python MOC"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/Python 基础语法 MOC.md",
+                "file": "04_python/Python MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 基础语法 MOC 的大纲"
+              "title": "Python MOC 的大纲"
             }
           }
         ],
@@ -232,9 +232,15 @@
   },
   "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "04_python/Python MOC.md",
+    "04_python/Python 数据结构 MOC.md",
+    "04_python/Python 标准库精选 MOC.md",
+    "04_python/Python 虚拟环境与包管理 MOC.md",
+    "04_python/Poetry - 现代化的依赖管理与打包工具.md",
+    "04_python/Python 面向对象编程(OOP) MOC.md",
+    "04_python/Python 函数与模块 MOC.md",
     "04_python/Python 基础语法 MOC.md",
     "04_python/Python 变量与常量.md",
+    "04_python/Python MOC.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "04_python",
     "杂记.md",
@@ -256,12 +262,6 @@
     "Linux 文件系统 MOC.md",
     "Linux 网络配置 MOC.md",
     "Linux 软件包管理 MOC.md",
-    "Linux 内核.md",
-    "Linux 命令行 MOC.md",
-    "Linux 开发环境 MOC.md",
-    "Linux 进程管理 MOC.md",
-    "Linux 基础概念 MOC.md",
-    "Linux 故障排除与优化 MOC.md",
     "Linux MOC.canvas",
     "Screenshots/屏幕截图 2025-08-02 144458.png",
     "Screenshots/屏幕截图 2025-08-02 144451.png",

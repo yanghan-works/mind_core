@@ -1,3 +1,9 @@
+---
+tags:
+  - Python
+aliases: 
+date: 2025-08-02 16:21
+---
 
 **上层地图**: [[Python MOC]]
 
