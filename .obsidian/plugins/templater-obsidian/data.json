@@ -17,6 +17,10 @@
     {
       "folder": "/",
       "template": "Templates/created_date.md"
+    },
+    {
+      "folder": "04_python",
+      "template": "Templates/created_date.md"
     }
   ],
   "enable_file_templates": false,

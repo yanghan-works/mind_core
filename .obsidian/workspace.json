@@ -11,19 +11,9 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "99b23dc8eed5f14a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "04_python/Python 基础语法 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Python 基础语法 MOC"
             }
           },
           {
@@ -65,8 +55,7 @@
               "title": "安装rocky"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "04_python/Python 基础语法 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Python 基础语法 MOC 的大纲"
             }
           }
         ],
@@ -241,62 +230,63 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99b23dc8eed5f14a",
+  "active": "12d285f0222af6b1",
   "lastOpenFiles": [
-    "杂记.md",
-    "未命名.md",
-    "Linux 故障排除与优化 MOC.md",
+    "04_python/Python MOC.md",
+    "04_python/Python 基础语法 MOC.md",
+    "04_python/Python 变量与常量.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
-    "Linux MOC.canvas",
-    "主流 Linux 发行版概述.md",
-    "如何选择 Linux 发行版.md",
-    "Linux 发行版版本管理.md",
-    "Linux 基础概念.canvas",
-    "容器安全.md",
-    "LXC 与其他容器技术.md",
-    "Kubernetes 容器编排.md",
-    "Docker 容器技术.md",
-    "虚拟机 (VM) 基础.md",
-    "Linux 哲学思想.md",
-    "开源与社区.md",
-    "Systemd 与 Init 系统.md",
-    "Bootloader 与启动流程.md",
-    "文件系统层次结构标准 (FHS).md",
-    "Shell 概述.md",
-    "Linux MOC.md",
-    "Linux 定义与历史.md",
-    "GNU 项目与自由软件.md",
-    "Linux 内核.md",
-    "不同发行版的特点与差异.md",
-    "Linux 基础概念 MOC.md",
-    "Linux 软件包管理 MOC.md",
+    "04_python",
+    "杂记.md",
     "常用Linux工具列表.md",
+    "01_Attachments/Pasted image 20250726232123.png",
+    "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
+    "开源与社区.md",
+    "不同发行版的特点与差异.md",
+    "安装rocky.md",
+    "Systemd 与 Init 系统.md",
+    "Shell 概述.md",
+    "RESTful API 设计指南.md",
+    "LXC 与其他容器技术.md",
+    "Linux 桌面环境 MOC.md",
+    "Linux 哲学思想.md",
+    "Linux 用户与权限 MOC.md",
+    "Linux 系统服务 MOC.md",
+    "Linux 文件系统 MOC.md",
+    "Linux 网络配置 MOC.md",
+    "Linux 软件包管理 MOC.md",
+    "Linux 内核.md",
+    "Linux 命令行 MOC.md",
+    "Linux 开发环境 MOC.md",
+    "Linux 进程管理 MOC.md",
+    "Linux 基础概念 MOC.md",
+    "Linux 故障排除与优化 MOC.md",
+    "Linux MOC.canvas",
+    "Screenshots/屏幕截图 2025-08-02 144458.png",
+    "Screenshots/屏幕截图 2025-08-02 144451.png",
+    "Screenshots/屏幕截图 2025-08-01 221538.png",
+    "Screenshots/屏幕截图 2025-07-31 145710.png",
+    "Screenshots/屏幕截图 2025-07-31 110448.png",
+    "Screenshots/屏幕截图 2025-07-31 085815.png",
+    "Screenshots/屏幕截图 2025-07-30 202018.png",
+    "Screenshots/desktop.ini",
+    "Screenshots",
+    "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
-    "Excalidraw",
+    "03_Excalidraw",
     "未命名 1.canvas",
-    "Attachments/software-architecture.excalidrawlib",
+    "01_Attachments/software-architecture.excalidrawlib",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
     "02-Areas",
     "02-Areas/Ping 测试网络连接性.canvas",
-    "Attachments/Pasted image 20250726232123.png",
-    "Attachments/Pasted image 20250726230245.png",
-    "Attachments/Pasted image 20250726232350.png",
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
     "02-Areas/Linux",
-    "Attachments/Pasted image 20250717172001.png",
-    "Attachments/Pasted image 20250717172008.png",
-    "Attachments/Pasted image 20250717170824.png",
     "FETCH_HEAD",
     "Flashcards",
-    "Canvas/未命名.canvas",
-    "Daily Notes",
-    "DailyNotes",
-    "Canvas",
-    "02_Assets/Pasted image 20250714133913.png",
-    "02_Assets/Pasted image 20250714133909.png"
+    "Canvas/未命名.canvas"
   ]
 }
