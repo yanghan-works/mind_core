@@ -4,7 +4,7 @@ alias:
 date: 2025-08-02 17:07
 ---
 
-**上层地图**: [[Kubernetes MOC]]
+**上层地图**: [[Kubernetes Moc]]
 
 ---
 ## 核心理念
