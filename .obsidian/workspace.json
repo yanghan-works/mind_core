@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧 Linux 核心知识 MOC.md",
+                "file": "杂记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🐧 Linux 核心知识 MOC"
+              "title": "杂记"
             }
           },
           {
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐧 Linux 核心知识 MOC.md",
+                "file": "杂记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🐧 Linux 核心知识 MOC 的大纲"
+              "title": "杂记 的大纲"
             }
           }
         ],
@@ -281,10 +281,10 @@
   },
   "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "🐧 Linux 核心知识 MOC.md",
-    "Templates/原子笔记模板.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
+    "🐧 Linux 核心知识 MOC.md",
+    "未命名.canvas",
+    "Templates/原子笔记模板.md",
     "🐹 Go 语言核心知识 MOC.md",
     "🐘 PostgreSQL 核心知识 MOC.md",
     "☸️ Kubernetes 核心知识 MOC.md",
