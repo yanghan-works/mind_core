@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"941a0734479da1f2","type":"file","file":"Linux 基础概念 MOC.md","x":-326,"y":-521,"width":400,"height":400},
 		{"id":"ef1e9fbdf290c7e7","type":"file","file":"Linux 软件包管理 MOC.md","x":-1040,"y":-521,"width":400,"height":400},
 		{"id":"9f49141fd84f1a03","type":"file","file":"🐧 Linux 核心 MOC.md","x":-1040,"y":80,"width":400,"height":400},
 		{"id":"68b1bc92e6d0ca15","type":"file","file":"Linux 命令行 MOC.md","x":-326,"y":-20,"width":400,"height":400},
@@ -14,7 +13,11 @@
 		{"id":"d4e4d0327c39789d","type":"file","file":"Linux 系统服务 MOC.md","x":-1780,"y":1180,"width":400,"height":400},
 		{"id":"c61f43e85d099cef","type":"file","file":"Linux 用户与权限 MOC.md","x":-1780,"y":620,"width":400,"height":400},
 		{"id":"808489133d006a5e","type":"file","file":"Linux 桌面环境 MOC.md","x":-1040,"y":620,"width":400,"height":400},
-		{"id":"fac69470a9854466","x":480,"y":-880,"width":400,"height":400,"type":"file","file":"主流 Linux 发行版概述.md"}
+		{"id":"fac69470a9854466","type":"file","file":"主流 Linux 发行版概述.md","x":480,"y":-980,"width":400,"height":400},
+		{"id":"941a0734479da1f2","type":"file","file":"Linux 基础概念 MOC.md","x":-326,"y":-540,"width":400,"height":400},
+		{"id":"9dca6b7e8d9856fc","type":"file","file":"如何选择 Linux 发行版.md","x":1000,"y":-980,"width":400,"height":400},
+		{"id":"9125b47a098e8245","x":480,"y":-480,"width":400,"height":400,"type":"file","file":"不同发行版的特点与差异.md"},
+		{"id":"a8db3c64be34908d","type":"file","file":"Linux 发行版版本管理.md","x":1000,"y":-480,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"ae684fe9e9ac1f7a","fromNode":"9f49141fd84f1a03","fromSide":"right","toNode":"941a0734479da1f2","toSide":"left"},

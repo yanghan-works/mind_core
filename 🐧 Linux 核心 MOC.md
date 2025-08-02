@@ -1,8 +1,14 @@
 ---
-tags: 
-alias: 
+tags:
+  - Linux
+  - MOC
+aliases: 
 date: 2025-07-31 15:26
 ---
+
+---
+
+[[Linux 白板.canvas]]
 
 ## 核心概念与基础
 

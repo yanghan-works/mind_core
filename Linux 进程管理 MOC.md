@@ -1,6 +1,8 @@
 ---
-tags: 
-alias: 
+tags:
+  - Linux
+  - MOC
+aliases: 
 date: 2025-08-02 13:54
 ---
 
