@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Linux/Linux 知识地图 (MOC).md",
+                "file": "06_Golang/Go 数据结构 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux 知识地图 (MOC)"
+              "title": "Go 数据结构 MOC"
+            }
+          },
+          {
+            "id": "0b698257f111e673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Golang/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "安装rocky"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Linux/Linux 知识地图 (MOC).md",
+                "file": "06_Golang/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux 知识地图 (MOC) 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -230,39 +255,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d285f0222af6b1",
+  "active": "0b698257f111e673",
   "lastOpenFiles": [
-    "05_Linux/Linux 文本处理 MOC.md",
-    "05_Linux/useradd, userdel, usermod - 用户管理.md",
-    "05_Linux/Linux 知识地图 (MOC).md",
-    "05_Linux/未命名.md",
-    "05_Linux/Linux 网络基础 MOC.md",
-    "05_Linux/Linux 容器技术 MOC.md",
+    "06_Golang/Go 数据结构 MOC.md",
+    "06_Golang/未命名.md",
+    "06_Golang/Go 基础语法 MOC.md",
+    "06_Golang/Golang Moc.md",
     "05_Linux/Linux 内核与启动流程 MOC.md",
-    "常用Linux工具列表.md",
-    "05_Linux/Shell 脚本编程 MOC.md",
-    "05_Linux/Linux 实战技巧与 HOWTOs MOC.md",
+    "05_Linux/Linux 生态与发行版 MOC.md",
+    "04_Python/Python 标准库精选 MOC.md",
+    "04_Python/Python 数据结构 MOC.md",
+    "04_Python/Python MOC.md",
+    "05_Linux/Linux 文本处理 MOC.md",
     "05_Linux/Linux 用户与权限管理 MOC.md",
     "05_Linux/Linux 常用命令 MOC.md",
-    "05_Linux/Linux 文件系统与导航 MOC.md",
     "05_Linux/Linux 核心哲学与概念 MOC.md",
-    "04_Python/Python MOC.md",
-    "05_Linux",
-    "04_Python/Python 数据结构 MOC.md",
-    "04_Python/Python 基础语法 MOC.md",
-    "04_Python/Python 函数与模块 MOC.md",
-    "04_Python/Python 标准库精选 MOC.md",
-    "04_Python/Python 虚拟环境与包管理 MOC.md",
-    "04_Python/Poetry - 现代化的依赖管理与打包工具.md",
+    "05_Linux/Linux 文件系统与导航 MOC.md",
+    "05_Linux/Linux MOC.md",
+    "05_Linux/Linux 进程与服务管理 MOC.md",
     "04_Python/Python 面向对象编程(OOP) MOC.md",
-    "04_python/Python 变量与常量.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
+    "06_Golang",
+    "04_Python/Python 基础语法 MOC.md",
+    "05_Linux/Shell 脚本编程 MOC.md",
+    "05_Linux/Linux 实战技巧与 HOWTOs MOC.md",
+    "05_Linux/Linux 网络基础 MOC.md",
+    "05_Linux/Linux 容器技术 MOC.md",
+    "05_Linux/Linux 系统监控与日志 MOC.md",
+    "05_Linux/Linux 软件包管理 MOC.md",
+    "04_Python/Python 学习资源 MOC.md",
+    "04_Python/Python 项目 MOC.md",
+    "05_Linux",
     "04_Python",
-    "杂记.md",
     "01_Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
-    "开源与社区.md",
     "Linux MOC.canvas",
     "Screenshots/屏幕截图 2025-08-02 144458.png",
     "Screenshots/屏幕截图 2025-08-02 144451.png",
@@ -286,7 +312,6 @@
     "09_SourceHanSansSC.zip",
     "02-Areas/未命名.canvas",
     "02-Areas/Linux",
-    "FETCH_HEAD",
     "Canvas/未命名.canvas"
   ]
 }
