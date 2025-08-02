@@ -11,115 +11,19 @@
             "id": "12d285f0222af6b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Linux.canvas",
-                "viewState": {
-                  "x": 2417.982151249492,
-                  "y": 2.1375220279163614,
-                  "zoom": -1.9999999999999998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "3d5a8f1891ebb924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux 发行版版本管理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux 发行版版本管理"
-            }
-          },
-          {
-            "id": "87d548ac252b9318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何选择 Linux 发行版.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "如何选择 Linux 发行版"
-            }
-          },
-          {
-            "id": "1b41db40dbc6005b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍 Python 核心知识 MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "🐍 Python 核心知识 MOC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
             "id": "99b23dc8eed5f14a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Linux.canvas",
-                "viewState": {
-                  "x": 248.44661955226536,
-                  "y": -174.9803608413048,
-                  "zoom": -0.856206911523413
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "dc7ba20245961235",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "主流 Linux 发行版概述.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主流 Linux 发行版概述"
+              "title": "未命名"
             }
           },
           {
@@ -161,7 +65,8 @@
               "title": "安装rocky"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文件系统层次结构标准 (FHS).md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文件系统层次结构标准 (FHS) 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -336,15 +241,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d285f0222af6b1",
+  "active": "99b23dc8eed5f14a",
   "lastOpenFiles": [
-    "Linux.canvas",
+    "Linux 故障排除与优化 MOC.md",
+    "未命名.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "Linux MOC.canvas",
+    "主流 Linux 发行版概述.md",
+    "如何选择 Linux 发行版.md",
+    "Linux 发行版版本管理.md",
     "Linux 基础概念.canvas",
     "容器安全.md",
     "LXC 与其他容器技术.md",
     "Kubernetes 容器编排.md",
     "Docker 容器技术.md",
-    "如何选择 Linux 发行版.md",
     "虚拟机 (VM) 基础.md",
     "Linux 哲学思想.md",
     "开源与社区.md",
@@ -357,14 +267,10 @@
     "GNU 项目与自由软件.md",
     "Linux 内核.md",
     "不同发行版的特点与差异.md",
-    "Linux 发行版版本管理.md",
     "Linux 基础概念 MOC.md",
     "Linux 软件包管理 MOC.md",
-    "Linux 故障排除与优化 MOC.md",
-    "主流 Linux 发行版概述.md",
     "常用Linux工具列表.md",
     "Linux 安全 MOC.md",
-    "Linux 开发环境 MOC.md",
     "Attachments/Pasted image 20250731085818.png",
     "Ping 原子化框架.canvas",
     "Excalidraw",
