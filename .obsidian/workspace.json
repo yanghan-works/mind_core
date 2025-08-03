@@ -11,24 +11,17 @@
             "id": "9c0b054bfe2f6ff8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "什么是Ping命令？.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -51.4482758620689,
+                  "y": -261.83620689655174,
+                  "zoom": -0.6258347821366845
                 }
               },
-              "icon": "lucide-file",
-              "title": "什么是Ping命令？"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -176,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "什么是Ping命令？.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "什么是Ping命令？ 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -208,14 +201,14 @@
   },
   "active": "9c0b054bfe2f6ff8",
   "lastOpenFiles": [
-    "Ping 如何使用？.md",
-    "Ping 原理.md",
-    "ping -c 次数 指定次数.md",
-    "ping -s 大小 指定大小.md",
-    "Ping 返回结果.md",
-    "未命名.canvas",
     "什么是Ping命令？.md",
-    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "ping -s 大小 指定大小.md",
+    "ping -c 次数 指定次数.md",
+    "未命名.canvas",
+    "Ping 原理.excalidraw.md",
+    "Ping 如何使用？.md",
+    "Ping 返回结果.md",
+    "Ping 原理.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
     "ICMP.md",
     "awk.md",

@@ -1,4 +1,19 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"eaafe091ef742977","x":171,"y":-740,"width":250,"height":60,"type":"text","text":""},
+		{"id":"82dab78307fd80ae","type":"text","text":"[[什么是Ping命令？]]","x":-580,"y":-256,"width":250,"height":60},
+		{"id":"258a74d1eac18faa","type":"file","file":"Ping 返回结果.md","x":-140,"y":-106,"width":400,"height":400},
+		{"id":"4141663fc725047e","type":"text","text":"[[Ping 如何使用？]]","x":-140,"y":-376,"width":250,"height":60},
+		{"id":"267d1add5c176e08","type":"text","text":"[[ping -c 次数 指定次数]]","x":180,"y":-436,"width":250,"height":60},
+		{"id":"b92b63749aba1b85","type":"text","text":"[[ping -s 大小 指定大小]]","x":180,"y":-316,"width":250,"height":60},
+		{"id":"551b215ca3f06f6a","type":"file","file":"Ping 原理.excalidraw.md","x":-1360,"y":-543,"width":685,"height":634},
+		{"id":"fc7cbd167b9c56a9","x":-340,"y":-880,"width":400,"height":400,"type":"file","file":"Ping 如何使用？.md"}
+	],
+	"edges":[
+		{"id":"343259967d629ede","fromNode":"82dab78307fd80ae","fromSide":"right","toNode":"4141663fc725047e","toSide":"left"},
+		{"id":"a6469aa572604ed6","fromNode":"4141663fc725047e","fromSide":"right","toNode":"267d1add5c176e08","toSide":"left"},
+		{"id":"e2e057faa137dd4c","fromNode":"4141663fc725047e","fromSide":"right","toNode":"b92b63749aba1b85","toSide":"left"},
+		{"id":"43da0c066819086a","fromNode":"82dab78307fd80ae","fromSide":"right","toNode":"258a74d1eac18faa","toSide":"left"},
+		{"id":"fb14d7ebd20252c3","fromNode":"82dab78307fd80ae","fromSide":"left","toNode":"551b215ca3f06f6a","toSide":"right"}
+	]
 }
