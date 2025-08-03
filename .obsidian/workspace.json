@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
+                "file": "05_Linux/常用Linux工具列表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "杂记"
+              "title": "常用Linux工具列表"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md",
+                "file": "05_Linux/常用Linux工具列表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂记 的大纲"
+              "title": "常用Linux工具列表 的大纲"
             }
           }
         ],
@@ -208,6 +208,7 @@
   },
   "active": "a8d3a9be1698a084",
   "lastOpenFiles": [
+    "杂记.md",
     "08_PostgreSQL/PostgreSQL MOC.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
     "07_Kubernetes/Kubernetes Moc.md",
@@ -233,7 +234,6 @@
     "04_Python/Python 基础语法 MOC.md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
     "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
-    "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
