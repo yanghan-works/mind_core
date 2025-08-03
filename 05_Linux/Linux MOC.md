@@ -3,9 +3,9 @@ tags:
 alias: 
 date: 2025-08-02 16:42
 ---
-## tags: alias: date: 2025-08-02 16:42
-
 > "Everything is a file."
+
+---
 
 ## 基础与操作
 
