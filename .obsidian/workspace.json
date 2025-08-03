@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grep Moc.md",
+                "file": "grep 目的.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grep Moc"
+              "title": "grep 目的"
             }
           },
           {
@@ -348,13 +348,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep Moc.md",
+                "file": "grep 目的.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep Moc 的大纲"
+              "title": "grep 目的 的大纲"
             }
           }
         ],
@@ -380,6 +380,8 @@
   },
   "active": "376cc4825bd827c3",
   "lastOpenFiles": [
+    "grep how？.md",
+    "grep Moc.md",
     "grep与find命令结合使用.md",
     "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
@@ -390,7 +392,6 @@
     "ping Moc.md",
     "ping what？.md",
     "ping why？.md",
-    "grep Moc.md",
     "grep canvas.canvas",
     "grep 概念.md",
     "grep 目的.md",
@@ -402,7 +403,6 @@
     "grep -r '搜索模式' 目录名.md",
     "find Moc.md",
     "find how.md",
-    "grep how？.md",
     "正则表达式.md",
     "管道符.md",
     "grep -r '搜索模式.md",
