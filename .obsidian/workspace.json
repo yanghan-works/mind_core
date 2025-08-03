@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
+                "file": "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL 核心概念与数据类型 MOC"
+              "title": "PostgreSQL 事务与并发控制 MOC"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
+                "file": "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PostgreSQL 核心概念与数据类型 MOC 的大纲"
+              "title": "PostgreSQL 事务与并发控制 MOC 的大纲"
             }
           }
         ],
@@ -257,13 +257,14 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
-    "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
+    "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
     "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
     "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
-    "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
-    "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
-    "08_PostgreSQL/PostgreSQL 索引与性能优化 MOC.md",
+    "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
+    "08_PostgreSQL/PostgreSQL 索引与性能优化 MOC.md",
+    "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
     "06_Golang/Go 接口 (Interfaces) MOC.md",
     "06_Golang/Go 函数与方法 MOC.md",
     "06_Golang/Go 并发编程 MOC.md",
@@ -283,7 +284,6 @@
     "07_Kubernetes/Kubernetes 生态与工具 MOC.md",
     "07_Kubernetes/Kubernetes 实践与排错 MOC.md",
     "08_PostgreSQL",
-    "06_Golang/Golang Moc.md",
     "07_Kubernetes",
     "06_Golang",
     "05_Linux",
