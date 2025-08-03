@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grep.md",
+                "file": "telnet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grep"
+              "title": "telnet"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep.md",
+                "file": "telnet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 的大纲"
+              "title": "telnet 的大纲"
             }
           }
         ],
@@ -257,12 +257,12 @@
   },
   "active": "9c0b054bfe2f6ff8",
   "lastOpenFiles": [
+    "Ping.md",
+    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "telnet.md",
+    "grep.md",
     "sed.md",
     "awk.md",
-    "grep.md",
-    "Ping.md",
-    "telnet.md",
-    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "head.md",
     "cat.md",
     "Attachments/software-architecture (1).excalidrawlib",
