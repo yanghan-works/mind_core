@@ -35,12 +35,24 @@
             "id": "6efbddc88b5db001",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
+                "file": "Ping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ping"
             }
           }
         ],
@@ -189,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+                "file": "Ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
+              "title": "Ping 的大纲"
             }
           }
         ],
@@ -222,12 +234,13 @@
   "active": "6efbddc88b5db001",
   "lastOpenFiles": [
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
-    "Attachments/software-architecture (1).excalidrawlib",
-    "Attachments",
+    "telnet.md",
     "未命名.md",
     "Ping.md",
+    "Attachments/software-architecture (1).excalidrawlib",
+    "Attachments",
     "Excalidraw",
-    "01_Attachments/Pasted image 20250726232123.png",
+    "Attachments/Pasted image 20250726232123.png",
     "PostgreSQL MOC.md",
     "Kubernetes Moc.md",
     "杂记.md",

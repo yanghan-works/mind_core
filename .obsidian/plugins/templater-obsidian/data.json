@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "02_Templates",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -23,7 +23,7 @@
   "file_templates": [
     {
       "regex": ".*",
-      "template": "02_Templates/created_date.md"
+      "template": "Templates/created_date.md"
     }
   ],
   "syntax_highlighting": true,
