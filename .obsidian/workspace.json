@@ -15,8 +15,8 @@
               "state": {
                 "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": 242.29622641509434,
-                  "y": -84.73710691823904,
+                  "x": 303.7301886792453,
+                  "y": 399.4153899833957,
                   "zoom": -0.03407393409452941
                 }
               },
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep canvas.canvas",
+                "file": "grep -v 反向匹配.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep canvas 的大纲"
+              "title": "grep -v 反向匹配 的大纲"
             }
           }
         ],
@@ -201,13 +201,14 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
+    "grep -v 反向匹配.md",
+    "grep canvas.canvas",
     "grep how？.md",
     "ping 返回结果.md",
     "grep why.md",
     "ping 原理.excalidraw.md",
     "ping how？.md",
     "ping Moc.md",
-    "grep canvas.canvas",
     "ping canvas.canvas",
     "ping -s 大小 指定大小.md",
     "ping -c 次数 指定次数.md",
@@ -227,7 +228,6 @@
     "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
     "telnet 端口检查.md",
-    "head.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
