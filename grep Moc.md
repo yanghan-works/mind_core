@@ -7,11 +7,22 @@ aliases:
 date: 2025-08-03 18:34
 ---
 
+## 目的/概念
+
+- [[grep 目的]]
+
+- [[grep 概念]]
+
+
+
+
+
+
 ## 核心链接
 
-- [[grep why]]
+- [[grep 目的]]
 
-- [[grep what？]]
+- [[grep 概念]]
 
 - [[grep how？]]
 

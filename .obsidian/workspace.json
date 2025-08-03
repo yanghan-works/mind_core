@@ -100,34 +100,96 @@
             "id": "376cc4825bd827c3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "grep canvas.canvas",
-                "viewState": {
-                  "x": 128.01665774931098,
-                  "y": 1331.4892789362925,
-                  "zoom": -0.4295486485926367
+                "file": "grep Moc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
+              "icon": "lucide-file",
+              "title": "grep Moc"
+            }
+          },
+          {
+            "id": "ad1b1a744ddcd2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep 概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "grep 概念"
+            }
+          },
+          {
+            "id": "8b81243919cf9fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep 目的.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "grep 目的"
             }
           },
           {
             "id": "6281d1c125079887",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "grep canvas.canvas",
-                "viewState": {
-                  "x": 488.51886792452837,
-                  "y": 949.1077535377359,
-                  "zoom": -0.8189740053244379
+                "file": "ping Moc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
+              "icon": "lucide-file",
+              "title": "ping Moc"
             }
           },
           {
@@ -141,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,13 +348,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep canvas.canvas",
+                "file": "grep Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep canvas 的大纲"
+              "title": "grep Moc 的大纲"
             }
           }
         ],
@@ -316,23 +378,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6281d1c125079887",
+  "active": "376cc4825bd827c3",
   "lastOpenFiles": [
+    "grep 概念.md",
+    "grep Moc.md",
+    "grep 目的.md",
+    "grep canvas.canvas",
+    "ping Moc.md",
     "grep.md",
     "grep -i 忽略大小写.md",
-    "grep canvas.canvas",
     "grep 与正则表达式结合使用.md",
     "grep -v 反向匹配.md",
     "grep -n 显示行号.md",
     "grep -r '搜索模式' 目录名.md",
     "find Moc.md",
-    "ping Moc.md",
-    "grep Moc.md",
     "find how.md",
-    "grep why.md",
     "grep与find命令结合使用.md",
     "grep how？.md",
-    "grep what？.md",
     "正则表达式.md",
     "管道符.md",
     "ping how？.md",
