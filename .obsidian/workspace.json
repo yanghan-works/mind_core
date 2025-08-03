@@ -117,17 +117,10 @@
             "id": "6281d1c125079887",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "grep canvas.canvas",
-                "viewState": {
-                  "x": 383.05547150144355,
-                  "y": 572.1479387670978,
-                  "zoom": -0.8137827332397136
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -286,13 +279,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep 与正则表达式结合使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 与正则表达式结合使用 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -318,24 +310,24 @@
   },
   "active": "6281d1c125079887",
   "lastOpenFiles": [
-    "find Moc.md",
+    "grep与find命令结合使用.md",
+    "grep 与正则表达式结合使用.md",
+    "grep -v 反向匹配.md",
     "find how.md",
+    "find Moc.md",
+    "grep what？.md",
+    "grep -n 显示行号.md",
     "grep canvas.canvas",
     "grep Moc.md",
-    "grep 与正则表达式结合使用.md",
     "正则表达式.md",
-    "grep与find命令结合使用.md",
     "管道符.md",
     "grep why.md",
-    "grep what？.md",
     "grep how？.md",
     "grep -r '搜索模式' 目录名.md",
     "ping how？.md",
     "ping why？.md",
     "ping what？.md",
     "ping Moc.md",
-    "grep -v 反向匹配.md",
-    "grep -n 显示行号.md",
     "grep -i 忽略大小写.md",
     "grep -r '搜索模式.md",
     "ping -s 大小 指定大小.md",
@@ -345,7 +337,6 @@
     "ping canvas.canvas",
     "grep 参数.md",
     "grep.md",
-    "sed.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",

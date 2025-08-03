@@ -6,13 +6,13 @@
 		{"id":"1474eaddb46dd383","type":"file","file":"grep -v 反向匹配.md","x":-522,"y":-700,"width":415,"height":249},
 		{"id":"2109034b5d178bd2","type":"file","file":"grep why.md","x":-453,"y":200,"width":278,"height":288},
 		{"id":"5caed051c06c7e88","type":"file","file":"grep -n 显示行号.md","x":830,"y":-60,"width":372,"height":201},
-		{"id":"0592ccb285db8fbd","type":"file","file":"grep -r '搜索模式' 目录名.md","x":860,"y":329,"width":380,"height":223},
-		{"id":"704c68a28213a365","type":"file","file":"grep -i 忽略大小写.md","x":423,"y":313,"width":407,"height":255},
 		{"id":"aa8cce6e5b667358","type":"file","file":"grep 与正则表达式结合使用.md","x":-640,"y":620,"width":400,"height":400},
 		{"id":"6ad27f9254f7d0a1","type":"file","file":"正则表达式.md","x":-1240,"y":620,"width":400,"height":400},
 		{"id":"5ffa988c133c30ad","type":"file","file":"find how.md","x":-640,"y":1160,"width":400,"height":400},
 		{"id":"97425ba159b10b06","type":"file","file":"grep与find命令结合使用.md","x":60,"y":731,"width":486,"height":338},
-		{"id":"ba41a3a8e649ee30","type":"file","file":"管道符.md","x":1002,"y":700,"width":400,"height":400}
+		{"id":"ba41a3a8e649ee30","type":"file","file":"管道符.md","x":1002,"y":700,"width":400,"height":400},
+		{"id":"704c68a28213a365","type":"file","file":"grep -i 忽略大小写.md","x":423,"y":329,"width":407,"height":255},
+		{"id":"0592ccb285db8fbd","type":"file","file":"grep -r '搜索模式' 目录名.md","x":920,"y":329,"width":380,"height":255}
 	],
 	"edges":[
 		{"id":"363a918291d11980","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"30e3a8f049c26a2f","toSide":"left"},
