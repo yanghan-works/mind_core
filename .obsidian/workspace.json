@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "grep Moc"
             }
+          },
+          {
+            "id": "97ae06c656c82172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep how？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "grep how？"
+            }
+          },
+          {
+            "id": "85def0abc49cab2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep Moc.md",
+                "file": "grep how？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep Moc 的大纲"
+              "title": "grep how？ 的大纲"
             }
           }
         ],
@@ -206,35 +241,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "049ca2691551617d",
+  "active": "97ae06c656c82172",
   "lastOpenFiles": [
+    "grep Moc.md",
     "grep canvas.canvas",
     "grep -r '搜索模式' 目录名.md",
+    "grep what？.md",
+    "grep why.md",
+    "grep how？.md",
+    "ping how？.md",
+    "ping why？.md",
+    "ping what？.md",
+    "ping Moc.md",
+    "grep -v 反向匹配.md",
     "grep -n 显示行号.md",
     "grep -i 忽略大小写.md",
-    "grep -v 反向匹配.md",
-    "grep how？.md",
-    "ping 返回结果.md",
-    "grep why.md",
-    "ping 原理.excalidraw.md",
-    "ping how？.md",
-    "ping Moc.md",
-    "ping canvas.canvas",
+    "grep -r '搜索模式.md",
     "ping -s 大小 指定大小.md",
+    "ping 返回结果.md",
     "ping -c 次数 指定次数.md",
-    "ping what？.md",
-    "ping why？.md",
-    "grep what？.md",
+    "ping 原理.excalidraw.md",
+    "ping canvas.canvas",
     "grep 参数.md",
-    "grep Moc.md",
     "grep.md",
     "sed.md",
     "Ping 原理.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
     "ICMP.md",
     "awk.md",
-    "Ping 检查网络连通性.md",
-    "2025-08-03.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",

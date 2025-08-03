@@ -2,7 +2,8 @@
 tags:
   - Ping
   - Linux
-  - 网络排查
+  - 网络故障排查
+  - 命令
 aliases: 
 date: 2025-08-03 17:54
 ---
