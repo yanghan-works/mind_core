@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "grep canvas.canvas",
+                "file": "ping canvas.canvas",
                 "viewState": {
-                  "x": 53,
-                  "y": -85,
-                  "zoom": 0
+                  "x": -42.55000000000001,
+                  "y": -6.349999999999795,
+                  "zoom": -1.008061501969265
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
+              "title": "ping canvas"
             }
           }
         ]
@@ -43,7 +43,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep canvas.canvas",
+                "file": "ping canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep canvas 的大纲"
+              "title": "ping canvas 的大纲"
             }
           }
         ],
@@ -201,17 +201,18 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
-    "grep如何使用？.md",
-    "grep参数.md",
-    "grep是什么？.md",
-    "grep Moc.md",
     "grep canvas.canvas",
-    "ping Moc.md",
-    "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
+    "ping -c 次数 指定次数.md",
+    "ping what？.md",
+    "ping how？.md",
+    "ping why？.md",
+    "grep how？.md",
+    "grep what？.md",
+    "ping Moc.md",
+    "grep 参数.md",
+    "grep Moc.md",
     "ping 返回结果.md",
-    "ping 如何使用？.md",
-    "什么是ping命令？.md",
     "ping 原理.excalidraw.md",
     "ping canvas.canvas",
     "grep.md",
@@ -231,8 +232,6 @@
     "Attachments",
     "Excalidraw",
     "Attachments/Pasted image 20250726232123.png",
-    "PostgreSQL MOC.md",
-    "Kubernetes Moc.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",

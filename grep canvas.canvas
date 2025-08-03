@@ -1,14 +1,14 @@
 {
 	"nodes":[
+		{"id":"30e3a8f049c26a2f","type":"file","file":"grep what？.md","x":60,"y":-540,"width":253,"height":276},
+		{"id":"39636b0f44b35229","type":"file","file":"grep 参数.md","x":440,"y":-393,"width":245,"height":258},
+		{"id":"e181fb0c070f467b","type":"text","text":"[[grep Moc]]","x":-440,"y":-240,"width":250,"height":60},
 		{"id":"5c9807351262f7db","x":-342,"y":43,"width":250,"height":60,"type":"text","text":""},
-		{"id":"30e3a8f049c26a2f","type":"file","file":"grep是什么？.md","x":60,"y":-540,"width":253,"height":276},
-		{"id":"39636b0f44b35229","type":"file","file":"grep参数.md","x":440,"y":-393,"width":245,"height":258},
-		{"id":"5e3b73795281d213","type":"file","file":"grep如何使用？.md","x":360,"y":-80,"width":253,"height":297},
-		{"id":"e181fb0c070f467b","type":"text","text":"[[grep Moc]]","x":-440,"y":-240,"width":250,"height":60}
+		{"id":"5e3b73795281d213","type":"file","file":"grep how？.md","x":60,"y":-135,"width":253,"height":297}
 	],
 	"edges":[
 		{"id":"363a918291d11980","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"30e3a8f049c26a2f","toSide":"left"},
-		{"id":"7ef1d81641b02fee","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"39636b0f44b35229","toSide":"left"},
+		{"id":"7ef1d81641b02fee","fromNode":"5e3b73795281d213","fromSide":"right","toNode":"39636b0f44b35229","toSide":"left"},
 		{"id":"0800108bef7bdc9a","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"5e3b73795281d213","toSide":"left"}
 	]
 }

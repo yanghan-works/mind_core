@@ -6,10 +6,10 @@ tags:
 aliases: 
 date: 2025-08-03 18:18
 ---
-- [[什么是ping命令？]]
+- [[ping what？]]
     
 - [[ping 原理.excalidraw]]
     
-- [[ping 如何使用？]]
+- [[ping how？]]
     
 - [[ping 返回结果]]
