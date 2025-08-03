@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c0b054bfe2f6ff8",
+            "id": "049ca2691551617d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": -51.4482758620689,
-                  "y": -261.83620689655174,
-                  "zoom": -0.6258347821366845
+                  "x": -469.41964760992215,
+                  "y": 236.23681012866587,
+                  "zoom": -0.8658505713677487
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,21 +199,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c0b054bfe2f6ff8",
+  "active": "049ca2691551617d",
   "lastOpenFiles": [
+    "grep.md",
+    "Ping 返回结果.md",
+    "Ping MOC.md",
+    "什么是grep？.md",
     "什么是Ping命令？.md",
-    "ping -s 大小 指定大小.md",
+    "Ping 如何使用？.md",
     "ping -c 次数 指定次数.md",
+    "ping -s 大小 指定大小.md",
+    "未命名 1.canvas",
     "未命名.canvas",
     "Ping 原理.excalidraw.md",
-    "Ping 如何使用？.md",
-    "Ping 返回结果.md",
+    "sed.md",
     "Ping 原理.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
     "ICMP.md",
     "awk.md",
-    "sed.md",
-    "grep.md",
     "Ping 检查网络连通性.md",
     "2025-08-03.md",
     "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
@@ -229,8 +232,6 @@
     "Kubernetes Moc.md",
     "杂记.md",
     "05_Linux/常用Linux工具列表.md",
-    "乐高式框架学习法：五步快速掌握新领域.md",
-    "Go MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
@@ -250,7 +251,6 @@
     "Screenshots",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
-    "未命名 1.canvas",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
