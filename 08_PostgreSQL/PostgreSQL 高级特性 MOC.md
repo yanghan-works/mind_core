@@ -45,7 +45,9 @@ date: 2025-08-03 08:32
 - [[PostgreSQL 扩展 (Extensions)]]
 
     - [[PostGIS - 地理信息系统扩展]]
+
     - [[TimescaleDB - 时序数据库扩展]]
+
     - [[pgvector - 向量数据库扩展]]
     
 - [[外部数据包装器 (Foreign Data Wrappers - FDW)]] 
