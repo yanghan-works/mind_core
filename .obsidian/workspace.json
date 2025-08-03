@@ -35,9 +35,26 @@
             "id": "97ae06c656c82172",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "grep canvas.canvas",
+                "viewState": {
+                  "x": 344.39949369386585,
+                  "y": 598.4773211559809,
+                  "zoom": -0.6695371012254905
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "grep canvas"
+            }
+          },
+          {
+            "id": "bd1e5b26fb826f44",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "grep why.md",
+                "file": "find Moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +69,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grep why"
+              "title": "find Moc"
+            }
+          },
+          {
+            "id": "0a888801d0e976b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正则表达式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "正则表达式"
+            }
+          },
+          {
+            "id": "376cc4825bd827c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "grep canvas.canvas",
+                "viewState": {
+                  "x": 128.01665774931098,
+                  "y": 1331.4892789362925,
+                  "zoom": -0.4295486485926367
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "grep canvas"
+            }
+          },
+          {
+            "id": "6281d1c125079887",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "grep canvas.canvas",
+                "viewState": {
+                  "x": 383.05547150144355,
+                  "y": 572.1479387670978,
+                  "zoom": -0.8137827332397136
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "grep canvas"
             }
           },
           {
@@ -66,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep why.md",
+                "file": "grep 与正则表达式结合使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep why 的大纲"
+              "title": "grep 与正则表达式结合使用 的大纲"
             }
           }
         ],
@@ -241,16 +316,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97ae06c656c82172",
+  "active": "6281d1c125079887",
   "lastOpenFiles": [
-    "grep what？.md",
-    "管道符.md",
+    "find Moc.md",
+    "find how.md",
     "grep canvas.canvas",
-    "grep与find命令结合使用.md",
-    "grep how？.md",
     "grep Moc.md",
-    "grep -r '搜索模式' 目录名.md",
+    "grep 与正则表达式结合使用.md",
+    "正则表达式.md",
+    "grep与find命令结合使用.md",
+    "管道符.md",
     "grep why.md",
+    "grep what？.md",
+    "grep how？.md",
+    "grep -r '搜索模式' 目录名.md",
     "ping how？.md",
     "ping why？.md",
     "ping what？.md",
@@ -267,9 +346,6 @@
     "grep 参数.md",
     "grep.md",
     "sed.md",
-    "Ping 原理.md",
-    "Drawing 2025-08-03 16.04.46.excalidraw.md",
-    "ICMP.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
