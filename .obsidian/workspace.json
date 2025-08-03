@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Python/Python MOC.md",
+                "file": "06_Golang/Golang Moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python MOC"
+              "title": "Golang Moc"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Python/Python MOC.md",
+                "file": "06_Golang/Golang Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python MOC 的大纲"
+              "title": "Golang Moc 的大纲"
             }
           }
         ],
@@ -257,6 +257,10 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
+    "04_Python/Python MOC.md",
+    "05_Linux/Linux MOC.md",
+    "07_Kubernetes/Kubernetes Moc.md",
+    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "06_Golang/Golang Moc.md",
     "06_Golang/Go 并发编程 MOC.md",
     "06_Golang/Go 接口 (Interfaces) MOC.md",
@@ -265,12 +269,8 @@
     "06_Golang/Go 实战项目与模式 MOC.md",
     "06_Golang/Go 进阶主题 MOC.md",
     "06_Golang/Go 包与模块 MOC.md",
-    "05_Linux/Linux MOC.md",
-    "04_Python/Python MOC.md",
     "04_Python/Python 基础语法 MOC.md",
     "05_Linux/常用Linux工具列表.md",
-    "07_Kubernetes/Kubernetes Moc.md",
-    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "07_Kubernetes/kubectl 命令 MOC.md",
     "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
