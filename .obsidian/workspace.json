@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Ping"
             }
+          },
+          {
+            "id": "e6f319a72dcf26bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-03 12.32.44.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping.md",
+                "file": "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 的大纲"
+              "title": "Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
             }
           }
         ],
@@ -206,10 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8d3a9be1698a084",
+  "active": "e6f319a72dcf26bd",
   "lastOpenFiles": [
-    "01_Attachments/Pasted image 20250726232123.png",
     "Ping.md",
+    "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "Excalidraw",
+    "01_Attachments/Pasted image 20250726232123.png",
     "PostgreSQL MOC.md",
     "Kubernetes Moc.md",
     "杂记.md",
@@ -259,7 +274,6 @@
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
-    "02-Areas",
     "02-Areas/Ping 测试网络连接性.canvas",
     "02-Areas/未命名.canvas",
     "Canvas/未命名.canvas"
