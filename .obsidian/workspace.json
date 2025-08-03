@@ -15,9 +15,9 @@
               "state": {
                 "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": 303.7301886792453,
-                  "y": 399.4153899833957,
-                  "zoom": -0.03407393409452941
+                  "x": -141.68847793994445,
+                  "y": 5.088996172080414,
+                  "zoom": -0.3674072674278627
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep -v 反向匹配.md",
+                "file": "grep canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep -v 反向匹配 的大纲"
+              "title": "grep canvas 的大纲"
             }
           }
         ],
@@ -201,6 +201,8 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
+    "grep -n 显示行号.md",
+    "grep -i 忽略大小写.md",
     "grep -v 反向匹配.md",
     "grep canvas.canvas",
     "grep how？.md",
@@ -227,7 +229,6 @@
     "2025-08-03.md",
     "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
-    "telnet 端口检查.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
