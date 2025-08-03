@@ -59,28 +59,28 @@
             "id": "9c0b054bfe2f6ff8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "telnet 端口检查.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "telnet 端口检查"
+              "icon": "excalidraw-icon",
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
+            }
+          },
+          {
+            "id": "8c1e85e1e7c47d8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "awk-Drawing 2025-08-03 15.51.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "awk-Drawing 2025-08-03 15.51.14.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,13 +225,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telnet 端口检查.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "telnet 端口检查 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -255,11 +254,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c0b054bfe2f6ff8",
+  "active": "d4c02f892220e4b7",
   "lastOpenFiles": [
-    "Ping 检查网络连通性.md",
+    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "telnet 端口检查.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "Ping 检查网络连通性.md",
     "grep.md",
     "sed.md",
     "awk.md",
@@ -286,7 +286,6 @@
     "07_Kubernetes/kubectl 命令 MOC.md",
     "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "06_Golang/Go 并发编程 MOC.md",
-    "06_Golang/Go 接口 (Interfaces) MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
