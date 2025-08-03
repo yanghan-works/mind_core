@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telnet 端口检查.md",
+                "file": "Ping 检查网络连通性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "telnet 端口检查"
+              "title": "Ping 检查网络连通性"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telnet 端口检查.md",
+                "file": "Ping 检查网络连通性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "telnet 端口检查 的大纲"
+              "title": "Ping 检查网络连通性 的大纲"
             }
           }
         ],
@@ -257,11 +257,11 @@
   },
   "active": "9c0b054bfe2f6ff8",
   "lastOpenFiles": [
-    "Ping 检查网络连通性.md",
     "telnet 端口检查.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "grep.md",
     "sed.md",
+    "Ping 检查网络连通性.md",
     "awk.md",
     "head.md",
     "cat.md",
