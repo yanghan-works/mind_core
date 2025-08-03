@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Ping.canvas",
+                "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": -392.5,
-                  "y": -123,
-                  "zoom": -1.008061501969265
+                  "x": 53,
+                  "y": -85,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Ping"
+              "title": "grep canvas"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping.canvas",
+                "file": "grep canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 的大纲"
+              "title": "grep canvas 的大纲"
             }
           }
         ],
@@ -201,17 +201,20 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
-    "Ping MOC.md",
-    "grep.md",
-    "grep.canvas",
-    "Ping.canvas",
-    "Ping 如何使用？.md",
-    "什么是Ping命令？.md",
-    "Ping 返回结果.md",
-    "什么是grep？.md",
+    "grep如何使用？.md",
+    "grep参数.md",
+    "grep是什么？.md",
+    "grep Moc.md",
+    "grep canvas.canvas",
+    "ping Moc.md",
     "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
-    "Ping 原理.excalidraw.md",
+    "ping 返回结果.md",
+    "ping 如何使用？.md",
+    "什么是ping命令？.md",
+    "ping 原理.excalidraw.md",
+    "ping canvas.canvas",
+    "grep.md",
     "sed.md",
     "Ping 原理.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
@@ -230,8 +233,6 @@
     "Attachments/Pasted image 20250726232123.png",
     "PostgreSQL MOC.md",
     "Kubernetes Moc.md",
-    "杂记.md",
-    "05_Linux/常用Linux工具列表.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
@@ -254,7 +255,6 @@
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
-    "02-Areas/Ping 测试网络连接性.canvas",
-    "02-Areas/未命名.canvas"
+    "02-Areas/Ping 测试网络连接性.canvas"
   ]
 }
