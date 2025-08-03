@@ -11,17 +11,24 @@
             "id": "049ca2691551617d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "grep canvas.canvas",
-                "viewState": {
-                  "x": -141.68847793994445,
-                  "y": 5.088996172080414,
-                  "zoom": -0.3674072674278627
+                "file": "grep Moc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
+              "icon": "lucide-file",
+              "title": "grep Moc"
             }
           }
         ]
@@ -169,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep canvas.canvas",
+                "file": "grep Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep canvas 的大纲"
+              "title": "grep Moc 的大纲"
             }
           }
         ],
@@ -201,10 +208,11 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
+    "grep canvas.canvas",
+    "grep -r '搜索模式' 目录名.md",
     "grep -n 显示行号.md",
     "grep -i 忽略大小写.md",
     "grep -v 反向匹配.md",
-    "grep canvas.canvas",
     "grep how？.md",
     "ping 返回结果.md",
     "grep why.md",
@@ -227,8 +235,6 @@
     "awk.md",
     "Ping 检查网络连通性.md",
     "2025-08-03.md",
-    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
-    "Drawing 2025-08-03 15.52.00.excalidraw.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
