@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Python/Python MOC.md",
+                "file": "06_Golang/Golang Moc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python MOC"
+              "title": "Golang Moc"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Python/Python MOC.md",
+                "file": "06_Golang/Golang Moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python MOC 的大纲"
+              "title": "Golang Moc 的大纲"
             }
           }
         ],
@@ -257,7 +257,9 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
+    "04_Python/Python MOC.md",
     "05_Linux/Linux MOC.md",
+    "04_Python/Python 基础语法 MOC.md",
     "05_Linux/常用Linux工具列表.md",
     "06_Golang/Golang Moc.md",
     "07_Kubernetes/Kubernetes Moc.md",
@@ -281,8 +283,6 @@
     "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
     "07_Kubernetes/Kubernetes 核心概念与架构 MOC.md",
     "07_Kubernetes/Kubernetes Workloads (工作负载) MOC.md",
-    "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
-    "07_Kubernetes/Kubernetes 调度 (Scheduling) MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
