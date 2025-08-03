@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
+                "file": "04_Python/Python MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL 知识地图 (MOC)"
+              "title": "Python MOC"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
+                "file": "04_Python/Python MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PostgreSQL 知识地图 (MOC) 的大纲"
+              "title": "Python MOC 的大纲"
             }
           }
         ],
@@ -257,10 +257,16 @@
   },
   "active": "0b698257f111e673",
   "lastOpenFiles": [
+    "05_Linux/Linux MOC.md",
+    "05_Linux/常用Linux工具列表.md",
+    "06_Golang/Golang Moc.md",
+    "07_Kubernetes/Kubernetes Moc.md",
+    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
+    "07_Kubernetes/kubectl 命令 MOC.md",
+    "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
     "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
     "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
-    "08_PostgreSQL/PostgreSQL 知识地图 (MOC).md",
     "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
     "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
     "08_PostgreSQL/PostgreSQL 索引与性能优化 MOC.md",
@@ -272,17 +278,11 @@
     "06_Golang/Go 包与模块 MOC.md",
     "06_Golang/Go 标准库精选 MOC.md",
     "06_Golang/Go 错误处理 MOC.md",
-    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
     "07_Kubernetes/Kubernetes 核心概念与架构 MOC.md",
     "07_Kubernetes/Kubernetes Workloads (工作负载) MOC.md",
     "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
-    "07_Kubernetes/Kubernetes Moc.md",
-    "07_Kubernetes/kubectl 命令 MOC.md",
     "07_Kubernetes/Kubernetes 调度 (Scheduling) MOC.md",
-    "07_Kubernetes/Kubernetes 可观察性 (Observability) MOC.md",
-    "07_Kubernetes/Kubernetes 生态与工具 MOC.md",
-    "07_Kubernetes/Kubernetes 实践与排错 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
