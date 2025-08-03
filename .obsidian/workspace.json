@@ -121,9 +121,9 @@
               "state": {
                 "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": -157.77089631627538,
-                  "y": 1715.0232846125828,
-                  "zoom": -0.7150984583803071
+                  "x": 252.12264150943383,
+                  "y": 142.89077240566002,
+                  "zoom": -0.8189740053244379
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -318,12 +318,13 @@
   },
   "active": "6281d1c125079887",
   "lastOpenFiles": [
+    "grep.md",
+    "grep -i 忽略大小写.md",
+    "grep canvas.canvas",
     "grep 与正则表达式结合使用.md",
     "grep -v 反向匹配.md",
-    "grep -i 忽略大小写.md",
     "grep -n 显示行号.md",
     "grep -r '搜索模式' 目录名.md",
-    "grep canvas.canvas",
     "find Moc.md",
     "ping Moc.md",
     "grep Moc.md",
@@ -344,7 +345,6 @@
     "ping 原理.excalidraw.md",
     "ping canvas.canvas",
     "grep 参数.md",
-    "grep.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
