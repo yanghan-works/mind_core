@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping.canvas",
                 "viewState": {
-                  "x": -469.41964760992215,
-                  "y": 236.23681012866587,
-                  "zoom": -0.8658505713677487
+                  "x": -392.5,
+                  "y": -123,
+                  "zoom": -1.008061501969265
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "Ping"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Ping 的大纲"
             }
           }
         ],
@@ -201,16 +201,16 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
-    "grep.md",
-    "Ping 返回结果.md",
     "Ping MOC.md",
-    "什么是grep？.md",
-    "什么是Ping命令？.md",
+    "grep.md",
+    "grep.canvas",
+    "Ping.canvas",
     "Ping 如何使用？.md",
+    "什么是Ping命令？.md",
+    "Ping 返回结果.md",
+    "什么是grep？.md",
     "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
     "Ping 原理.excalidraw.md",
     "sed.md",
     "Ping 原理.md",

@@ -8,7 +8,7 @@ date: 2025-08-03 17:54
 ---
 
 ```shell
-ping ip or 域名
+ping ipaddr or 域名
 ```
 
 
