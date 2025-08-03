@@ -107,11 +107,23 @@
             "id": "bb08d743e13d097e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
             }
           }
@@ -293,14 +305,14 @@
   },
   "active": "bb08d743e13d097e",
   "lastOpenFiles": [
-    "2025-08-03.md",
-    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
+    "未命名.canvas",
+    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "2025-08-03.md",
     "ICMP.md",
     "Ping 检查网络连通性.md",
     "awk.md",
     "grep.md",
-    "未命名.canvas",
     "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "sed.md",
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
@@ -323,7 +335,6 @@
     "04_Python/Python 数据结构 MOC.md",
     "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
     "05_Linux/Linux 核心哲学与概念 MOC.md",
-    "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
