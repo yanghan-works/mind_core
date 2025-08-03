@@ -4,7 +4,7 @@ alias:
 date: 2025-08-02 17:00
 ---
 
-**上层地图**: [[Golang Moc]]
+**上层地图**: [[Go MOC]]
 
 ---
 ## 函数 (Functions)

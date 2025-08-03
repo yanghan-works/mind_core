@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Golang/Golang Moc.md",
+                "file": "08_PostgreSQL/PostgreSQL MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Golang Moc"
+              "title": "PostgreSQL MOC"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_Golang/Golang Moc.md",
+                "file": "08_PostgreSQL/PostgreSQL MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Golang Moc 的大纲"
+              "title": "PostgreSQL MOC 的大纲"
             }
           }
         ],
@@ -258,13 +258,16 @@
   "active": "0b698257f111e673",
   "lastOpenFiles": [
     "07_Kubernetes/Kubernetes Moc.md",
-    "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
+    "06_Golang/Go MOC.md",
+    "04_Python/Python MOC.md",
+    "04_Python/Python 数据结构 MOC.md",
+    "05_Linux/Linux MOC.md",
     "08_PostgreSQL/PostgreSQL MOC.md",
+    "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
+    "05_Linux/Linux 核心哲学与概念 MOC.md",
+    "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
     "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
     "07_Kubernetes/kubectl 命令 MOC.md",
-    "06_Golang/Golang Moc.md",
-    "05_Linux/Linux MOC.md",
-    "04_Python/Python MOC.md",
     "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "06_Golang/Go 并发编程 MOC.md",
     "06_Golang/Go 接口 (Interfaces) MOC.md",
@@ -277,12 +280,9 @@
     "05_Linux/常用Linux工具列表.md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
     "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
-    "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
     "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
     "08_PostgreSQL/PostgreSQL 索引与性能优化 MOC.md",
     "乐高式框架学习法：五步快速掌握新领域.md",
-    "06_Golang/Go 函数与方法 MOC.md",
-    "07_Kubernetes/Kubernetes 配置与存储 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",

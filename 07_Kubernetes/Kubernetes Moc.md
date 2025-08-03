@@ -3,7 +3,10 @@ tags:
 alias: 
 date: 2025-08-02 17:07
 ---
-# "Automated declarative management of containerized applications."
+
+>"Automated declarative management of containerized applications."
+
+---
 
 ## 核心概念与架构
 
