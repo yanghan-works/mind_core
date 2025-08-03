@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"8ad23d13e6910849","x":260,"y":1718,"width":600,"height":642,"type":"file","file":"grep.md"},
 		{"id":"30e3a8f049c26a2f","type":"file","file":"grep what？.md","x":60,"y":-540,"width":253,"height":276},
 		{"id":"e181fb0c070f467b","type":"text","text":"[[grep Moc]]","x":-440,"y":-240,"width":250,"height":60},
 		{"id":"5e3b73795281d213","type":"file","file":"grep how？.md","x":60,"y":-135,"width":580,"height":295},
@@ -14,8 +13,9 @@
 		{"id":"ba41a3a8e649ee30","type":"file","file":"管道符.md","x":1002,"y":700,"width":400,"height":400},
 		{"id":"704c68a28213a365","type":"file","file":"grep -i 忽略大小写.md","x":423,"y":329,"width":407,"height":255},
 		{"id":"0592ccb285db8fbd","type":"file","file":"grep -r '搜索模式' 目录名.md","x":920,"y":329,"width":380,"height":255},
-		{"id":"1d48683f6364271e","x":-300,"y":1872,"width":250,"height":60,"type":"text","text":"管道符"},
-		{"id":"1fd421e6d720f698","x":-765,"y":1872,"width":250,"height":60,"type":"text","text":"find"}
+		{"id":"1d48683f6364271e","type":"text","text":"管道符","x":-300,"y":1872,"width":250,"height":60},
+		{"id":"1fd421e6d720f698","type":"text","text":"find","x":-765,"y":1872,"width":250,"height":60},
+		{"id":"8ad23d13e6910849","type":"file","file":"grep.md","x":303,"y":1581,"width":600,"height":642}
 	],
 	"edges":[
 		{"id":"363a918291d11980","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"30e3a8f049c26a2f","toSide":"left"},
