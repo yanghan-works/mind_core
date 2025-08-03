@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8d3a9be1698a084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ping 检查网络连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "6efbddc88b5db001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ping 检查网络连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "d9951aae10a4e783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICMP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ICMP"
-            }
-          },
-          {
             "id": "9c0b054bfe2f6ff8",
             "type": "leaf",
             "state": {
@@ -90,45 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
             }
-          },
-          {
-            "id": "8c1e85e1e7c47d8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
-            }
-          },
-          {
-            "id": "bb08d743e13d097e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICMP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ICMP"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICMP.md",
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ICMP 的大纲"
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
             }
           }
         ],
@@ -303,18 +194,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb08d743e13d097e",
+  "active": "9c0b054bfe2f6ff8",
   "lastOpenFiles": [
+    "未命名.canvas",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
-    "未命名.canvas",
-    "2025-08-03.md",
     "ICMP.md",
-    "Ping 检查网络连通性.md",
     "awk.md",
-    "grep.md",
-    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "sed.md",
+    "grep.md",
+    "Ping 检查网络连通性.md",
+    "2025-08-03.md",
+    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
     "telnet 端口检查.md",
     "head.md",
