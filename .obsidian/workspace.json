@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b698257f111e673",
+            "id": "a8d3a9be1698a084",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Linux MOC"
             }
-          },
-          {
-            "id": "a8d3a9be1698a084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Linux/常用Linux工具列表.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "常用Linux工具列表"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Linux/常用Linux工具列表.md",
+                "file": "05_Linux/Linux MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用Linux工具列表 的大纲"
+              "title": "Linux MOC 的大纲"
             }
           }
         ],
@@ -233,12 +208,14 @@
   },
   "active": "a8d3a9be1698a084",
   "lastOpenFiles": [
+    "04_Python/Python MOC.md",
+    "乐高式框架学习法：五步快速掌握新领域.md",
+    "06_Golang/Go MOC.md",
+    "05_Linux/常用Linux工具列表.md",
     "05_Linux/Linux 核心理念与概念 MOC.md",
     "05_Linux/Linux MOC.md",
-    "04_Python/Python MOC.md",
     "08_PostgreSQL/PostgreSQL MOC.md",
     "07_Kubernetes/Kubernetes Moc.md",
-    "06_Golang/Go MOC.md",
     "04_Python/Python 数据结构 MOC.md",
     "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
     "05_Linux/Linux 核心哲学与概念 MOC.md",
@@ -254,11 +231,9 @@
     "06_Golang/Go 进阶主题 MOC.md",
     "06_Golang/Go 包与模块 MOC.md",
     "04_Python/Python 基础语法 MOC.md",
-    "05_Linux/常用Linux工具列表.md",
     "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
     "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
     "08_PostgreSQL/PostgreSQL 高级特性 MOC.md",
-    "08_PostgreSQL/PostgreSQL 索引与性能优化 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
