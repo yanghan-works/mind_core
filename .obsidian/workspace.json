@@ -83,38 +83,40 @@
             "id": "9c0b054bfe2f6ff8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": -200,
-                  "zoom": 0
-                }
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
             }
           },
           {
             "id": "8c1e85e1e7c47d8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": -300,
-                  "zoom": 0
-                }
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
+            }
+          },
+          {
+            "id": "bb08d743e13d097e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
             }
           }
         ],
@@ -289,19 +291,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "bb08d743e13d097e",
   "lastOpenFiles": [
-    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
+    "2025-08-03.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
-    "sed.md",
-    "awk.md",
-    "未命名.canvas",
+    "Drawing 2025-08-03 16.04.46.excalidraw.md",
     "ICMP.md",
     "Ping 检查网络连通性.md",
-    "2025-08-03.md",
+    "awk.md",
+    "grep.md",
+    "未命名.canvas",
+    "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
+    "sed.md",
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
     "telnet 端口检查.md",
-    "grep.md",
     "head.md",
     "cat.md",
     "Attachments/software-architecture (1).excalidrawlib",
