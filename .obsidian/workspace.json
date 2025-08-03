@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Moc.md",
+                "file": "Ping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Moc"
+              "title": "Ping"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Moc.md",
+                "file": "Ping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kubernetes Moc 的大纲"
+              "title": "Ping 的大纲"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "a8d3a9be1698a084",
   "lastOpenFiles": [
+    "01_Attachments/Pasted image 20250726232123.png",
+    "Ping.md",
     "PostgreSQL MOC.md",
     "Kubernetes Moc.md",
     "杂记.md",
@@ -232,14 +234,11 @@
     "06_Golang/Go 进阶主题 MOC.md",
     "06_Golang/Go 包与模块 MOC.md",
     "04_Python/Python 基础语法 MOC.md",
-    "08_PostgreSQL/SQL - 数据操作 (DML & DDL) MOC.md",
-    "08_PostgreSQL/PostgreSQL 事务与并发控制 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
     "05_Linux",
     "04_Python",
-    "01_Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
     "Linux MOC.canvas",
