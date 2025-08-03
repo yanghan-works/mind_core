@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Linux MOC"
             }
+          },
+          {
+            "id": "a8d3a9be1698a084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Linux/常用Linux工具列表.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "常用Linux工具列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Linux/Linux MOC.md",
+                "file": "05_Linux/常用Linux工具列表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux MOC 的大纲"
+              "title": "常用Linux工具列表 的大纲"
             }
           }
         ],
@@ -206,7 +231,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b698257f111e673",
+  "active": "a8d3a9be1698a084",
   "lastOpenFiles": [
     "05_Linux/Linux 核心理念与概念 MOC.md",
     "05_Linux/Linux MOC.md",

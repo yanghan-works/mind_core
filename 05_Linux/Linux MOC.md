@@ -43,7 +43,7 @@ date: 2025-08-02 16:42
 
 - **[[Linux 安全加固 MOC]]**：系统安全加固，涵盖**防火墙（`ufw`/`firewalld`）配置、SSH安全配置、SELinux/AppArmor** 等。
     
-
+- **[[Linux 核心理念与概念 MOC]]**：核心概念，包括**内核 (Kernel)**、**Shell**、以及**文件系统层级标准 (FHS)**。
 ## 进阶与生态
 
 - **[[Linux 内核与启动 MOC]]**：内核与启动流程，简要介绍**启动流程（BIOS/UEFI -> GRUB -> Kernel -> initramfs -> systemd）**的概览。
