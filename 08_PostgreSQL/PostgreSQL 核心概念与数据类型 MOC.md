@@ -4,11 +4,13 @@ alias:
 date: 2025-08-03 08:31
 ---
 
-PostgreSQL 核心概念与数据类型 MOC
 **上层地图**: [[PostgreSQL MOC]]
 
 ---
-## 核心概念
+
+## 核心概念 (Core Concepts)
+
+这里是理解 PostgreSQL 如何组织和保证数据完整性的基石。
 
 - [[关系型数据库模型]]
 
@@ -20,14 +22,12 @@ PostgreSQL 核心概念与数据类型 MOC
 
 - [[外键 (Foreign Key)]]
 
-- [[约束 (Constraints) - NOT NULL, UNIQUE, CHECK]]
+- [[约束 (Constraints)]]
 
 - [[序列 (Sequences) 与自增列]]
 
-## 常用数据类型
-- **字符类型**: `varchar`, `char`, `text`
-- **数值类型**: `integer`, `bigint`, `numeric`, `real`
-- **日期/时间类型**: `timestamp`, `date`, `time`, `interval`
-- **布尔类型**: `boolean`
-- **二进制类型**: `bytea`
-- **特色类型**: `json`, `jsonb`, `array`, `uuid`
+## 数据类型 (Data Types)
+
+这里通往 PostgreSQL 中用于定义数据形态的各种类型。
+
+- [[PostgreSQL 核心数据类型]]
