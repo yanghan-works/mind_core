@@ -28,44 +28,33 @@ date: 2025-08-03 13:03
 
 **基本语法：**
 
-```
+``` shell
 telnet [主机名或IP地址] [端口号]
-
-
-
 ```
 
 **例子：**
 
 - **连接一个网页服务器（通常是 80 端口）：**
     
-    ```
+    ```shell
     telnet www.example.com 80
-    
-    
-    
+ 
     ```
     
     如果你能看到类似 `Connected to www.example.com.` 的信息，说明连接成功了！然后你可以手动输入 HTTP 请求（比如 `GET / HTTP/1.1`），看看服务器返回什么。
     
 - **连接一个 FTP 服务器（通常是 21 端口）：**
     
-    ```
+    ```shell
     telnet ftp.example.com 21
-    
-    
-    
     ```
     
     连接成功后，你可能会看到 FTP 服务器的欢迎信息。
     
 - **连接一个邮件服务器（SMTP 端口 25 或 587）：**
     
-    ```
+    ```shell
     telnet smtp.example.com 25
-    
-    
-    
     ```
     
 
