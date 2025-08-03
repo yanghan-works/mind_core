@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Ping"
             }
+          },
+          {
+            "id": "9c0b054bfe2f6ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "grep"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ping.md",
+                "file": "grep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ping 的大纲"
+              "title": "grep 的大纲"
             }
           }
         ],
@@ -231,12 +255,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6efbddc88b5db001",
+  "active": "9c0b054bfe2f6ff8",
   "lastOpenFiles": [
-    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
-    "telnet.md",
-    "未命名.md",
+    "sed.md",
+    "awk.md",
+    "grep.md",
     "Ping.md",
+    "telnet.md",
+    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "head.md",
+    "cat.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
@@ -259,10 +287,6 @@
     "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
     "06_Golang/Go 并发编程 MOC.md",
     "06_Golang/Go 接口 (Interfaces) MOC.md",
-    "06_Golang/Go 错误处理 MOC.md",
-    "06_Golang/Go 标准库精选 MOC.md",
-    "06_Golang/Go 实战项目与模式 MOC.md",
-    "06_Golang/Go 进阶主题 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
