@@ -122,7 +122,7 @@
                 "file": "grep canvas.canvas",
                 "viewState": {
                   "x": 488.51886792452837,
-                  "y": 1605.371904481132,
+                  "y": 949.1077535377359,
                   "zoom": -0.8189740053244379
                 }
               },
@@ -286,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep.md",
+                "file": "grep canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 的大纲"
+              "title": "grep canvas 的大纲"
             }
           }
         ],
