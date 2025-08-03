@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,8 +221,11 @@
   },
   "active": "6efbddc88b5db001",
   "lastOpenFiles": [
+    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "Attachments/software-architecture (1).excalidrawlib",
+    "Attachments",
+    "未命名.md",
     "Ping.md",
-    "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "Excalidraw",
     "01_Attachments/Pasted image 20250726232123.png",
     "PostgreSQL MOC.md",
@@ -247,8 +250,6 @@
     "06_Golang/Go 标准库精选 MOC.md",
     "06_Golang/Go 实战项目与模式 MOC.md",
     "06_Golang/Go 进阶主题 MOC.md",
-    "06_Golang/Go 包与模块 MOC.md",
-    "04_Python/Python 基础语法 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
@@ -268,9 +269,7 @@
     "Screenshots",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
-    "03_Excalidraw",
     "未命名 1.canvas",
-    "01_Attachments/software-architecture.excalidrawlib",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
