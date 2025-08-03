@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ping canvas.canvas",
+                "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": -42.55000000000001,
-                  "y": -6.349999999999795,
-                  "zoom": -1.008061501969265
+                  "x": 242.29622641509434,
+                  "y": -84.73710691823904,
+                  "zoom": -0.03407393409452941
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ping canvas"
+              "title": "grep canvas"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ping canvas.canvas",
+                "file": "grep canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping canvas 的大纲"
+              "title": "grep canvas 的大纲"
             }
           }
         ],
@@ -201,20 +201,21 @@
   },
   "active": "049ca2691551617d",
   "lastOpenFiles": [
+    "grep how？.md",
+    "ping 返回结果.md",
+    "grep why.md",
+    "ping 原理.excalidraw.md",
+    "ping how？.md",
+    "ping Moc.md",
     "grep canvas.canvas",
+    "ping canvas.canvas",
     "ping -s 大小 指定大小.md",
     "ping -c 次数 指定次数.md",
     "ping what？.md",
-    "ping how？.md",
     "ping why？.md",
-    "grep how？.md",
     "grep what？.md",
-    "ping Moc.md",
     "grep 参数.md",
     "grep Moc.md",
-    "ping 返回结果.md",
-    "ping 原理.excalidraw.md",
-    "ping canvas.canvas",
     "grep.md",
     "sed.md",
     "Ping 原理.md",
@@ -227,7 +228,6 @@
     "Drawing 2025-08-03 15.52.00.excalidraw.md",
     "telnet 端口检查.md",
     "head.md",
-    "cat.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",
