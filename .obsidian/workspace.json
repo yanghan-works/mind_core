@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grep how？.md",
+                "file": "grep why.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grep how？"
+              "title": "grep why"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep how？.md",
+                "file": "grep why.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep how？ 的大纲"
+              "title": "grep why 的大纲"
             }
           }
         ],
@@ -243,12 +243,14 @@
   },
   "active": "97ae06c656c82172",
   "lastOpenFiles": [
-    "grep Moc.md",
-    "grep canvas.canvas",
-    "grep -r '搜索模式' 目录名.md",
     "grep what？.md",
-    "grep why.md",
+    "管道符.md",
+    "grep canvas.canvas",
+    "grep与find命令结合使用.md",
     "grep how？.md",
+    "grep Moc.md",
+    "grep -r '搜索模式' 目录名.md",
+    "grep why.md",
     "ping how？.md",
     "ping why？.md",
     "ping what？.md",
@@ -268,7 +270,6 @@
     "Ping 原理.md",
     "Drawing 2025-08-03 16.04.46.excalidraw.md",
     "ICMP.md",
-    "awk.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",

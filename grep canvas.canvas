@@ -4,10 +4,11 @@
 		{"id":"e181fb0c070f467b","type":"text","text":"[[grep Moc]]","x":-440,"y":-240,"width":250,"height":60},
 		{"id":"5e3b73795281d213","type":"file","file":"grep how？.md","x":60,"y":-135,"width":580,"height":295},
 		{"id":"1474eaddb46dd383","type":"file","file":"grep -v 反向匹配.md","x":-522,"y":-700,"width":415,"height":249},
-		{"id":"704c68a28213a365","type":"file","file":"grep -i 忽略大小写.md","x":110,"y":440,"width":407,"height":255},
-		{"id":"0592ccb285db8fbd","type":"file","file":"grep -r '搜索模式' 目录名.md","x":680,"y":472,"width":380,"height":223},
 		{"id":"2109034b5d178bd2","type":"file","file":"grep why.md","x":-453,"y":200,"width":278,"height":288},
-		{"id":"5caed051c06c7e88","type":"file","file":"grep -n 显示行号.md","x":830,"y":-60,"width":372,"height":201}
+		{"id":"5caed051c06c7e88","type":"file","file":"grep -n 显示行号.md","x":830,"y":-60,"width":372,"height":201},
+		{"id":"0592ccb285db8fbd","type":"file","file":"grep -r '搜索模式' 目录名.md","x":860,"y":329,"width":380,"height":223},
+		{"id":"704c68a28213a365","type":"file","file":"grep -i 忽略大小写.md","x":423,"y":313,"width":407,"height":255},
+		{"id":"97425ba159b10b06","x":54,"y":802,"width":486,"height":338,"type":"file","file":"grep与find命令结合使用.md"}
 	],
 	"edges":[
 		{"id":"363a918291d11980","fromNode":"e181fb0c070f467b","fromSide":"right","toNode":"30e3a8f049c26a2f","toSide":"left"},
