@@ -32,15 +32,15 @@
             }
           },
           {
-            "id": "e6f319a72dcf26bd",
+            "id": "6efbddc88b5db001",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md"
+                "file": "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-03 12.32.44.excalidraw"
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md",
+                "file": "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
+              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw 的大纲"
             }
           }
         ],
@@ -219,10 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6f319a72dcf26bd",
+  "active": "6efbddc88b5db001",
   "lastOpenFiles": [
     "Ping.md",
-    "Excalidraw/Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "Excalidraw/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "Excalidraw",
     "01_Attachments/Pasted image 20250726232123.png",
     "PostgreSQL MOC.md",
