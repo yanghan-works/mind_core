@@ -56,31 +56,65 @@
             }
           },
           {
+            "id": "d9951aae10a4e783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICMP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ICMP"
+            }
+          },
+          {
             "id": "9c0b054bfe2f6ff8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -200,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Ping-Drawing 2025-08-03 12.32.44.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
             "id": "8c1e85e1e7c47d8d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "awk-Drawing 2025-08-03 15.51.14.excalidraw.md"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -300,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "awk-Drawing 2025-08-03 15.51.14.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,12 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -254,15 +289,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4c02f892220e4b7",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
     "awk-Drawing 2025-08-03 15.51.14.excalidraw.md",
-    "telnet 端口检查.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
-    "Ping 检查网络连通性.md",
-    "grep.md",
     "sed.md",
     "awk.md",
+    "未命名.canvas",
+    "ICMP.md",
+    "Ping 检查网络连通性.md",
+    "2025-08-03.md",
+    "Drawing 2025-08-03 15.52.00.excalidraw.md",
+    "telnet 端口检查.md",
+    "grep.md",
     "head.md",
     "cat.md",
     "Attachments/software-architecture (1).excalidrawlib",
@@ -282,10 +321,6 @@
     "08_PostgreSQL/SQL - 数据查询 (DQL) MOC.md",
     "05_Linux/Linux 核心哲学与概念 MOC.md",
     "08_PostgreSQL/PostgreSQL 核心概念与数据类型 MOC.md",
-    "07_Kubernetes/Kubernetes Service (服务)与网络 MOC.md",
-    "07_Kubernetes/kubectl 命令 MOC.md",
-    "07_Kubernetes/Kubernetes 安全 (Security) MOC.md",
-    "06_Golang/Go 并发编程 MOC.md",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
@@ -310,7 +345,6 @@
     "正则表达式.canvas",
     "Ping 检查网络连通性.canvas",
     "02-Areas/Ping 测试网络连接性.canvas",
-    "02-Areas/未命名.canvas",
-    "Canvas/未命名.canvas"
+    "02-Areas/未命名.canvas"
   ]
 }
