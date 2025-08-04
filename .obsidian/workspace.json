@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grep 结合管道 (Pipes) 使用.md",
+                "file": "ping 目的.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grep 结合管道 (Pipes) 使用"
+              "title": "ping 目的"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep 结合管道 (Pipes) 使用.md",
+                "file": "ping 目的.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 结合管道 (Pipes) 使用 的大纲"
+              "title": "ping 目的 的大纲"
             }
           }
         ],
@@ -225,8 +225,8 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
-    "grep 与正则表达式结合使用.md",
     "grep 结合管道 (Pipes) 使用.md",
+    "grep 与正则表达式结合使用.md",
     "管道.md",
     "正则表达式.md",
     "find 查找文件.md",
