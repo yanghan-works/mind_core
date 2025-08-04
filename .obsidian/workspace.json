@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ping 目的.md",
+                "file": "ping 概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping 目的"
+              "title": "ping 概念"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ping 目的.md",
+                "file": "ping 概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping 目的 的大纲"
+              "title": "ping 概念 的大纲"
             }
           }
         ],
@@ -225,6 +225,7 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
+    "ping 目的.md",
     "grep 结合管道 (Pipes) 使用.md",
     "grep 与正则表达式结合使用.md",
     "管道.md",
@@ -249,7 +250,6 @@
     "ping 原理.excalidraw.md",
     "grep 基本使用.md",
     "grep与find命令结合使用.md",
-    "ping 目的.md",
     "Attachments/Pasted image 20250726232123.png",
     "grep -r '搜索模式' 目录名.md",
     "grep -n 显示行号.md",
