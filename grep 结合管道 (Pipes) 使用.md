@@ -33,7 +33,17 @@ history | grep "docker"
 - 分析日志文件
 
 ```shell
-cat /var/log/syslog | grep "error"
+cat /var/log/nginx/access.log | grep "192.168.1.100"
 ```
 
-- 
+- 检查服务器的 80 端口（HTTP）或 443 端口（HTTPS）是否正在被监听 (LISTEN)
+
+```shell
+netstat -tuln | grep -E "80|443"
+```
+
+- 查看已安装的软件包
+
+```shell
+dpkg -l | grep "vim"
+```
