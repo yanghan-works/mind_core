@@ -11,24 +11,10 @@
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ping 概念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ping 概念"
+              "title": "新标签页"
             }
           },
           {
@@ -183,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -193,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ping 概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping 概念 的大纲"
+              "title": "大纲"
             }
           }
         ],
