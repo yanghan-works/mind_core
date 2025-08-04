@@ -176,9 +176,9 @@
               "state": {
                 "file": "grep canvas.canvas",
                 "viewState": {
-                  "x": -518.1637531243941,
-                  "y": -209.11559199271787,
-                  "zoom": -0.6666666666666666
+                  "x": -712.1892492494152,
+                  "y": -24.09217754451427,
+                  "zoom": -0.7174163341883117
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -437,13 +437,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep 目的.md",
+                "file": "grep canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 目的 的大纲"
+              "title": "grep canvas 的大纲"
             }
           }
         ],
@@ -469,22 +469,22 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
+    "grep 目的.md",
+    "grep 结合管道 (Pipes) 使用.md",
     "grep.md",
+    "grep canvas.canvas",
+    "grep -v 反向匹配.md",
     "grep 概念.md",
     "grep 基本使用.md",
-    "grep 结合管道 (Pipes) 使用.md",
-    "grep 目的.md",
     "grep 与正则表达式结合使用.md",
-    "grep -v 反向匹配.md",
     "grep -r '搜索模式' 目录名.md",
     "grep -n 显示行号.md",
     "grep -i 忽略大小写.md",
-    "grep canvas.canvas",
     "grep与find命令结合使用.md",
     "grep how？.md",
     "find how.md",
     "正则表达式.md",
-    "管道符.md",
+    "管道.md",
     "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
     "ping 返回结果.md",
