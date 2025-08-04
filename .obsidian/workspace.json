@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telnet.md",
+                "file": "IP地址.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "telnet"
+              "title": "IP地址"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telnet.md",
+                "file": "IP地址.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "telnet 的大纲"
+              "title": "IP地址 的大纲"
             }
           }
         ],
@@ -225,23 +225,24 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
-    "traceroute.md",
-    "ping.md",
     "端口.md",
-    "网络攻防.md",
-    "防火墙.md",
-    "telnet.md",
-    "TCP IP.md",
-    "ICMP.md",
-    "DNS.md",
-    "非对称路由.md",
-    "声纳.md",
-    "网络切片.md",
-    "网络诊断.md",
-    "物理专线.md",
-    "CDN 内容分发网络.md",
-    "域名.md",
     "IP地址.md",
+    "ICMP.md",
+    "ping.md",
+    "TCP IP.md",
+    "telnet.md",
+    "traceroute.md",
+    "网络切片.md",
+    "未命名.md",
+    "网络诊断.md",
+    "网络攻防.md",
+    "非对称路由.md",
+    "防火墙.md",
+    "物理专线.md",
+    "DNS.md",
+    "声纳.md",
+    "域名.md",
+    "CDN 内容分发网络.md",
     "DDoS 攻击.md",
     "grep.md",
     "ping 目的.md",
@@ -250,7 +251,6 @@
     "管道.md",
     "正则表达式.md",
     "find 查找文件.md",
-    "find how.md",
     "ping canvas.canvas",
     "grep canvas.canvas",
     "Attachments/Pasted image 20250726232123.png",
