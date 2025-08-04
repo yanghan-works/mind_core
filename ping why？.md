@@ -2,7 +2,6 @@
 tags:
   - 命令
   - Linux
-  - grep
   - Ping
   - 网络故障排查
 aliases: 

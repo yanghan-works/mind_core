@@ -3,5 +3,3 @@ tags:
 alias: 
 date: 2025-08-03 19:57
 ---
-
-[[find how]]
