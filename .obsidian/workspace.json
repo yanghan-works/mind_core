@@ -11,39 +11,36 @@
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "端口.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "端口"
             }
           },
           {
-            "id": "a276b4903b4472b5",
+            "id": "8061983c7d89de1d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-08-04 14.56.39.excalidraw.md"
+                "file": "Drawing 2025-08-04 15.03.33.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-04 14.56.39.excalidraw"
-            }
-          },
-          {
-            "id": "c278d321f0e81501",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ping canvas.canvas",
-                "viewState": {
-                  "x": -652.9001876198854,
-                  "y": 481.42654738304503,
-                  "zoom": -0.9119492836049687
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ping canvas"
+              "title": "Drawing 2025-08-04 15.03.33.excalidraw"
             }
           }
         ],
@@ -192,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Drawing 2025-08-04 15.03.33.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2025-08-04 15.03.33.excalidraw 的大纲"
             }
           }
         ],
@@ -221,41 +219,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00d92e0e52acbbf9",
+  "active": "8061983c7d89de1d",
   "lastOpenFiles": [
-    "Drawing 2025-08-04 14.56.39.excalidraw.md",
-    "未命名.canvas",
-    "网络诊断.md",
-    "awk.md",
-    "sed.md",
-    "正则表达式.md",
-    "域名.md",
-    "DDoS 攻击.md",
-    "echo.md",
-    "grep.md",
-    "find.md",
-    "DNS.md",
-    "CDN 内容分发网络.md",
-    "IP地址.md",
-    "telnet.md",
-    "traceroute.md",
-    "管道.md",
-    "TCP IP.md",
     "端口.md",
+    "Drawing 2025-08-04 15.03.33.excalidraw.md",
     "防火墙.md",
     "非对称路由.md",
+    "管道.md",
     "网络切片.md",
+    "网络诊断.md",
     "物理专线.md",
+    "域名.md",
+    "正则表达式.md",
+    "CDN 内容分发网络.md",
+    "DDoS 攻击.md",
+    "DNS.md",
+    "echo.md",
+    "find.md",
+    "IP地址.md",
     "ICMP.md",
-    "ping.md",
-    "网络攻防.md",
+    "grep.md",
     "Linux 启动流程.md",
+    "ping.md",
+    "sed.md",
+    "TCP IP.md",
+    "telnet.md",
+    "traceroute.md",
+    "Drawing 2025-08-04 14.58.37.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "未命名.canvas",
     "ping canvas.canvas",
     "grep canvas.canvas",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
-    "Excalidraw",
     "08_PostgreSQL",
     "07_Kubernetes",
     "06_Golang",
@@ -269,10 +271,6 @@
     "Screenshots/屏幕截图 2025-08-01 221538.png",
     "Screenshots/屏幕截图 2025-07-31 145710.png",
     "Screenshots/屏幕截图 2025-07-31 110448.png",
-    "Screenshots/屏幕截图 2025-07-31 085815.png",
-    "Screenshots/屏幕截图 2025-07-30 202018.png",
-    "Screenshots/desktop.ini",
-    "Screenshots",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
