@@ -7,12 +7,13 @@ aliases:
 date: 2025-08-03 18:34
 ---
 
-## 目的，概念及核心用法
-
+## 目的，概念
 - [[grep 目的]]
 	
 - [[grep 概念]]
-	
+
+## 基本使用
+
 - [[grep 基本使用]]
 
 - [[grep canvas.canvas|grep canvas]]
