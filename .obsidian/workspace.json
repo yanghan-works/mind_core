@@ -35,16 +35,40 @@
             "id": "8061983c7d89de1d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "grep"
+            }
+          },
+          {
+            "id": "e8dd70f512a0b37c",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-08-04 15.03.33.excalidraw.md"
+                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-04 15.03.33.excalidraw"
+              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-08-04 15.03.33.excalidraw.md",
+                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-08-04 15.03.33.excalidraw 的大纲"
+              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw 的大纲"
             }
           }
         ],
@@ -219,11 +243,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8061983c7d89de1d",
+  "active": "e8dd70f512a0b37c",
   "lastOpenFiles": [
-    "端口.md",
-    "Drawing 2025-08-04 15.03.33.excalidraw.md",
+    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
+    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "Attachments/Pasted Image 20250804152605_792.png",
+    "grep.md",
     "防火墙.md",
+    "端口.md",
     "非对称路由.md",
     "管道.md",
     "网络切片.md",
@@ -238,16 +265,13 @@
     "find.md",
     "IP地址.md",
     "ICMP.md",
-    "grep.md",
     "Linux 启动流程.md",
     "ping.md",
     "sed.md",
     "TCP IP.md",
     "telnet.md",
     "traceroute.md",
-    "Drawing 2025-08-04 14.58.37.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -270,7 +294,6 @@
     "Screenshots/屏幕截图 2025-08-02 144451.png",
     "Screenshots/屏幕截图 2025-08-01 221538.png",
     "Screenshots/屏幕截图 2025-07-31 145710.png",
-    "Screenshots/屏幕截图 2025-07-31 110448.png",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
