@@ -8,173 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "049ca2691551617d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep Moc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep Moc"
-            }
-          },
-          {
-            "id": "97ae06c656c82172",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "grep canvas.canvas",
-                "viewState": {
-                  "x": 344.39949369386585,
-                  "y": 598.4773211559809,
-                  "zoom": -0.6695371012254905
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "grep canvas"
-            }
-          },
-          {
-            "id": "bd1e5b26fb826f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "find Moc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "find Moc"
-            }
-          },
-          {
-            "id": "0a888801d0e976b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正则表达式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式"
-            }
-          },
-          {
-            "id": "376cc4825bd827c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 筛选文本.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 筛选文本"
-            }
-          },
-          {
-            "id": "e7468e9845d4c686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 筛选文本.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 筛选文本"
-            }
-          },
-          {
-            "id": "e80591348af8eecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 筛选文本.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 筛选文本"
-            }
-          },
-          {
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ping 检查网络连通性.md",
+                "file": "ping 概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,117 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "d7e49a83c3e7e06c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 结合管道 (Pipes) 使用.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 结合管道 (Pipes) 使用"
-            }
-          },
-          {
-            "id": "ad1b1a744ddcd2cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 概念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 概念"
-            }
-          },
-          {
-            "id": "8b81243919cf9fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grep 目的.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep 目的"
-            }
-          },
-          {
-            "id": "6281d1c125079887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ping 检查网络连通性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ping 检查网络连通性"
-            }
-          },
-          {
-            "id": "85def0abc49cab2c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "ping 概念"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -444,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ping 检查网络连通性.md",
+                "file": "ping 概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ping 检查网络连通性 的大纲"
+              "title": "ping 概念 的大纲"
             }
           }
         ],
@@ -476,33 +208,33 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
+    "ping 返回结果.md",
+    "ping 基本使用.md",
+    "grep 概念.md",
+    "ping 概念.md",
+    "grep 基本使用.md",
+    "grep 筛选文本.md",
+    "grep与find命令结合使用.md",
+    "ping 检查网络连通性.md",
+    "ping 目的.md",
     "ping 原理.excalidraw.md",
     "ping canvas.canvas",
-    "ping how？.md",
-    "ping why？.md",
-    "ping what？.md",
-    "grep 筛选文本.md",
-    "ping 检查网络连通性.md",
-    "grep -i 忽略大小写.md",
+    "ping -c 次数 指定次数.md",
+    "ping -s 大小 指定大小.md",
+    "grep canvas.canvas",
+    "grep 与正则表达式结合使用.md",
     "grep 结合管道 (Pipes) 使用.md",
     "grep 目的.md",
+    "grep -i 忽略大小写.md",
     "Attachments/Pasted image 20250726232123.png",
     "find 查找文件.md",
     "find how.md",
-    "grep 概念.md",
-    "grep canvas.canvas",
     "grep -v 反向匹配.md",
-    "grep 基本使用.md",
-    "grep 与正则表达式结合使用.md",
     "grep -r '搜索模式' 目录名.md",
     "grep -n 显示行号.md",
-    "grep与find命令结合使用.md",
     "grep how？.md",
     "正则表达式.md",
     "管道.md",
-    "ping -c 次数 指定次数.md",
-    "ping -s 大小 指定大小.md",
-    "ping 返回结果.md",
     "grep -r '搜索模式.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
