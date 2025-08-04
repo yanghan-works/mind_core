@@ -172,24 +172,17 @@
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "grep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "grep canvas.canvas",
+                "viewState": {
+                  "x": -518.1637531243941,
+                  "y": -209.11559199271787,
+                  "zoom": -0.6666666666666666
                 }
               },
-              "icon": "lucide-file",
-              "title": "grep"
+              "icon": "lucide-layout-dashboard",
+              "title": "grep canvas"
             }
           },
           {
@@ -444,13 +437,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep.md",
+                "file": "grep 目的.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 的大纲"
+              "title": "grep 目的 的大纲"
             }
           }
         ],
@@ -476,22 +469,22 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
-    "grep 结合管道 (Pipes) 使用.md",
     "grep.md",
+    "grep 概念.md",
+    "grep 基本使用.md",
+    "grep 结合管道 (Pipes) 使用.md",
+    "grep 目的.md",
+    "grep 与正则表达式结合使用.md",
+    "grep -v 反向匹配.md",
+    "grep -r '搜索模式' 目录名.md",
+    "grep -n 显示行号.md",
+    "grep -i 忽略大小写.md",
+    "grep canvas.canvas",
+    "grep与find命令结合使用.md",
+    "grep how？.md",
     "find how.md",
     "正则表达式.md",
     "管道符.md",
-    "grep 与正则表达式结合使用.md",
-    "grep -i 忽略大小写.md",
-    "grep -n 显示行号.md",
-    "grep -r '搜索模式' 目录名.md",
-    "grep -v 反向匹配.md",
-    "grep 概念.md",
-    "grep 基本使用.md",
-    "grep 目的.md",
-    "grep canvas.canvas",
-    "grep how？.md",
-    "grep与find命令结合使用.md",
     "ping -c 次数 指定次数.md",
     "ping -s 大小 指定大小.md",
     "ping 返回结果.md",
@@ -503,7 +496,6 @@
     "ping why？.md",
     "find Moc.md",
     "grep -r '搜索模式.md",
-    "grep 参数.md",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "Excalidraw",

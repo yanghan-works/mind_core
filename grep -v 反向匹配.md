@@ -1,6 +1,9 @@
 ---
-tags: 
-alias: 
+tags:
+  - Linux
+  - 命令
+  - grep
+aliases: 
 date: 2025-08-04 07:54
 ---
 

@@ -15,6 +15,7 @@ date: 2025-08-03 18:34
 	
 - [[grep 基本使用]]
 
+- [[grep canvas.canvas|grep canvas]]
 
 ## 常用参数
 
