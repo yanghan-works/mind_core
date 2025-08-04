@@ -11,24 +11,22 @@
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "a276b4903b4472b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "traceroute.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Drawing 2025-08-04 14.56.39.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "traceroute"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-04 14.56.39.excalidraw"
             }
           },
           {
@@ -48,7 +46,8 @@
               "title": "ping canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -193,13 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traceroute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "traceroute 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -223,34 +221,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f28dcf8a013f12b",
+  "active": "00d92e0e52acbbf9",
   "lastOpenFiles": [
-    "管道.md",
-    "traceroute.md",
+    "Drawing 2025-08-04 14.56.39.excalidraw.md",
+    "未命名.canvas",
+    "网络诊断.md",
     "awk.md",
+    "sed.md",
     "正则表达式.md",
+    "域名.md",
+    "DDoS 攻击.md",
+    "echo.md",
     "grep.md",
+    "find.md",
+    "DNS.md",
+    "CDN 内容分发网络.md",
+    "IP地址.md",
+    "telnet.md",
+    "traceroute.md",
+    "管道.md",
     "TCP IP.md",
     "端口.md",
     "防火墙.md",
     "非对称路由.md",
     "网络切片.md",
     "物理专线.md",
-    "网络诊断.md",
-    "域名.md",
-    "DDoS 攻击.md",
-    "CDN 内容分发网络.md",
-    "DNS.md",
-    "echo.md",
-    "find.md",
     "ICMP.md",
     "ping.md",
-    "telnet.md",
-    "IP地址.md",
     "网络攻防.md",
     "Linux 启动流程.md",
-    "声纳.md",
-    "ping 目的.md",
     "ping canvas.canvas",
     "grep canvas.canvas",
     "Attachments/Pasted image 20250726232123.png",
