@@ -66,9 +66,19 @@
               "icon": "excalidraw-icon",
               "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
             }
+          },
+          {
+            "id": "ffde51026ed477f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,13 +223,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -243,12 +252,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8dd70f512a0b37c",
+  "active": "ffde51026ed477f5",
   "lastOpenFiles": [
-    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
-    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
-    "Attachments/Pasted Image 20250804152605_792.png",
     "grep.md",
+    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "Drawing 2025-08-04 15.41.31.excalidraw.md",
+    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
+    "DNS.md",
+    "Attachments/Pasted Image 20250804152605_792.png",
     "防火墙.md",
     "端口.md",
     "非对称路由.md",
@@ -260,7 +271,6 @@
     "正则表达式.md",
     "CDN 内容分发网络.md",
     "DDoS 攻击.md",
-    "DNS.md",
     "echo.md",
     "find.md",
     "IP地址.md",
