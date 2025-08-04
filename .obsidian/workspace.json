@@ -11,10 +11,24 @@
             "id": "1f28dcf8a013f12b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -179,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -210,32 +225,32 @@
   },
   "active": "1f28dcf8a013f12b",
   "lastOpenFiles": [
-    "DDoS 攻击.md",
-    "CDN 内容分发网络.md",
-    "DNS.md",
-    "ping.md",
-    "网络攻防.md",
-    "网络切片.md",
-    "IP地址.md",
-    "TCP IP.md",
+    "正则表达式.md",
+    "未命名.md",
+    "Linux 启动流程.md",
+    "grep.md",
+    "find.md",
+    "awk.md",
     "端口.md",
     "防火墙.md",
     "非对称路由.md",
+    "网络攻防.md",
+    "网络切片.md",
     "网络诊断.md",
-    "域名.md",
     "物理专线.md",
+    "域名.md",
+    "CDN 内容分发网络.md",
+    "DDoS 攻击.md",
+    "DNS.md",
     "ICMP.md",
+    "IP地址.md",
+    "ping.md",
+    "TCP IP.md",
     "telnet.md",
     "traceroute.md",
-    "未命名.md",
     "声纳.md",
-    "grep.md",
     "ping 目的.md",
     "grep 结合管道 (Pipes) 使用.md",
-    "grep 与正则表达式结合使用.md",
-    "管道.md",
-    "正则表达式.md",
-    "find 查找文件.md",
     "ping canvas.canvas",
     "grep canvas.canvas",
     "Attachments/Pasted image 20250726232123.png",
