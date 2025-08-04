@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"30e3a8f049c26a2f","type":"file","file":"grep 概念.md","x":60,"y":-540,"width":253,"height":276},
-		{"id":"e181fb0c070f467b","type":"text","text":"[[grep Moc]]","x":-440,"y":-240,"width":250,"height":60},
+		{"id":"e181fb0c070f467b","type":"text","text":"[[grep]]","x":-440,"y":-240,"width":250,"height":60},
 		{"id":"5e3b73795281d213","type":"file","file":"grep how？.md","x":60,"y":-135,"width":580,"height":295},
 		{"id":"1474eaddb46dd383","type":"file","file":"grep -v 反向匹配.md","x":-522,"y":-700,"width":415,"height":249},
 		{"id":"aa8cce6e5b667358","type":"file","file":"grep 与正则表达式结合使用.md","x":-640,"y":620,"width":400,"height":400},

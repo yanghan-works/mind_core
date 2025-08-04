@@ -1,12 +1,10 @@
 ---
-tags:
-  - Linux
-  - grep
-  - 命令
-aliases: 
-date: 2025-08-03 19:10
+tags: 
+alias: 
+date: 2025-08-04 07:54
 ---
 
-```
+
+```shell
 grep -v '搜索模式' 文件名
 ```
