@@ -83,12 +83,24 @@
             "id": "b120f82920362e16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
+                "file": "grep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "grep"
             }
           }
         ],
@@ -269,13 +281,14 @@
   },
   "active": "b120f82920362e16",
   "lastOpenFiles": [
+    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "grep.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
     "管道.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "ICMP.md",
-    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
