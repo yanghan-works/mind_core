@@ -133,8 +133,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,9 +255,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b6285a78ccc78a2",
+  "active": "ffde51026ed477f5",
   "lastOpenFiles": [
     "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "IP地址.md",
+    "ICMP.md",
+    "traceroute.md",
+    "TCP IP.md",
+    "sed.md",
+    "ping.md",
     "Attachments/software-architecture_0.excalidrawlib",
     "端口.md",
     "grep.md",
@@ -280,12 +285,7 @@
     "DDoS 攻击.md",
     "echo.md",
     "find.md",
-    "IP地址.md",
-    "ICMP.md",
     "Linux 启动流程.md",
-    "ping.md",
-    "sed.md",
-    "TCP IP.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded",
