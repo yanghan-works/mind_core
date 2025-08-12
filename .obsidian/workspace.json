@@ -63,8 +63,8 @@
               "state": {
                 "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -256,11 +256,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffde51026ed477f5",
+  "active": "4b6285a78ccc78a2",
   "lastOpenFiles": [
+    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
     "Attachments/software-architecture_0.excalidrawlib",
     "端口.md",
-    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
     "grep.md",
     "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
     "防火墙.md",
@@ -300,7 +300,6 @@
     "07_Kubernetes",
     "06_Golang",
     "05_Linux",
-    "04_Python",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
     "Linux MOC.canvas",
