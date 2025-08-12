@@ -59,24 +59,36 @@
             "id": "e8dd70f512a0b37c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
+                "file": "管道.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "管道"
             }
           },
           {
-            "id": "ffde51026ed477f5",
+            "id": "b120f82920362e16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
+                "file": "Attachments/Pasted Image 20250804152605_792.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250804152605_792"
             }
           }
         ],
@@ -255,45 +267,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffde51026ed477f5",
+  "active": "b120f82920362e16",
   "lastOpenFiles": [
-    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
-    "IP地址.md",
-    "ICMP.md",
-    "traceroute.md",
-    "TCP IP.md",
-    "sed.md",
-    "ping.md",
-    "Attachments/software-architecture_0.excalidrawlib",
-    "端口.md",
-    "grep.md",
-    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
-    "防火墙.md",
-    "telnet.md",
-    "Drawing 2025-08-04 15.41.31.excalidraw.md",
-    "未命名.canvas",
-    "DNS.md",
-    "Attachments/Pasted Image 20250804152605_792.png",
-    "非对称路由.md",
+    "Attachments/Pasted image 20250726232123.png",
+    "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
     "管道.md",
+    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
+    "ICMP.md",
+    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "awk.md",
+    "grep.md",
+    "ping.md",
+    "sed.md",
+    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
+    "正则表达式.md",
+    "防火墙.md",
+    "端口.md",
+    "非对称路由.md",
     "网络切片.md",
+    "echo.md",
+    "域名.md",
     "网络诊断.md",
     "物理专线.md",
-    "域名.md",
-    "正则表达式.md",
     "CDN 内容分发网络.md",
-    "DDoS 攻击.md",
-    "echo.md",
+    "DNS.md",
     "find.md",
-    "Linux 启动流程.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "DDoS 攻击.md",
+    "Attachments/software-architecture_0.excalidrawlib",
+    "未命名.canvas",
+    "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "ping canvas.canvas",
     "grep canvas.canvas",
-    "Attachments/Pasted image 20250726232123.png",
     "Attachments/software-architecture (1).excalidrawlib",
     "Attachments",
     "08_PostgreSQL",
