@@ -83,12 +83,12 @@
             "id": "b120f82920362e16",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Attachments/Pasted image 20250726232123.png"
+                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250726232123"
+              "icon": "excalidraw-icon",
+              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
             }
           }
         ],
@@ -269,8 +269,8 @@
   },
   "active": "b120f82920362e16",
   "lastOpenFiles": [
-    "Attachments/Pasted Image 20250804152605_792.png",
     "Attachments/Pasted image 20250726232123.png",
+    "Attachments/Pasted Image 20250804152605_792.png",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
     "管道.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
