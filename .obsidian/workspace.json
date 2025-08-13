@@ -83,24 +83,12 @@
             "id": "b120f82920362e16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "grep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "grep"
+              "icon": "excalidraw-icon",
+              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw"
             }
           }
         ],
@@ -257,13 +245,23 @@
               "icon": "lucide-list",
               "title": "grep Drawing 2025-08-04 15.25.10.excalidraw 的大纲"
             }
+          },
+          {
+            "id": "712a1a5c4c26b037",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,12 +274,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b120f82920362e16",
+  "active": "852fb7bac562c2eb",
   "lastOpenFiles": [
     "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+    "copilot-conversations/hi@20250812_175042.md",
+    "copilot-conversations",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
     "grep.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
@@ -294,23 +310,8 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "awk.md",
-    "grep.md",
     "ping.md",
     "sed.md",
-    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
-    "正则表达式.md",
-    "防火墙.md",
-    "端口.md",
-    "非对称路由.md",
-    "网络切片.md",
-    "echo.md",
-    "域名.md",
-    "网络诊断.md",
-    "物理专线.md",
-    "CDN 内容分发网络.md",
-    "DNS.md",
-    "find.md",
-    "DDoS 攻击.md",
     "Attachments/software-architecture_0.excalidrawlib",
     "未命名.canvas",
     "Excalidraw/Scripts/Downloaded",
@@ -322,8 +323,6 @@
     "Attachments",
     "08_PostgreSQL",
     "07_Kubernetes",
-    "06_Golang",
-    "05_Linux",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
     "Linux MOC.canvas",
