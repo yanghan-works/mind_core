@@ -107,16 +107,64 @@
             "id": "4ded41d2ac29b061",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "b9310f8a12aa9509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "bc0655405a2e245d",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md"
+                "file": "Drawing 2025-08-14 15.08.30.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw"
+              "title": "Drawing 2025-08-14 15.08.30.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -302,8 +350,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4ded41d2ac29b061",
+  "active": "bc0655405a2e245d",
   "lastOpenFiles": [
+    "未命名.md",
+    "Drawing 2025-08-14 15.08.30.excalidraw.md",
+    "copilot-conversations/hi@20250812_175042.md",
+    "copilot-custom-prompts/Emojify.md",
+    "Drawing 2025-08-14 15.07.47.excalidraw.md",
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
     "正则表达式.md",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
@@ -311,7 +364,6 @@
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "管道.md",
     "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
-    "copilot-conversations/hi@20250812_175042.md",
     "copilot-conversations",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -320,7 +372,6 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
@@ -331,11 +382,8 @@
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "ICMP.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "awk.md",
     "Attachments/software-architecture_0.excalidrawlib",
     "未命名.canvas",
     "Excalidraw/Scripts/Downloaded",
