@@ -4,11 +4,103 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b91e884-28b2-499c-96a4-e7224aaedcfc" name="Changes" comment="">
+    <list default="true" id="fc201803-f000-4e15-91e9-259aeb6ce756" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未命名.md" beforeDir="false" afterPath="$PROJECT_DIR$/未命名.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管道 Drawing 2025-08-12 15.23.25.excalidraw.md" beforeDir="false" afterPath="$PROJECT_DIR$/管道 Drawing 2025-08-12 15.23.25.excalidraw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/2025-08-03 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/2025-08-03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/CDN 内容分发网络.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/DDoS 攻击.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/DNS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Drawing 2025-08-03 15.52.00.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Drawing 2025-08-03 16.04.46.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Drawing 2025-08-04 14.56.39.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Drawing 2025-08-04 14.58.37.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Drawing 2025-08-04 15.41.31.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Go MOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/ICMP 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/ICMP 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/ICMP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Kubernetes Moc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Linux MOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Ping 原理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Ping 检查网络连通性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/PostgreSQL MOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Python MOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/TCP IP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/awk 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/awk-Drawing 2025-08-03 15.51.14.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/awk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/cat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep -r '搜索模式' 目录名.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep -r '搜索模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep -v 反向匹配.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep how？.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep 参数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/grep与find命令结合使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/head.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/ping.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/sed 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/sed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/telnet 端口检查.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/telnet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/traceroute.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/什么是grep？.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/域名.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/声纳.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/未命名 2.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/未命名 3.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/未命名.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/未命名.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/物理专线.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/端口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/管道 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/管道.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/网络切片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/网络攻防.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/网络诊断.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/防火墙.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/非对称路由.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attachments/Pasted Image 20250804152605_792.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attachments/software-architecture.excalidrawlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attachments/software-architecture_0.excalidrawlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing 2025-08-14 15.07.47.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawing 2025-08-14 15.08.30.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP地址.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux 启动流程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ping-Drawing 2025-08-03 12.32.44.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-conversations/hi@20250812_175042.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Emojify.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Explain like I am 5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Fix grammar and spelling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Generate glossary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Generate table of contents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Make longer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Make shorter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Remove URLs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Rewrite as tweet thread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Rewrite as tweet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Simplify.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Summarize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilot-custom-prompts/Translate to Chinese.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grep Drawing 2025-08-04 15.25.10.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/端口 Drawing 2025-08-04 15.03.33.excalidraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管道 Drawing 2025-08-12 15.23.25.excalidraw.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +111,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="8kR077Ct" />
+    <option name="directoryName" value="FHrU57At" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="31kxjrau8gbujj966LBllV1tst9" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31mWmt8TZzlZrdV0Y8Rf77DK28O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,10 +129,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/YangHan/Desktop/Obsidian-Vault",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,16 +144,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b91e884-28b2-499c-96a4-e7224aaedcfc" name="Changes" comment="" />
-      <created>1756082009942</created>
+      <changelist id="fc201803-f000-4e15-91e9-259aeb6ce756" name="Changes" comment="" />
+      <created>1756129894854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756082009942</updated>
-      <workItem from="1756082011879" duration="54000" />
+      <updated>1756129894854</updated>
+      <workItem from="1756129896481" duration="334000" />
+      <workItem from="1756130250335" duration="397000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

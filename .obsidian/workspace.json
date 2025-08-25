@@ -179,12 +179,10 @@
             "id": "e3b374465d21850d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
@@ -375,7 +373,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ef78e2f8ce2ca9de",
+  "active": "e3b374465d21850d",
   "lastOpenFiles": [
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
