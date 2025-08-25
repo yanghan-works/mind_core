@@ -155,16 +155,40 @@
             "id": "bc0655405a2e245d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-08-14 15.08.30.excalidraw.md"
+                "file": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-14 15.08.30.excalidraw"
+              "icon": "lucide-file",
+              "title": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw"
+            }
+          },
+          {
+            "id": "e3b374465d21850d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -337,6 +361,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -350,17 +375,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bc0655405a2e245d",
+  "active": "ef78e2f8ce2ca9de",
   "lastOpenFiles": [
+    "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
+    "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
+    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
+    "未命名 1.md",
     "Drawing 2025-08-14 15.08.30.excalidraw.md",
+    "Drawing 2025-08-14 15.07.47.excalidraw.md",
+    "正则表达式.md",
     "未命名.md",
     "copilot-conversations/hi@20250812_175042.md",
     "copilot-custom-prompts/Emojify.md",
-    "Drawing 2025-08-14 15.07.47.excalidraw.md",
-    "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
-    "正则表达式.md",
-    "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
-    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
     "管道.md",
     "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
@@ -381,7 +407,6 @@
     "grep.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
-    "ICMP.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Attachments/software-architecture_0.excalidrawlib",
