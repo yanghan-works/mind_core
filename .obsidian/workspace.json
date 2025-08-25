@@ -179,10 +179,12 @@
             "id": "e3b374465d21850d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-08-26 04.28.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-26 04.28.04.excalidraw"
             }
           }
         ],
@@ -375,6 +377,7 @@
   },
   "active": "e3b374465d21850d",
   "lastOpenFiles": [
+    "Drawing 2025-08-26 04.28.04.excalidraw.md",
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
     "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
@@ -402,7 +405,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "grep.md",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
