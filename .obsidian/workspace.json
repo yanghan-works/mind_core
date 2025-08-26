@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "结构体.md",
+                "file": "Rust/Rust_Struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "结构体"
+              "title": "Rust_Struct"
             }
           }
         ]
@@ -166,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -220,8 +220,14 @@
   },
   "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
-    "Go",
+    "结构体.md",
+    "Rust/Rust_Struct.md",
+    "Linux/sed.md",
+    "Linux/grep.md",
+    "Linux/awk.md",
+    "Kubernetes",
     "新建文件夹",
+    "Go",
     "TypeScript",
     "Rust",
     "Python",
@@ -229,7 +235,6 @@
     "sed.md",
     "grep.md",
     "awk.md",
-    "结构体.md",
     "正则表达式.md",
     "Drawing 2025-08-26 04.28.04.excalidraw.md",
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
@@ -249,9 +254,6 @@
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
@@ -259,8 +261,6 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Attachments/software-architecture_0.excalidrawlib",
     "未命名.canvas",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "ping canvas.canvas",
     "grep canvas.canvas",
     "Attachments/Pasted image 20250726230245.png",
