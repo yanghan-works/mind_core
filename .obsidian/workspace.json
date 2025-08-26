@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/rust_struct.md",
+                "file": "杂记/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rust_struct"
+              "title": "Prompt"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust/rust_struct.md",
+                "file": "杂记/Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "rust_struct 的大纲"
+              "title": "Prompt 的大纲"
             }
           },
           {
@@ -220,8 +220,10 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "结构体.md",
     "rust/rust_struct.md",
+    "杂记/Prompt.md",
+    "杂记",
+    "结构体.md",
     "linux/sed.md",
     "linux/grep.md",
     "linux/awk.md",
@@ -253,13 +255,11 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Attachments/software-architecture_0.excalidrawlib",
     "未命名.canvas",
     "ping canvas.canvas",
     "grep canvas.canvas",
