@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "结构体.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "结构体"
             }
           }
         ]
@@ -218,12 +218,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7cf880e80b2d7012",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
-    "awk.md",
-    "未命名.md",
+    "Go",
+    "新建文件夹",
+    "TypeScript",
+    "Rust",
+    "Python",
+    "Linux",
     "sed.md",
     "grep.md",
+    "awk.md",
+    "结构体.md",
     "正则表达式.md",
     "Drawing 2025-08-26 04.28.04.excalidraw.md",
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
@@ -246,7 +252,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
@@ -256,13 +261,8 @@
     "未命名.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "ping canvas.canvas",
     "grep canvas.canvas",
-    "Attachments/software-architecture (1).excalidrawlib",
-    "Attachments",
-    "08_PostgreSQL",
-    "07_Kubernetes",
     "Attachments/Pasted image 20250726230245.png",
     "Attachments/Pasted image 20250731085818.png",
     "Linux MOC.canvas",
