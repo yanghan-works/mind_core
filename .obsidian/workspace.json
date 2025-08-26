@@ -4,107 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "742728cbcc0bdb51",
+        "id": "3b5b041df93e98d9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f28dcf8a013f12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "端口.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "端口"
-            }
-          },
-          {
-            "id": "8061983c7d89de1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "端口.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "端口"
-            }
-          },
-          {
-            "id": "e8dd70f512a0b37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "管道.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "管道"
-            }
-          },
-          {
-            "id": "b120f82920362e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正则表达式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式"
-            }
-          },
-          {
-            "id": "4ded41d2ac29b061",
+            "id": "7cf880e80b2d7012",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,70 +29,9 @@
               },
               "icon": "lucide-file",
               "title": "未命名"
-            }
-          },
-          {
-            "id": "b9310f8a12aa9509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "bc0655405a2e245d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw"
-            }
-          },
-          {
-            "id": "e3b374465d21850d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-08-26 04.28.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-26 04.28.04.excalidraw"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,8 +218,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e3b374465d21850d",
+  "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
+    "awk.md",
+    "未命名.md",
+    "sed.md",
+    "grep.md",
+    "正则表达式.md",
     "Drawing 2025-08-26 04.28.04.excalidraw.md",
     "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
     "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
@@ -384,8 +232,6 @@
     "未命名 1.md",
     "Drawing 2025-08-14 15.08.30.excalidraw.md",
     "Drawing 2025-08-14 15.07.47.excalidraw.md",
-    "正则表达式.md",
-    "未命名.md",
     "copilot-conversations/hi@20250812_175042.md",
     "copilot-custom-prompts/Emojify.md",
     "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
@@ -401,9 +247,6 @@
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "Attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
