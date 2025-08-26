@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Rust_Struct.md",
+                "file": "rust/rust_struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust_Struct"
+              "title": "rust_struct"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sed 流编辑器.md",
+                "file": "rust/rust_struct.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "sed 流编辑器 的反向链接列表"
+              "title": "rust_struct 的反向链接列表"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Areas/高效学习方法.md",
+                "file": "rust/rust_struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "高效学习方法 的出链列表"
+              "title": "rust_struct 的出链列表"
             }
           },
           {
@@ -166,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
+                "file": "rust/rust_struct.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep Drawing 2025-08-04 15.25.10.excalidraw 的大纲"
+              "title": "rust_struct 的大纲"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,20 +218,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "69064968100db8f7",
   "lastOpenFiles": [
     "结构体.md",
-    "Rust/Rust_Struct.md",
-    "Linux/sed.md",
-    "Linux/grep.md",
-    "Linux/awk.md",
-    "Kubernetes",
+    "rust/rust_struct.md",
+    "linux/sed.md",
+    "linux/grep.md",
+    "linux/awk.md",
+    "kubernetes",
     "新建文件夹",
-    "Go",
-    "TypeScript",
-    "Rust",
-    "Python",
-    "Linux",
+    "go",
+    "typescript",
+    "rust",
+    "python",
+    "linux",
     "sed.md",
     "grep.md",
     "awk.md",
@@ -255,7 +255,7 @@
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts",
-    "Attachments/Pasted image 20250726232123.png",
+    "attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
