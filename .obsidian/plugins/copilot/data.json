@@ -1,7 +1,7 @@
 {
-  "userId": "4c6fd22f-469f-4725-a1e5-2eccd147c6f1",
+  "userId": "a870c639-3d9b-494c-8483-c42fc564bc47",
   "isPlusUser": false,
-  "plusLicenseKey": "AIzaSyCU_c5N-PRXc5vnLeKn_p8xEs91jH_vozM",
+  "plusLicenseKey": "",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -12,14 +12,14 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyCU_c5N-PRXc5vnLeKn_p8xEs91jH_vozM",
+  "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
-  "defaultChainType": "copilot_plus",
-  "defaultModelKey": "gemini-2.5-pro|google",
-  "embeddingModelKey": "text-embedding-004|google",
+  "defaultChainType": "llm_chain",
+  "defaultModelKey": "gpt-4.1|openai",
+  "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -156,8 +156,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ]
     },
     {
@@ -166,8 +166,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "reasoning",
-        "vision"
+        "vision",
+        "reasoning"
       ]
     },
     {
@@ -310,7 +310,7 @@
   "lastDismissedVersion": null,
   "passMarkdownImages": true,
   "enableCustomPromptTemplating": true,
-  "suggestedDefaultCommands": true,
+  "suggestedDefaultCommands": false,
   "reasoningEffort": "low",
   "verbosity": "medium"
 }

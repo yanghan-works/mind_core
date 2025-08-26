@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
     "结构体.md",
     "rust/rust_struct.md",
