@@ -1,7 +1,7 @@
 {
   "userId": "a870c639-3d9b-494c-8483-c42fc564bc47",
   "isPlusUser": false,
-  "plusLicenseKey": "",
+  "plusLicenseKey": "AIzaSyAGQihxGFEKLKIoyG4mN13D5mrcOIbh684",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -18,7 +18,7 @@
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4.1|openai",
+  "defaultModelKey": "gemini-2.5-pro|google",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -156,8 +156,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -166,8 +166,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -200,7 +200,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": "AIzaSyAGQihxGFEKLKIoyG4mN13D5mrcOIbh684"
     },
     {
       "name": "azure-openai",
