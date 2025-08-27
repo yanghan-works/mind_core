@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内存.md",
+                "file": "栈和堆.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "内存"
+              "title": "栈和堆"
+            }
+          },
+          {
+            "id": "8f9b7db4d0d007a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内存.md",
+                "file": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "内存 的大纲"
+              "title": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw 的大纲"
             }
           },
           {
@@ -218,10 +231,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7cf880e80b2d7012",
+  "active": "8f9b7db4d0d007a6",
   "lastOpenFiles": [
+    "栈和堆.md",
+    "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
-    "内存.md",
     "rust/rust_struct.md",
     "杂记/Prompt.md",
     "杂记",
@@ -254,7 +268,6 @@
     "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
     "copilot-conversations",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
