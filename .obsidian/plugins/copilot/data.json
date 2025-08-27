@@ -311,7 +311,7 @@
   "lastDismissedVersion": null,
   "passMarkdownImages": true,
   "enableCustomPromptTemplating": true,
-  "suggestedDefaultCommands": false,
+  "suggestedDefaultCommands": true,
   "reasoningEffort": "low",
   "verbosity": "medium"
 }
