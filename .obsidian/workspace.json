@@ -47,12 +47,24 @@
             "id": "5ac5401f17031a06",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "杂记/Prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "Prompt"
             }
           }
         ],
@@ -243,8 +255,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "717bf6991e354438",
+  "active": "5ac5401f17031a06",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
@@ -266,21 +292,7 @@
     "grep.md",
     "awk.md",
     "正则表达式.md",
-    "Drawing 2025-08-26 04.28.04.excalidraw.md",
-    "正则表达式 Drawing 2025-08-13 17.08.29.excalidraw.md",
-    "管道 Drawing 2025-08-12 15.23.25.excalidraw.md",
-    "端口 Drawing 2025-08-04 15.03.33.excalidraw.md",
-    "未命名 1.md",
-    "Drawing 2025-08-14 15.08.30.excalidraw.md",
-    "Drawing 2025-08-14 15.07.47.excalidraw.md",
-    "copilot-conversations/hi@20250812_175042.md",
-    "copilot-custom-prompts/Emojify.md",
-    "Ping-Drawing 2025-08-03 12.32.44.excalidraw.md",
-    "管道.md",
-    "grep Drawing 2025-08-04 15.25.10.excalidraw.md",
     "copilot-conversations",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
