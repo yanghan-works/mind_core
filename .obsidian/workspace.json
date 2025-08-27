@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "栈和堆.md",
+                "file": "让人又爱又恨的堆和办事靠谱的的栈.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "栈和堆"
+              "title": "让人又爱又恨的堆和办事靠谱的的栈"
             }
           },
           {
@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md"
+                "file": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw"
+              "title": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md",
+                "file": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw 的大纲"
+              "title": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw 的大纲"
             }
           },
           {
@@ -233,8 +233,8 @@
   },
   "active": "8f9b7db4d0d007a6",
   "lastOpenFiles": [
-    "栈和堆.md",
-    "栈和堆-Drawing 2025-08-27 22.59.05.excalidraw.md",
+    "让人又爱又恨的堆和办事靠谱的的栈.md",
+    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "rust/rust_struct.md",
     "杂记/Prompt.md",
