@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "rust/rust_struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "rust_struct"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "rust/rust_struct.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prompt 的大纲"
+              "title": "rust_struct 的大纲"
             }
           },
           {
@@ -220,8 +220,8 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "rust/rust_struct.md",
     "杂记/Prompt.md",
+    "rust/rust_struct.md",
     "杂记",
     "结构体.md",
     "linux/sed.md",
