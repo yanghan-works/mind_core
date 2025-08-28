@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Rust：对其技术、生态系统和未来前景的深度分析"
             }
           }
         ],
@@ -257,6 +257,7 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
+    "杂记/Prompt.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -275,7 +276,6 @@
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "rust/rust_struct.md",
-    "杂记/Prompt.md",
     "杂记",
     "结构体.md",
     "linux/sed.md",
