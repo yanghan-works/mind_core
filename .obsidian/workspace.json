@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/侦探笔记：无监督机器学习的本质.md",
+                "file": "python/强化学习核心概念笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "侦探笔记：无监督机器学习的本质"
+              "title": "强化学习核心概念笔记"
             }
           }
         ],
@@ -257,9 +257,10 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
+    "python/侦探笔记：无监督机器学习的本质.md",
+    "python/强化学习核心概念笔记.md",
     "python/有监督机器学习核心笔记.md",
     "python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
-    "python/侦探笔记：无监督机器学习的本质.md",
     "python/机器学习三大核心学习方式.md",
     "python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "Drawing 2025-08-29 15.46.21.excalidraw.md",
@@ -282,7 +283,6 @@
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
