@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "让人又爱又恨的堆和办事靠谱的的栈.md",
+                "file": "04_python/Jupyter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "让人又爱又恨的堆和办事靠谱的的栈"
-            }
-          },
-          {
-            "id": "8f9b7db4d0d007a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "Jupyter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,38 +218,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8f9b7db4d0d007a6",
+  "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "04_python/pip Python 的应用商店.md",
+    "04_python/未命名 1.md",
+    "04_python/包管理器.md",
+    "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "未命名 2.md",
+    "未命名 1.md",
     "未命名.md",
     "rust/string_.md",
-    "python/Jupyter.md",
+    "04_python/Jupyter.md",
     "python/未命名 1.md",
-    "python/未命名.md",
+    "04_python/未命名.md",
     "02_templates/created_date.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "python/未命名 3.md",
     "python/未命名 2.md",
-    "python/机器学习 vs. 深度学习：侦探社终极指南.md",
-    "python/pip Python 的应用商店.md",
-    "python/虚拟环境创建与使用.md",
-    "python/有监督机器学习核心笔记.md",
-    "python/侦探笔记：无监督机器学习的本质.md",
-    "python/anaconda3 安装环境变量.md",
-    "python/虚拟环境：查看你的房间清单.md",
-    "python/虚拟环境：解决 Conda 未初始化问题.md",
+    "04_python/虚拟环境创建与使用.md",
+    "04_python/有监督机器学习核心笔记.md",
+    "04_python/侦探笔记：无监督机器学习的本质.md",
+    "04_python/anaconda3 安装环境变量.md",
+    "04_python/虚拟环境：查看你的房间清单.md",
+    "04_python/虚拟环境：解决 Conda 未初始化问题.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
-    "python/配置conda 安装环境.md",
-    "python/修改pip下载镜像.md",
+    "04_python/配置conda 安装环境.md",
+    "04_python/修改pip下载镜像.md",
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
-    "python/强化学习核心概念笔记.md",
-    "python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
-    "python/机器学习三大核心学习方式.md",
-    "Drawing 2025-08-29 15.46.21.excalidraw.md",
-    "python/强化学习.md",
+    "04_python/强化学习核心概念笔记.md",
+    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
+    "04_python/机器学习三大核心学习方式.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
@@ -282,7 +257,7 @@
     "go",
     "typescript",
     "rust",
-    "python",
+    "04_python",
     "linux",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",

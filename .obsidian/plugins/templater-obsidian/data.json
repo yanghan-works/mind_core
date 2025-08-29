@@ -15,11 +15,11 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "python",
+      "folder": "/",
       "template": "02_templates/created_date.md"
     },
     {
-      "folder": "/",
+      "folder": "04_python",
       "template": "02_templates/created_date.md"
     }
   ],
