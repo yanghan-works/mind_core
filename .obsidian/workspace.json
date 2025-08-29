@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/未命名.md",
+                "file": "python/修改pip下载镜像.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "修改pip下载镜像"
             }
           }
         ],
@@ -257,8 +257,10 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
-    "python/anaconda3 安装环境变量.md",
     "python/未命名.md",
+    "python/配置虚拟环境.md",
+    "python/修改pip下载镜像.md",
+    "python/anaconda3 安装环境变量.md",
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
     "python/Jupyter.md",
@@ -283,8 +285,6 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
