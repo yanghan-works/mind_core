@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/机器学习 vs. 深度学习：侦探社终极指南.md",
+                "file": "python/有监督机器学习核心笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "机器学习 vs. 深度学习：侦探社终极指南"
+              "title": "有监督机器学习核心笔记"
             }
           }
         ],
@@ -258,6 +258,7 @@
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
     "python/机器学习三大核心学习方式.md",
+    "python/有监督机器学习核心笔记.md",
     "python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "Drawing 2025-08-29 15.46.21.excalidraw.md",
     "python/强化学习.md",
@@ -282,7 +283,6 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
