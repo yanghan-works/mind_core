@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "强化学习"
             }
+          },
+          {
+            "id": "47f38cce1ed379b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-08-29 15.46.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-29 15.46.21.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,12 +267,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5ac5401f17031a06",
+  "active": "47f38cce1ed379b2",
   "lastOpenFiles": [
+    "python/强化学习.md",
+    "Drawing 2025-08-29 15.46.21.excalidraw.md",
     "python/无监督机器学习.md",
     "python/监督机器学习.md",
     "python/人工智能流程.md",
-    "python/强化学习.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
     "rust/string_.md",
@@ -284,7 +297,6 @@
     "copilot-custom-prompts",
     "杂记",
     "结构体.md",
-    "linux/sed.md",
     "kubernetes",
     "新建文件夹",
     "go",
