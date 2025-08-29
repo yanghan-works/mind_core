@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e9ca5eca68195729","type":"text","text":"conda","x":-310,"y":-220,"width":250,"height":60},
+		{"id":"766efd64d387ae5a","type":"text","text":"配置虚拟环境","x":100,"y":-220,"width":250,"height":60},
+		{"id":"eb7eb068877ca1bd","type":"text","text":"pip","x":-310,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"43e574cf9127e355","fromNode":"e9ca5eca68195729","fromSide":"right","toNode":"766efd64d387ae5a","toSide":"left"}
+	]
+}

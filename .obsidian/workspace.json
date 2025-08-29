@@ -11,24 +11,17 @@
             "id": "7cf880e80b2d7012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04_python/Jupyter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "04_python/未命名.canvas",
+                "viewState": {
+                  "x": -14,
+                  "y": -50.66668701171875,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Jupyter"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -220,6 +213,12 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
+    "04_python/修改pip下载镜像.md",
+    "04_python/虚拟环境：解决 Conda 未初始化问题.md",
+    "04_python/虚拟环境创建与使用.md",
+    "04_python/虚拟环境：查看你的房间清单.md",
+    "04_python/未命名.canvas",
+    "04_python/Jupyter.md",
     "04_python/pip Python 的应用商店.md",
     "04_python/未命名 1.md",
     "04_python/包管理器.md",
@@ -228,28 +227,22 @@
     "未命名 1.md",
     "未命名.md",
     "rust/string_.md",
-    "04_python/Jupyter.md",
     "python/未命名 1.md",
     "04_python/未命名.md",
     "02_templates/created_date.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "python/未命名 3.md",
     "python/未命名 2.md",
-    "04_python/虚拟环境创建与使用.md",
     "04_python/有监督机器学习核心笔记.md",
     "04_python/侦探笔记：无监督机器学习的本质.md",
     "04_python/anaconda3 安装环境变量.md",
-    "04_python/虚拟环境：查看你的房间清单.md",
-    "04_python/虚拟环境：解决 Conda 未初始化问题.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "04_python/配置conda 安装环境.md",
-    "04_python/修改pip下载镜像.md",
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
     "04_python/强化学习核心概念笔记.md",
     "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
-    "04_python/机器学习三大核心学习方式.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
@@ -274,7 +267,6 @@
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
     "正则表达式.canvas",
-    "Ping 检查网络连通性.canvas",
-    "02-Areas/Ping 测试网络连接性.canvas"
+    "Ping 检查网络连通性.canvas"
   ]
 }
