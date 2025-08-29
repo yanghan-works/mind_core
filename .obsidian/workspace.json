@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/人工智能流程.md",
+                "file": "python/强化学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "人工智能流程"
+              "title": "强化学习"
             }
           }
         ],
@@ -257,8 +257,11 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
-    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
+    "python/无监督机器学习.md",
+    "python/强化学习.md",
+    "python/监督机器学习.md",
     "python/人工智能流程.md",
+    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
     "rust/string_.md",
     "rust/stirng_into().md",
@@ -282,8 +285,6 @@
     "杂记",
     "结构体.md",
     "linux/sed.md",
-    "linux/grep.md",
-    "linux/awk.md",
     "kubernetes",
     "新建文件夹",
     "go",
@@ -291,7 +292,6 @@
     "rust",
     "python",
     "linux",
-    "sed.md",
     "copilot-conversations",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
