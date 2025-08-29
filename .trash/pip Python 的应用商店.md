@@ -15,36 +15,7 @@ aliases: [Python包管理器, pip工具] tags:
 
 > [!abstract] 核心类比 `pip` 是一个专门用来安装和管理 [[Python]] 库的工具。您可以把它看作是 Python 世界里的**应用商店**或**[[包管理器]]**。
 
-## `pip` 的主要功能
 
-`pip` 最主要的功能就是让你方便地安装、卸载和管理库。
-
-> [!tip] 常用命令
-
-- **安装库**：
-    
-    ```
-    pip install package_name
-    ```
-    
-- **卸载库**：
-    
-    ```
-    pip uninstall package_name
-    ```
-    
-- **查看已安装的库**：
-    
-    ```
-    pip list
-    ```
-    
-- **查看库的详细信息（含依赖关系）**：
-    
-    ```
-    pip show package_name
-    ```
-    
 
 ## `pip` 和 `conda` 的关系
 
