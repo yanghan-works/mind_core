@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/强化学习.md",
+                "file": "python/机器学习三大核心学习方式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,23 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "强化学习"
-            }
-          },
-          {
-            "id": "47f38cce1ed379b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-08-29 15.46.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-29 15.46.21.excalidraw"
+              "title": "机器学习三大核心学习方式"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,12 +255,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "47f38cce1ed379b2",
+  "active": "5ac5401f17031a06",
   "lastOpenFiles": [
-    "python/强化学习.md",
     "Drawing 2025-08-29 15.46.21.excalidraw.md",
+    "python/强化学习.md",
     "python/无监督机器学习.md",
-    "python/监督机器学习.md",
+    "python/机器学习三大核心学习方式.md",
     "python/人工智能流程.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
