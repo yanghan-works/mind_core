@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "02_templates",
   "templates_pairs": [
     [
       "",
@@ -12,14 +12,18 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "python",
+      "template": "02_templates/created_date.md"
+    },
+    {
       "folder": "/",
-      "template": "Templates/created_date.md"
+      "template": "02_templates/created_date.md"
     }
   ],
-  "enable_file_templates": true,
+  "enable_file_templates": false,
   "file_templates": [
     {
       "regex": ".*",
@@ -28,11 +32,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "intellisense_render": 1
 }

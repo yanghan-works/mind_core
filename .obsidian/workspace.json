@@ -35,21 +35,9 @@
             "id": "8f9b7db4d0d007a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw"
-            }
-          },
-          {
-            "id": "5ac5401f17031a06",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "python/配置虚拟环境.md",
+                "file": "未命名 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "配置虚拟环境"
+              "title": "未命名 2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,37 +243,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5ac5401f17031a06",
+  "active": "8f9b7db4d0d007a6",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "未命名 2.md",
+    "未命名.md",
+    "rust/string_.md",
+    "python/Jupyter.md",
+    "python/未命名 1.md",
     "python/未命名.md",
-    "python/配置虚拟环境.md",
+    "02_templates/created_date.md",
+    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
+    "python/未命名 3.md",
+    "python/未命名 2.md",
+    "python/机器学习 vs. 深度学习：侦探社终极指南.md",
+    "python/pip Python 的应用商店.md",
+    "python/虚拟环境创建与使用.md",
+    "python/有监督机器学习核心笔记.md",
+    "python/侦探笔记：无监督机器学习的本质.md",
+    "python/anaconda3 安装环境变量.md",
+    "python/虚拟环境：查看你的房间清单.md",
+    "python/虚拟环境：解决 Conda 未初始化问题.md",
+    "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "python/配置conda 安装环境.md",
     "python/修改pip下载镜像.md",
-    "python/anaconda3 安装环境变量.md",
-    "python/pip 工具.md",
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
-    "python/Jupyter.md",
-    "python/侦探笔记：无监督机器学习的本质.md",
     "python/强化学习核心概念笔记.md",
-    "python/有监督机器学习核心笔记.md",
     "python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "python/机器学习三大核心学习方式.md",
-    "python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "Drawing 2025-08-29 15.46.21.excalidraw.md",
     "python/强化学习.md",
-    "python/无监督机器学习.md",
-    "python/人工智能流程.md",
-    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
-    "让人又爱又恨的堆和办事靠谱的的栈.md",
-    "rust/string_.md",
-    "rust/stirng_into().md",
-    "rust/rust_struct.md",
-    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
-    "杂记/Prompt.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
@@ -306,7 +295,6 @@
     "Attachments/Pasted image 20250731085818.png",
     "Linux MOC.canvas",
     "Screenshots/屏幕截图 2025-08-02 144458.png",
-    "Screenshots/屏幕截图 2025-08-02 144451.png",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
