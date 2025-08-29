@@ -47,12 +47,24 @@
             "id": "5ac5401f17031a06",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md"
+                "file": "python/人工智能流程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "人工智能流程"
             }
           }
         ],
@@ -245,6 +257,8 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
+    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
+    "python/人工智能流程.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
     "rust/string_.md",
     "rust/stirng_into().md",
@@ -265,7 +279,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "杂记",
     "结构体.md",
     "linux/sed.md",
@@ -279,7 +292,6 @@
     "python",
     "linux",
     "sed.md",
-    "grep.md",
     "copilot-conversations",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
