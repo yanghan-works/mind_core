@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/侦探笔记：无监督机器学习的本质.md",
+                "file": "python/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "侦探笔记：无监督机器学习的本质"
+              "title": "未命名"
             }
           }
         ],
@@ -257,8 +257,13 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
-    "python/强化学习核心概念笔记.md",
+    "python/anaconda3 安装环境变量.md",
+    "python/未命名.md",
+    "Attachments/Pasted image 20250829205616.png",
+    "Attachments",
+    "python/Jupyter.md",
     "python/侦探笔记：无监督机器学习的本质.md",
+    "python/强化学习核心概念笔记.md",
     "python/有监督机器学习核心笔记.md",
     "python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "python/机器学习三大核心学习方式.md",
@@ -280,9 +285,6 @@
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
@@ -292,7 +294,6 @@
     "rust",
     "python",
     "linux",
-    "copilot-conversations",
     "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
@@ -306,7 +307,6 @@
     "Screenshots/屏幕截图 2025-08-02 144458.png",
     "Screenshots/屏幕截图 2025-08-02 144451.png",
     "Screenshots/屏幕截图 2025-08-01 221538.png",
-    "Screenshots/屏幕截图 2025-07-31 145710.png",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
