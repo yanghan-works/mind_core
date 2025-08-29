@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/配置conda 安装环境.md",
+                "file": "python/配置虚拟环境.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "配置conda 安装环境"
+              "title": "配置虚拟环境"
             }
           }
         ],
@@ -257,10 +257,12 @@
   },
   "active": "5ac5401f17031a06",
   "lastOpenFiles": [
+    "python/未命名.md",
+    "python/配置虚拟环境.md",
+    "Attachments/Pasted image 20250829223507.png",
+    "python/配置conda 安装环境.md",
     "python/修改pip下载镜像.md",
     "python/anaconda3 安装环境变量.md",
-    "python/配置conda 安装环境.md",
-    "python/配置虚拟环境.md",
     "python/pip 工具.md",
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
@@ -284,7 +286,6 @@
     "杂记/Prompt.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
@@ -306,7 +307,6 @@
     "Linux MOC.canvas",
     "Screenshots/屏幕截图 2025-08-02 144458.png",
     "Screenshots/屏幕截图 2025-08-02 144451.png",
-    "Screenshots/屏幕截图 2025-08-01 221538.png",
     "Linux 基础概念.canvas",
     "Ping 原子化框架.canvas",
     "sed 流编辑器.canvas",
