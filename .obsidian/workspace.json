@@ -11,16 +11,23 @@
             "id": "7cf880e80b2d7012",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "04_python/未命名.canvas",
-                "viewState": {
-                  "x": -14,
-                  "y": -50.66668701171875,
-                  "zoom": 0
+                "file": "04_python/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "未命名"
             }
           }
@@ -213,14 +220,15 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
+    "04_python/未命名 1.md",
+    "04_python/未命名.canvas",
+    "04_python/pip Python 的应用商店.md",
+    "Drawing 2025-08-29 23.11.30.excalidraw.md",
     "04_python/修改pip下载镜像.md",
     "04_python/虚拟环境：解决 Conda 未初始化问题.md",
     "04_python/虚拟环境创建与使用.md",
     "04_python/虚拟环境：查看你的房间清单.md",
-    "04_python/未命名.canvas",
     "04_python/Jupyter.md",
-    "04_python/pip Python 的应用商店.md",
-    "04_python/未命名 1.md",
     "04_python/包管理器.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "未命名 2.md",
@@ -242,7 +250,6 @@
     "Attachments/Pasted image 20250829205616.png",
     "Attachments",
     "04_python/强化学习核心概念笔记.md",
-    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "copilot-custom-prompts",
     "杂记",
     "kubernetes",
