@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "04_python/Jupyter 标准备忘录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Jupyter 标准备忘录"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "04_python/Jupyter 标准备忘录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prompt 的大纲"
+              "title": "Jupyter 标准备忘录 的大纲"
             }
           },
           {
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,10 +245,10 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
-    "04_python/机器学习核心流程笔记.md",
-    "杂记/Prompt.md",
-    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "04_python/pip 包管理器.md",
+    "杂记/Prompt.md",
+    "04_python/机器学习核心流程笔记.md",
+    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "linux/sed.md",
     "linux/grep.md",
     "linux/awk.md",
