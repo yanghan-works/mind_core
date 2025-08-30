@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "04_python/pip 更换国内镜像源.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "pip 更换国内镜像源"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "04_python/pip 更换国内镜像源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prompt 的大纲"
+              "title": "pip 更换国内镜像源 的大纲"
             }
           },
           {
@@ -220,12 +220,13 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
+    "04_python/pip 核心用法.md",
+    "04_python/pip 更换国内镜像源.md",
     "杂记/Prompt.md",
+    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "rust/rust_struct.md",
     "rust/stirng_into().md",
     "rust/string_.md",
-    "04_python/pip 你的Python项目管家.md",
     "04_python/未命名 1.md",
     "04_python/pip Python 的应用商店.md",
     "04_python/未命名.canvas",
@@ -246,7 +247,6 @@
     "python/未命名 3.md",
     "python/未命名 2.md",
     "04_python/有监督机器学习核心笔记.md",
-    "04_python/侦探笔记：无监督机器学习的本质.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
