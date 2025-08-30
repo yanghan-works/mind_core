@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip 核心用法.md",
+                "file": "04_python/pip 更换国内镜像源.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 核心用法"
+              "title": "pip 更换国内镜像源"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip 核心用法.md",
+                "file": "04_python/pip 更换国内镜像源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 核心用法 的大纲"
+              "title": "pip 更换国内镜像源 的大纲"
             }
           },
           {
@@ -246,9 +246,9 @@
   "active": "231aa9c081500334",
   "lastOpenFiles": [
     "04_python/Jupyter 标准备忘录.md",
+    "04_python/pip 核心用法.md",
     "04_python/Anaconda 工程速查手册.md",
     "04_python/pip 更换国内镜像源.md",
-    "04_python/pip 核心用法.md",
     "Drawing 2025-08-30 14.15.03.excalidraw.md",
     "杂记/Prompt.md",
     "Attachments/Pasted image 20250829224017.png",
