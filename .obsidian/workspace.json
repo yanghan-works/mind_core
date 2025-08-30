@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Prompt"
             }
+          },
+          {
+            "id": "57605e2ef39c8747",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-08-30 17.38.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-30 17.38.34.excalidraw"
+            }
+          },
+          {
+            "id": "608e4019bb81f3b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-08-30 17.45.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-30 17.45.25.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "Drawing 2025-08-30 17.45.25.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prompt 的大纲"
+              "title": "Drawing 2025-08-30 17.45.25.excalidraw 的大纲"
             }
           },
           {
@@ -243,11 +267,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "608e4019bb81f3b3",
   "lastOpenFiles": [
+    "Drawing 2025-08-30 17.38.34.excalidraw.md",
+    "Drawing 2025-08-30 17.45.25.excalidraw.md",
+    "rust/rust_struct.md",
+    "杂记/Prompt.md",
     "04_python/Jupyter 标准备忘录.md",
     "04_python/pip 包管理器.md",
-    "杂记/Prompt.md",
     "04_python/机器学习核心流程笔记.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "linux/sed.md",
@@ -271,10 +298,7 @@
     "Drawing 2025-08-30 14.12.05.excalidraw.md",
     "rust/string_.md",
     "rust/stirng_into().md",
-    "rust/rust_struct.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Summarize.md",
     "04_python/未命名.canvas",
     "Attachments",
     "copilot-custom-prompts",
