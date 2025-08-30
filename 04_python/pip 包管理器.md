@@ -18,7 +18,7 @@ date: 2025-08-30 07:53
 
 获取新的库。
 
-```
+```shell
 # 示例：安装 pandas 数据分析库
 pip install pandas
 ```
@@ -27,7 +27,7 @@ pip install pandas
 
 盘点当前环境中已安装的所有库。
 
-```
+```shell
 pip list
 ```
 
@@ -35,7 +35,7 @@ pip list
 
 移除不再需要的库。
 
-```
+```shell
 # 示例：卸载一个没用的库
 pip uninstall useless_package
 ```
@@ -44,7 +44,7 @@ pip uninstall useless_package
 
 将一个已安装的库更新到最新版本。
 
-```
+```shell
 # 示例：升级 pandas 库
 pip install --upgrade pandas
 ```
@@ -55,13 +55,13 @@ pip install --upgrade pandas
 
 - **生成依赖清单**: 将当前环境的所有库及其精确版本号，导出到一个名为 `requirements.txt` 的文件中。这个文件就是你项目的“标准配置单”。
     
-    ```
+    ```shell
     pip freeze > requirements.txt
     ```
     
 - **根据清单安装**: 在新环境或与他人协作时，使用此命令可一键安装项目所需的所有依赖。
     
-    ```
+    ```shell
     pip install -r requirements.txt
     ```
     
@@ -121,6 +121,6 @@ trusted-host = pypi.douban.com
 
 改完后，用此命令检查，确保没写错。
 
-```
+```shell
 pip config list
 ```

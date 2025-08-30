@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip.md",
+                "file": "04_python/Anaconda 工程速查手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip"
+              "title": "Anaconda 工程速查手册"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip.md",
+                "file": "04_python/Anaconda 工程速查手册.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 的大纲"
+              "title": "Anaconda 工程速查手册 的大纲"
             }
           },
           {
@@ -245,10 +245,10 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
-    "04_python/pip 更换国内镜像源.md",
-    "04_python/pip.md",
     "04_python/Jupyter 标准备忘录.md",
     "04_python/Anaconda 工程速查手册.md",
+    "04_python/pip 包管理器.md",
+    "04_python/pip 更换国内镜像源.md",
     "Drawing 2025-08-30 14.15.03.excalidraw.md",
     "杂记/Prompt.md",
     "Attachments/Pasted image 20250829224017.png",

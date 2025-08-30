@@ -20,7 +20,7 @@ Anaconda 的唯一价值在于为每个项目创建一个**独立、干净、互
 
 这是你为任何新项目启动的标准操作程序（SOP）。
 
-```
+```shell
 # 步骤 1: 创建一个全新的、隔离的环境
 # 格式: conda create --name <环境名> python=<版本号>
 conda create --name project_x python=3.10
@@ -66,7 +66,7 @@ conda deactivate
 
 为了获得最佳的下载速度和最全的软件包，建议对 `conda` 进行一次性全局配置。
 
-```
+```shell
 # 步骤 1: 添加社区维护的最全渠道 conda-forge
 conda config --add channels conda-forge
 
