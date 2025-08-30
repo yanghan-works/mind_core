@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip 包管理器.md",
+                "file": "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 包管理器"
+              "title": "核心概念：无监督学习 (Unsupervised Learning)"
             }
           }
         ],
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip 包管理器.md",
+                "file": "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 包管理器 的大纲"
+              "title": "核心概念：无监督学习 (Unsupervised Learning) 的大纲"
             }
           },
           {
@@ -293,9 +293,9 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
-    "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
     "04_python/机器学习核心流程笔记.md",
     "04_python/pip 包管理器.md",
+    "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
     "04_python/Jupyter 标准备忘录.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
