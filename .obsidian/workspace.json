@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
+                "file": "04_python/无监督机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "核心概念：无监督学习 (Unsupervised Learning)"
+              "title": "无监督机器学习"
             }
           }
         ],
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
+                "file": "04_python/无监督机器学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "核心概念：无监督学习 (Unsupervised Learning) 的大纲"
+              "title": "无监督机器学习 的大纲"
             }
           },
           {
@@ -293,10 +293,11 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "04_python/Jupyter.md",
+    "04_python/无监督机器学习.md",
     "04_python/机器学习核心流程笔记.md",
+    "04_python/Anaconda.md",
     "04_python/pip 包管理器.md",
-    "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
-    "04_python/Jupyter 标准备忘录.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
@@ -311,7 +312,6 @@
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "Drawing 2025-08-30 14.15.03.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
-    "04_python/Anaconda 工程速查手册.md",
     "01_attachments/Pasted image 20250726232123.png",
     "04_python/强化学习核心概念笔记.md",
     "04_python/机器学习三大核心学习方式.md",
