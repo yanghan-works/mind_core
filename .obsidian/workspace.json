@@ -35,12 +35,24 @@
             "id": "231aa9c081500334",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-08-30 14.15.03.excalidraw.md"
+                "file": "04_python/pip 核心用法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-30 14.15.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "pip 核心用法"
             }
           }
         ],
@@ -189,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-08-30 14.15.03.excalidraw.md",
+                "file": "04_python/pip 核心用法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-08-30 14.15.03.excalidraw 的大纲"
+              "title": "pip 核心用法 的大纲"
             }
           },
           {
@@ -233,13 +245,15 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
+    "04_python/Jupyter 标准备忘录.md",
+    "04_python/Anaconda 工程速查手册.md",
+    "04_python/pip 更换国内镜像源.md",
     "04_python/pip 核心用法.md",
     "Drawing 2025-08-30 14.15.03.excalidraw.md",
     "杂记/Prompt.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
-    "04_python/Anaconda 核心速查笔记.md",
     "Drawing 2025-08-30 14.12.05.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
     "让人又爱又恨的堆和办事靠谱的的栈.md",
@@ -260,8 +274,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "01_attachments/Pasted image 20250726232123.png",
     "04_python/未命名.canvas",
     "Attachments",
