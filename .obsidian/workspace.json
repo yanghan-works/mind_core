@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip 更换国内镜像源.md",
+                "file": "04_python/anaconda3 安装环境变量.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 更换国内镜像源"
+              "title": "anaconda3 安装环境变量"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip 更换国内镜像源.md",
+                "file": "04_python/anaconda3 安装环境变量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 更换国内镜像源 的大纲"
+              "title": "anaconda3 安装环境变量 的大纲"
             }
           },
           {
@@ -220,22 +220,25 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "04_python/pip 核心用法.md",
+    "04_python/Jupyter 核心逻辑.md",
+    "04_python/Jupyter内核与状态管理.md",
     "04_python/pip 更换国内镜像源.md",
+    "04_python/pip 核心用法.md",
+    "04_python/未命名 1.md",
+    "04_python/未命名.canvas",
+    "04_python/anaconda3 安装环境变量.md",
+    "04_python/Jupyter.md",
     "杂记/Prompt.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "rust/rust_struct.md",
     "rust/stirng_into().md",
     "rust/string_.md",
-    "04_python/未命名 1.md",
     "04_python/pip Python 的应用商店.md",
-    "04_python/未命名.canvas",
     "Drawing 2025-08-29 23.11.30.excalidraw.md",
     "04_python/修改pip下载镜像.md",
     "04_python/虚拟环境：解决 Conda 未初始化问题.md",
     "04_python/虚拟环境创建与使用.md",
     "04_python/虚拟环境：查看你的房间清单.md",
-    "04_python/Jupyter.md",
     "04_python/包管理器.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "未命名 2.md",
@@ -243,10 +246,6 @@
     "未命名.md",
     "python/未命名 1.md",
     "02_templates/created_date.md",
-    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
-    "python/未命名 3.md",
-    "python/未命名 2.md",
-    "04_python/有监督机器学习核心笔记.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
