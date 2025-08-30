@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/Anaconda 是什么.md",
+                "file": "04_python/Anaconda 核心速查笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anaconda 是什么"
+              "title": "Anaconda 核心速查笔记"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/Anaconda 是什么.md",
+                "file": "04_python/Anaconda 核心速查笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anaconda 是什么 的大纲"
+              "title": "Anaconda 核心速查笔记 的大纲"
             }
           },
           {
@@ -220,36 +220,37 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "04_python/Anaconda 核心使用指南.md",
-    "04_python/Anaconda 是什么.md",
-    "04_python/Conda 常见问题排查.md",
-    "04_python/Conda 包管理.md",
-    "04_python/Conda 配置要点.md",
-    "04_python/Jupyter内核与状态管理.md",
-    "04_python/JupyterLab 启动与排错.md",
-    "04_python/Conda 环境管理.md",
-    "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
-    "04_python/机器学习三大核心学习方式.md",
-    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
-    "04_python/强化学习核心概念笔记.md",
-    "04_python/侦探笔记：无监督机器学习的本质.md",
-    "04_python/有监督机器学习核心笔记.md",
-    "04_python/Jupyter 核心逻辑.md",
-    "04_python/配置conda 安装环境.md",
-    "04_python/虚拟环境创建与使用.md",
-    "04_python/虚拟环境：查看你的房间清单.md",
-    "04_python/虚拟环境：解决 Conda 未初始化问题.md",
-    "04_python/修改pip下载镜像.md",
-    "04_python/anaconda3 安装环境变量.md",
-    "04_python/pip 更换国内镜像源.md",
-    "04_python/pip 核心用法.md",
-    "04_python/未命名 1.md",
-    "04_python/未命名.canvas",
-    "04_python/Jupyter.md",
-    "杂记/Prompt.md",
+    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
+    "让人又爱又恨的堆和办事靠谱的的栈.md",
+    "rust/string_.md",
+    "rust/stirng_into().md",
+    "rust/rust_struct.md",
+    "linux/sed.md",
+    "linux/grep.md",
+    "linux/awk.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "杂记/Prompt.md",
+    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
+    "04_python/pip 更换国内镜像源.md",
+    "04_python/pip 核心用法.md",
+    "04_python/JupyterLab 启动与排错.md",
+    "01_attachments/Pasted image 20250726232123.png",
+    "04_python/未命名.canvas",
     "Attachments",
     "copilot-custom-prompts",
     "杂记",
@@ -260,7 +261,6 @@
     "rust",
     "04_python",
     "linux",
-    "01_attachments/Pasted image 20250726232123.png",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
