@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
+                "file": "04_python/pip 你的Python项目管家.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw 的大纲"
+              "title": "pip 你的Python项目管家 的大纲"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7cf880e80b2d7012",
+  "active": "69064968100db8f7",
   "lastOpenFiles": [
     "04_python/未命名 1.md",
     "04_python/pip 你的Python项目管家.md",
