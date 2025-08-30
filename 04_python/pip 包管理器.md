@@ -6,17 +6,14 @@ tags:
 alias: pip,python包管理工具
 date: 2025-08-30 07:53
 ---
-# pip 核心关键内容
-
 ## 1. pip 是什么？
 
 `pip` 是 **Python 包管理工具**（**P**ackage **I**nstaller for **P**ython），它是官方推荐的用于安装和管理 Python 软件包的工具。
 
 ## 2. 常用命令速查
 
-|   |   |   |
+|命令|描述|示例|
 |---|---|---|
-|**命令**|**描述**|**示例**|
 |**`install`**|安装一个或多个包。|`pip install requests`|
 |**`uninstall`**|卸载一个或多个包。|`pip uninstall requests`|
 |**`list`**|列出所有已安装的包。|`pip list`|
@@ -96,7 +93,6 @@ deactivate
 
 - **临时使用**
     
-
 ```
 pip install some-package -i [https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
 ```
@@ -105,17 +101,17 @@ pip install some-package -i [https://pypi.tuna.tsinghua.edu.cn/simple](https://p
     
     - **Windows:** 在用户目录下创建 `pip` 文件夹，再在该文件夹下创建 `pip.ini` 文件，并添加以下内容：
         
-        ```
-        [global]
-        index-url = [https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
-        ```
+```
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+```
         
     - **macOS/Linux:** 在用户目录下创建 `.pip` 文件夹，再在该文件夹下创建 `pip.conf` 文件，并添加以下内容：
-        
-        ```
-        [global]
-        index-url = [https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
-        ```
+		
+```
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+```
         
 
 ### 5.2 指定版本安装
