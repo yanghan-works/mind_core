@@ -7,5 +7,30 @@ alias:
 date: 2025-08-26 10:26
 ---
 ```mermaid
-graph TD subgraph "输入" Pattern["模式<br>(正则表达式)"] Files["文件"] Options["选项"] end subgraph "grep 工作流" ReadInput[读取文件内容] --> ApplyPattern[应用模式] ApplyPattern --> Filter[过滤不匹配行] Filter --> PrintOutput[打印匹配行] end subgraph "常见选项" Options --> CaseInsensitive["-i<br>(忽略大小写)"] Options --> Recursive["-r<br>(递归搜索)"] Options --> InvertMatch["-v<br>(反向匹配)"] Options --> LineNumber["-n<br>(显示行号)"] end grep["grep"] -- 组合 --> Pattern grep -- 组合 --> Files grep -- 组合 --> Options grep -- 执行 --> ReadInput PrintOutput -- 产生 --> Output["匹配结果"]
+graph TD
+    subgraph "栈空间 (Stack)"
+        direction LR
+        LIFO["LIFO<br>(后进先出)"]
+        FixedSize["固定大小<br>(编译时确定)"]
+        AutoManaged["自动管理<br>(由编译器处理)"]
+    end
+
+    subgraph "栈帧 (Stack Frame)"
+        direction TD
+        Frame["栈帧<br>(函数调用单位)"]
+        Frame -- 包含 --> LocalVars["局部变量"]
+        Frame -- 包含 --> FuncParams["函数参数"]
+        Frame -- 包含 --> ReturnAddr["返回地址"]
+    end
+
+    subgraph "工作流程"
+        Call["函数调用"] -- 入栈/Push --> Frame
+        Frame -- 出栈/Pop --> Return["函数返回"]
+        Recurse["递归调用"] --> StackUsage["持续占用栈空间"]
+        StackUsage --> Overflow["栈溢出<br>(Stack Overflow)"]
+    end
+
+    LIFO -- 决定 --> 工作流程
+    Frame -- 组成 --> 栈空间
+    工作流程 -- 潜在问题 --> Overflow
 ```
