@@ -59,24 +59,10 @@
             "id": "57605e2ef39c8747",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-08-30 17.38.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-30 17.38.34.excalidraw"
-            }
-          },
-          {
-            "id": "608e4019bb81f3b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-08-30 17.45.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-30 17.45.25.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -85,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/无监督机器学习.md",
+                "file": "python/无监督机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -104,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/无监督机器学习.md",
+                "file": "python/无监督机器学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,14 +279,16 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
-    "04_python/Jupyter.md",
-    "04_python/无监督机器学习.md",
-    "04_python/机器学习核心流程笔记.md",
-    "04_python/Anaconda.md",
-    "04_python/pip 包管理器.md",
-    "Drawing 2025-08-30 17.46.46.excalidraw.md",
+    "04_document/无监督机器学习核心笔记.md",
+    "python/无监督机器学习.md",
+    "04_document",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
+    "python/Jupyter.md",
+    "04_python/机器学习核心流程笔记.md",
+    "python/Anaconda.md",
+    "python/pip 包管理器.md",
+    "Drawing 2025-08-30 17.46.46.excalidraw.md",
     "rust/rust_struct.md",
     "rust/stirng_into().md",
     "rust/string_.md",
@@ -319,7 +307,6 @@
     "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "04_python/有监督机器学习核心笔记.md",
     "04_python/侦探笔记：无监督机器学习的本质.md",
-    "04_python/pip 更换国内镜像源.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
@@ -332,8 +319,7 @@
     "go",
     "typescript",
     "rust",
-    "04_python",
-    "linux",
+    "python",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
