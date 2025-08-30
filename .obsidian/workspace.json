@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/机器学习核心流程笔记.md",
-                "mode": "preview",
+                "file": "04_python/pip 包管理器.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "机器学习核心流程笔记"
+              "title": "pip 包管理器"
             }
           }
         ],
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/机器学习核心流程笔记.md",
+                "file": "04_python/pip 包管理器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习核心流程笔记 的大纲"
+              "title": "pip 包管理器 的大纲"
             }
           },
           {
@@ -293,9 +293,10 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "04_python/核心概念：无监督学习 (Unsupervised Learning).md",
+    "04_python/机器学习核心流程笔记.md",
     "04_python/pip 包管理器.md",
     "04_python/Jupyter 标准备忘录.md",
-    "04_python/机器学习核心流程笔记.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
@@ -322,7 +323,6 @@
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
-    "Drawing 2025-08-30 14.12.05.excalidraw.md",
     "04_python/未命名.canvas",
     "Attachments",
     "copilot-custom-prompts",
