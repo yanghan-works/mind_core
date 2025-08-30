@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/未命名.md",
+                "file": "04_python/机器学习核心流程笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "机器学习核心流程笔记"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/未命名.md",
+                "file": "04_python/机器学习核心流程笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "机器学习核心流程笔记 的大纲"
             }
           },
           {
@@ -245,13 +245,13 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
-    "04_python/侦探笔记：无监督机器学习的本质.md",
-    "04_python/未命名.md",
-    "04_python/有监督机器学习核心笔记.md",
-    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "04_python/强化学习核心概念笔记.md",
     "04_python/机器学习三大核心学习方式.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
+    "04_python/机器学习核心流程笔记.md",
+    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
+    "04_python/有监督机器学习核心笔记.md",
+    "04_python/侦探笔记：无监督机器学习的本质.md",
     "04_python/Anaconda 工程速查手册.md",
     "04_python/Jupyter 标准备忘录.md",
     "04_python/pip 包管理器.md",
