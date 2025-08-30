@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip 你的Python项目管家.md",
+                "file": "rust/rust_struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 你的Python项目管家"
+              "title": "rust_struct"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip 你的Python项目管家.md",
+                "file": "rust/rust_struct.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 你的Python项目管家 的大纲"
+              "title": "rust_struct 的大纲"
             }
           },
           {
@@ -218,10 +218,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "69064968100db8f7",
+  "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "04_python/未命名 1.md",
+    "rust/stirng_into().md",
+    "rust/string_.md",
     "04_python/pip 你的Python项目管家.md",
+    "04_python/未命名 1.md",
     "04_python/pip Python 的应用商店.md",
     "04_python/未命名.canvas",
     "Drawing 2025-08-29 23.11.30.excalidraw.md",
@@ -235,7 +237,6 @@
     "未命名 2.md",
     "未命名 1.md",
     "未命名.md",
-    "rust/string_.md",
     "python/未命名 1.md",
     "02_templates/created_date.md",
     "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
