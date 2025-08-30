@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/未命名.md",
+                "file": "04_python/pip 你的Python项目管家.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "pip 你的Python项目管家"
             }
           }
         ]
@@ -221,7 +221,7 @@
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
     "04_python/未命名 1.md",
-    "04_python/未命名.md",
+    "04_python/pip 你的Python项目管家.md",
     "04_python/pip Python 的应用商店.md",
     "04_python/未命名.canvas",
     "Drawing 2025-08-29 23.11.30.excalidraw.md",
