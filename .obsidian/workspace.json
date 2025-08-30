@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/机器学习核心流程笔记.md",
+                "file": "杂记/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "机器学习核心流程笔记"
+              "title": "Prompt"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/机器学习核心流程笔记.md",
+                "file": "杂记/Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习核心流程笔记 的大纲"
+              "title": "Prompt 的大纲"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
+    "04_python/机器学习核心流程笔记.md",
     "杂记/Prompt.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "04_python/pip 包管理器.md",
@@ -256,7 +257,6 @@
     "让人又爱又恨的堆和办事靠谱的的栈.md",
     "04_python/Anaconda 工程速查手册.md",
     "01_attachments/Pasted image 20250726232123.png",
-    "04_python/机器学习核心流程笔记.md",
     "04_python/强化学习核心概念笔记.md",
     "04_python/机器学习三大核心学习方式.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
