@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/pip 包管理器.md",
-                "mode": "source",
+                "file": "04_python/机器学习核心流程笔记.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 包管理器"
+              "title": "机器学习核心流程笔记"
             }
           }
         ],
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/pip 包管理器.md",
+                "file": "04_python/机器学习核心流程笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 包管理器 的大纲"
+              "title": "机器学习核心流程笔记 的大纲"
             }
           },
           {
@@ -293,6 +293,7 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "04_python/pip 包管理器.md",
     "04_python/Jupyter 标准备忘录.md",
     "04_python/机器学习核心流程笔记.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
@@ -302,7 +303,6 @@
     "rust/stirng_into().md",
     "rust/string_.md",
     "杂记/Prompt.md",
-    "04_python/pip 包管理器.md",
     "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
     "linux/sed.md",
     "linux/grep.md",
