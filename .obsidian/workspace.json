@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_python/Jupyter 标准备忘录.md",
+                "file": "杂记/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jupyter 标准备忘录"
+              "title": "Prompt"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_python/Jupyter 标准备忘录.md",
+                "file": "杂记/Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Jupyter 标准备忘录 的大纲"
+              "title": "Prompt 的大纲"
             }
           },
           {
@@ -243,8 +243,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "231aa9c081500334",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
+    "04_python/Jupyter 标准备忘录.md",
     "04_python/pip 包管理器.md",
     "杂记/Prompt.md",
     "04_python/机器学习核心流程笔记.md",
@@ -263,7 +264,6 @@
     "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "04_python/有监督机器学习核心笔记.md",
     "04_python/侦探笔记：无监督机器学习的本质.md",
-    "04_python/Jupyter 标准备忘录.md",
     "04_python/pip 更换国内镜像源.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
