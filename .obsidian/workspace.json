@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_document/Python 环境管理：Anaconda.md",
+                "file": "python/Anaconda 环境管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 环境管理：Anaconda"
+              "title": "Anaconda 环境管理"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_document/Python 环境管理：Anaconda.md",
+                "file": "python/Anaconda 环境管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 环境管理：Anaconda 的大纲"
+              "title": "Anaconda 环境管理 的大纲"
             }
           },
           {
@@ -279,11 +279,11 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
-    "python/Anaconda 环境管理.md",
-    "04_document/Python 包管理：pip.md",
     "04_document/Python 环境管理：Anaconda.md",
-    "python/Python Pip 学习笔记.md",
+    "04_document/Python 包管理：pip.md",
     "04_document/无监督机器学习核心笔记.md",
+    "python/Anaconda 环境管理.md",
+    "python/Python Pip 学习笔记.md",
     "python/Jupyter.md",
     "python/无监督机器学习.md",
     "04_document",
