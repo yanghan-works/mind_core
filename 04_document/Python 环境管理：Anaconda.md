@@ -1,12 +1,8 @@
 ---
-tags:
-  - python
-  - 工具
-alias:
-date: 2025-08-30 13:58
+tags: 
+alias: 
+date: 2025-09-01 08:53
 ---
-# Python 环境管理：Anaconda
-
 ## 1. 基础概念
 
 - **Anaconda**：一个包含 Conda、Python 和大量科学计算包（如 NumPy、Pandas）的发行版。

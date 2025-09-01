@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Anaconda.md",
+                "file": "04_document/Python 环境管理：Anaconda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anaconda"
+              "title": "Python 环境管理：Anaconda"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Anaconda.md",
+                "file": "04_document/Python 环境管理：Anaconda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anaconda 的大纲"
+              "title": "Python 环境管理：Anaconda 的大纲"
             }
           },
           {
@@ -279,8 +279,10 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
-    "python/Python Pip 学习笔记.md",
     "04_document/Python 包管理：pip.md",
+    "04_document/Python 环境管理：Anaconda.md",
+    "python/Anaconda.md",
+    "python/Python Pip 学习笔记.md",
     "04_document/无监督机器学习核心笔记.md",
     "python/Jupyter.md",
     "python/无监督机器学习.md",
@@ -288,7 +290,6 @@
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
     "04_python/机器学习核心流程笔记.md",
-    "python/Anaconda.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
     "rust/rust_struct.md",
     "rust/stirng_into().md",
@@ -306,7 +307,6 @@
     "04_python/机器学习三大核心学习方式.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
-    "04_python/有监督机器学习核心笔记.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
