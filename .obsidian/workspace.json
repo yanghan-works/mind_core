@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "python/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anaconda 环境管理"
+              "title": "未命名"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "python/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anaconda 环境管理 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -279,9 +279,10 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "python/Anaconda 环境管理.md",
+    "python/未命名.md",
     "python/Anaconda",
     "python/python 杂记.md",
-    "python/Anaconda 环境管理.md",
     "04_document/Python 环境管理：Anaconda.md",
     "04_document/Python 包管理：pip.md",
     "04_document/无监督机器学习核心笔记.md",
@@ -319,7 +320,6 @@
     "go",
     "typescript",
     "rust",
-    "python",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
