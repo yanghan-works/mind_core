@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "python/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anaconda 环境管理"
+              "title": "未命名"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "python/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anaconda 环境管理 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -279,10 +279,11 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "python/Anaconda 环境管理.md",
+    "python/未命名.md",
     "04_document/Python 环境管理：Anaconda.md",
     "04_document/Python 包管理：pip.md",
     "04_document/无监督机器学习核心笔记.md",
-    "python/Anaconda 环境管理.md",
     "python/Python Pip 学习笔记.md",
     "python/Jupyter.md",
     "python/无监督机器学习.md",
@@ -306,7 +307,6 @@
     "04_python/强化学习核心概念笔记.md",
     "04_python/机器学习三大核心学习方式.md",
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
-    "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
