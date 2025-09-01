@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "04_document/Python 环境管理：Anaconda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anaconda 环境管理"
+              "title": "Python 环境管理：Anaconda"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Anaconda 环境管理.md",
+                "file": "04_document/Python 环境管理：Anaconda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anaconda 环境管理 的大纲"
+              "title": "Python 环境管理：Anaconda 的大纲"
             }
           },
           {
