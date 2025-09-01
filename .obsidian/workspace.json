@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Jupyter.md",
+                "file": "python/pip 包管理器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jupyter"
+              "title": "pip 包管理器"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Jupyter.md",
+                "file": "python/pip 包管理器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Jupyter 的大纲"
+              "title": "pip 包管理器 的大纲"
             }
           },
           {
@@ -279,13 +279,13 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
+    "python/Jupyter.md",
     "python/pip 包管理器.md",
     "python/无监督机器学习.md",
     "04_document/无监督机器学习核心笔记.md",
     "04_document",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
-    "python/Jupyter.md",
     "04_python/机器学习核心流程笔记.md",
     "python/Anaconda.md",
     "Drawing 2025-08-30 17.46.46.excalidraw.md",
