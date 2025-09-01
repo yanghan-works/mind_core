@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/pip 包管理器.md",
+                "file": "04_document/Python 包管理：pip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pip 包管理器"
+              "title": "Python 包管理：pip"
             }
           }
         ],
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/pip 包管理器.md",
+                "file": "04_document/Python 包管理：pip.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pip 包管理器 的大纲"
+              "title": "Python 包管理：pip 的大纲"
             }
           },
           {
@@ -279,10 +279,11 @@
   },
   "active": "6b0484cc9bd7789f",
   "lastOpenFiles": [
-    "python/Jupyter.md",
-    "python/pip 包管理器.md",
-    "python/无监督机器学习.md",
     "04_document/无监督机器学习核心笔记.md",
+    "04_document/Python 包管理：pip.md",
+    "python/pip 包管理器.md",
+    "python/Jupyter.md",
+    "python/无监督机器学习.md",
     "04_document",
     "Drawing 2025-08-30 17.45.25.excalidraw.md",
     "Drawing 2025-08-30 17.38.34.excalidraw.md",
@@ -306,7 +307,6 @@
     "04_python/机器学习 vs. 深度学习：侦探社终极指南.md",
     "04_python/深度学习：任务与本质的核心笔记 🧙‍♂️.md",
     "04_python/有监督机器学习核心笔记.md",
-    "04_python/侦探笔记：无监督机器学习的本质.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
