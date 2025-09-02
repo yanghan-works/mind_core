@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "02_templates",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -16,11 +16,11 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "02_templates/created_date.md"
+      "template": "templates/created_date.md"
     },
     {
-      "folder": "04_python",
-      "template": "02_templates/created_date.md"
+      "folder": "python",
+      "template": "templates/created_date.md"
     }
   ],
   "enable_file_templates": false,

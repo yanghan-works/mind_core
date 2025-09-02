@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "python/pip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "pip"
             }
           },
           {
             "id": "231aa9c081500334",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "57605e2ef39c8747",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Prompt.md",
+                "file": "python/数据科学工作流.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +62,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "57605e2ef39c8747",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "6b0484cc9bd7789f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数据科学工作流"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pip",
+                "query": "tag:#包 path:python  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,8 +200,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -221,12 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "python/pip.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "pip 的大纲"
             }
           },
           {
@@ -235,12 +225,12 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -262,37 +252,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c145ebb30bfd7870",
+  "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "python/未命名.md",
-    "python/无监督机器学习.md",
-    "python/Jupyter.md",
-    "python/Anaconda 环境管理.md",
-    "python/python 杂记.md",
-    "04_document/Python 包管理：pip.md",
+    "python/PyPI.md",
+    "python/pip.md",
+    "python/依赖管理.md",
+    "python/数据科学工作流.md",
+    "python/项目管理.md",
+    "python/未命名.base",
+    "python/Python 开发环境 MOC.md",
+    "python/Jupyter Notebook.md",
+    "python/Anaconda.md",
+    "python/Python.md",
+    "python/requirements.txt.md",
+    "templates/原子笔记模板.md",
+    "python/虚拟环境.md",
+    "python/数据科学包.md",
+    "python/包版本控制.md",
+    "python/Python 包管理器.md",
+    "python/Python 包.md",
+    "python/PyPI 镜像源.md",
+    "python/environment.yml.md",
+    "python/conda-forge.md",
+    "python/conda.md",
+    "python/conda 配置.md",
+    "python/conda 环境管理.md",
+    "python/conda 包管理.md",
+    "python/conda channels.md",
+    "python/Anaconda Navigator.md",
+    "python",
     "python/Anaconda",
-    "04_document/Python 环境管理：Anaconda.md",
-    "04_document/无监督机器学习核心笔记.md",
-    "python/Python Pip 学习笔记.md",
     "04_document",
-    "Drawing 2025-08-30 17.45.25.excalidraw.md",
-    "Drawing 2025-08-30 17.38.34.excalidraw.md",
-    "04_python/机器学习核心流程笔记.md",
-    "Drawing 2025-08-30 17.46.46.excalidraw.md",
-    "rust/rust_struct.md",
-    "rust/stirng_into().md",
-    "rust/string_.md",
-    "杂记/Prompt.md",
-    "杂记/Rust：对其技术、生态系统和未来前景的深度分析.md",
-    "linux/sed.md",
-    "linux/grep.md",
-    "linux/awk.md",
-    "让人又爱又恨的堆和办事靠谱的的栈-Drawing 2025-08-27 22.59.05.excalidraw.md",
-    "Drawing 2025-08-30 14.15.03.excalidraw.md",
-    "让人又爱又恨的堆和办事靠谱的的栈.md",
     "01_attachments/Pasted image 20250726232123.png",
-    "04_python/强化学习核心概念笔记.md",
-    "04_python/机器学习三大核心学习方式.md",
     "Attachments/Pasted image 20250829224017.png",
     "Attachments/Pasted image 20250829223507.png",
     "Attachments/Pasted image 20250829205616.png",
@@ -303,8 +294,6 @@
     "kubernetes",
     "新建文件夹",
     "go",
-    "typescript",
-    "rust",
     "Attachments/Pasted Image 20250804152605_792.png",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
