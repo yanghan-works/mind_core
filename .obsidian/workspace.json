@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Python 包管理器.md",
+                "file": "python/Python 开发环境 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 包管理器"
+              "title": "Python 开发环境 MOC"
             }
           },
           {
@@ -210,21 +210,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Python 包管理器.md",
+                "file": "python/Python 开发环境 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 包管理器 的大纲"
+              "title": "Python 开发环境 MOC 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 458.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,15 +245,17 @@
   },
   "active": "7cf880e80b2d7012",
   "lastOpenFiles": [
-    "python/依赖管理.md",
-    "python/pip.md",
-    "python/Python 包.md",
-    "python/Python 包管理器.md",
+    "python/PyPI 镜像源.md",
+    "python/Python 开发环境 MOC.md",
     "python/conda.md",
+    "python/虚拟环境.md",
+    "python/pip.md",
+    "python/Python 包管理器.md",
+    "python/依赖管理.md",
+    "python/Python 包.md",
     "python/conda-forge.md",
     "python/PyPI.md",
     "python/Anaconda.md",
-    "python/Python 开发环境 MOC.md",
     "python/requirements.txt.md",
     "python/数据科学工作流.md",
     "2025-09-02.md",
@@ -262,10 +265,8 @@
     "python/未命名.base",
     "python/Jupyter Notebook.md",
     "templates/原子笔记模板.md",
-    "python/虚拟环境.md",
     "python/数据科学包.md",
     "python/包版本控制.md",
-    "python/PyPI 镜像源.md",
     "python/conda 配置.md",
     "python/conda 环境管理.md",
     "python/conda 包管理.md",
