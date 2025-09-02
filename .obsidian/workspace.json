@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Python 开发环境 MOC.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 开发环境 MOC"
+              "title": "未命名"
             }
           },
           {
@@ -205,22 +205,22 @@
             }
           },
           {
-            "id": "69064968100db8f7",
+            "id": "93ebc77180d7e06a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Python 开发环境 MOC.md",
+                "file": "Drawing 2025-09-02 08.44.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 开发环境 MOC 的大纲"
+              "title": "Drawing 2025-09-02 08.44.08.excalidraw 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -240,38 +240,42 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "templates:插入模板": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7cf880e80b2d7012",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
-    "python/PyPI 镜像源.md",
-    "python/Python 开发环境 MOC.md",
-    "python/conda.md",
+    "未命名.md",
+    "Drawing 2025-09-02 08.44.08.excalidraw.md",
     "python/虚拟环境.md",
-    "python/pip.md",
+    "python/未命名.base",
+    "python/Python.md",
+    "python/包版本控制.md",
     "python/Python 包管理器.md",
+    "python/Python 开发环境 MOC.md",
+    "python/Jupyter Notebook.md",
+    "python/PyPI.md",
+    "python/PyPI 镜像源.md",
+    "python/conda.md",
+    "python/pip.md",
     "python/依赖管理.md",
     "python/Python 包.md",
     "python/conda-forge.md",
-    "python/PyPI.md",
     "python/Anaconda.md",
     "python/requirements.txt.md",
     "python/数据科学工作流.md",
     "2025-09-02.md",
     "python/项目管理.md",
     "python/environment.yml.md",
-    "python/Python.md",
-    "python/未命名.base",
-    "python/Jupyter Notebook.md",
     "templates/原子笔记模板.md",
     "python/数据科学包.md",
-    "python/包版本控制.md",
     "python/conda 配置.md",
     "python/conda 环境管理.md",
     "python/conda 包管理.md",
-    "python/conda channels.md",
-    "python/Anaconda Navigator.md",
     "python",
     "python/Anaconda",
     "04_document",

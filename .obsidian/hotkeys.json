@@ -1,1 +1,10 @@
-{}
+{
+  "bases:insert": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Insert"
+    }
+  ]
+}
