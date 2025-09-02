@@ -69,24 +69,10 @@
             "id": "6b0484cc9bd7789f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ],
@@ -122,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,8 +211,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -235,13 +221,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -250,8 +235,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -277,14 +262,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6b0484cc9bd7789f",
+  "active": "c145ebb30bfd7870",
   "lastOpenFiles": [
+    "python/未命名.md",
     "python/无监督机器学习.md",
     "python/Jupyter.md",
     "python/Anaconda 环境管理.md",
     "python/python 杂记.md",
     "04_document/Python 包管理：pip.md",
-    "python/未命名.md",
     "python/Anaconda",
     "04_document/Python 环境管理：Anaconda.md",
     "04_document/无监督机器学习核心笔记.md",
