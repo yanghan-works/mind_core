@@ -11,24 +11,10 @@
             "id": "231aa9c081500334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/Python 包管理器.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Python 包管理器"
+              "title": "新标签页"
             }
           },
           {
@@ -200,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Python 包管理器.md",
+                "file": "python/Jupyter Notebook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 包管理器 的大纲"
+              "title": "Jupyter Notebook 的大纲"
             }
           }
         ],
@@ -228,44 +214,40 @@
       "command-palette:打开命令面板": true,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Open Copilot Chat": false,
       "audio-recorder:开始/结束录音": false,
-      "random-note:开始漫游笔记": false,
-      "templates:插入模板": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "templates:插入模板": false
     }
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
+    "python/environment.yml.md",
     "python/Python.md",
+    "python/requirements.txt.md",
     "python/Python 开发环境 MOC.md",
     "python/Python 包管理器.md",
     "python/Python 包.md",
-    "python/conda-forge.md",
-    "python/conda.md",
-    "python/Anaconda.md",
+    "python/PyPI 镜像源.md",
+    "python/PyPI.md",
+    "python/数据科学工作流.md",
+    "python/项目管理.md",
     "python/虚拟环境.md",
-    "python/requirements.txt.md",
+    "python/conda.md",
+    "python/conda 环境管理.md",
+    "python/conda channels.md",
+    "python/conda 包管理.md",
+    "python/Anaconda.md",
+    "python/conda-forge.md",
     "python/依赖管理.md",
     "python/pip.md",
-    "python/conda 包管理.md",
-    "python/conda 环境管理.md",
     "python/Jupyter Notebook.md",
-    "python/environment.yml.md",
-    "python/conda channels.md",
-    "python/PyPI 镜像源.md",
     "Python.base",
     "未命名.md",
-    "python/数据科学工作流.md",
     "python/数据科学包.md",
     "python/未命名.base",
     "Drawing 2025-09-02 08.44.08.excalidraw.md",
     "python/包版本控制.md",
-    "python/PyPI.md",
     "2025-09-02.md",
-    "python/项目管理.md",
     "templates/原子笔记模板.md",
     "python",
     "python/Anaconda",
