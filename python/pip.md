@@ -1,12 +1,16 @@
-# pip
+# 📦 pip
 
-**pip** (Pip Installs Packages) 是 [[Python]] 的标准[[Python 包管理器]]，用于从 [[PyPI]] 安装和管理 Python 包。
+> [!abstract] 一句话概括
+> pip (Pip Installs Packages) 是 Python 的标准包管理器，负责从 PyPI 安装和管理 Python 包
 
-## 基本概念
+> [!example] 典型使用场景
+> 在虚拟环境中安装项目依赖：`pip install -r requirements.txt`
 
-pip 是 Python 生态系统的核心工具，与 [[虚拟环境]] 配合使用可以有效管理项目依赖。
+## 🎯 核心概念
 
-## 包安装
+**pip** 是 [[Python]] 生态系统的核心工具，与 [[虚拟环境]] 配合使用可以有效管理项目依赖。
+
+## 🔧 包安装
 
 ### 基本安装
 ```bash
@@ -45,7 +49,7 @@ pip install --force-reinstall package_name
 pip install --no-deps package_name
 ```
 
-## 包管理
+## 📋 包管理
 
 ### 查看包信息
 ```bash
@@ -71,7 +75,7 @@ pip uninstall package_name
 pip uninstall -r requirements.txt
 ```
 
-## 依赖管理
+## 🔗 依赖管理
 
 ### requirements.txt
 ```bash
@@ -117,13 +121,16 @@ timeout = 60
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple package_name
 ```
 
-## 与其他工具的关系
+## 🤝 与其他工具的关系
 
 - 与 [[conda]] 的区别和配合使用
 - 与 [[虚拟环境]] 的集成
 - pipenv 和 poetry 等现代工具的基础
 
-## 相关概念
+## 📚 相关概念
+
+> [!tip] 学习建议
+> 先掌握基本的 install/uninstall 操作，再学习 requirements.txt 管理，最后了解配置优化
 
 - [[Python 包管理器]]
 - [[PyPI]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Python 开发环境 MOC.md",
+                "file": "python/Python 包管理器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 开发环境 MOC"
+              "title": "Python 包管理器"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Python 开发环境 MOC.md",
+                "file": "python/Python 包管理器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 开发环境 MOC 的大纲"
+              "title": "Python 包管理器 的大纲"
             }
           }
         ],
@@ -239,31 +239,31 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
+    "python/Python.md",
+    "python/Python 开发环境 MOC.md",
+    "python/Python 包管理器.md",
+    "python/Python 包.md",
+    "python/conda-forge.md",
+    "python/conda.md",
+    "python/Anaconda.md",
+    "python/虚拟环境.md",
+    "python/requirements.txt.md",
+    "python/依赖管理.md",
+    "python/pip.md",
     "python/conda 包管理.md",
     "python/conda 环境管理.md",
     "python/Jupyter Notebook.md",
     "python/environment.yml.md",
-    "python/Python 包.md",
     "python/conda channels.md",
     "python/PyPI 镜像源.md",
     "Python.base",
-    "python/Python 开发环境 MOC.md",
-    "python/requirements.txt.md",
-    "python/Python 包管理器.md",
     "未命名.md",
     "python/数据科学工作流.md",
     "python/数据科学包.md",
     "python/未命名.base",
     "Drawing 2025-09-02 08.44.08.excalidraw.md",
-    "python/虚拟环境.md",
-    "python/Python.md",
     "python/包版本控制.md",
     "python/PyPI.md",
-    "python/conda.md",
-    "python/pip.md",
-    "python/依赖管理.md",
-    "python/conda-forge.md",
-    "python/Anaconda.md",
     "2025-09-02.md",
     "python/项目管理.md",
     "templates/原子笔记模板.md",
