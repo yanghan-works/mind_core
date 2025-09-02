@@ -11,10 +11,24 @@
             "id": "231aa9c081500334",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python pip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Python pip"
             }
           },
           {
@@ -221,6 +235,7 @@
   },
   "active": "231aa9c081500334",
   "lastOpenFiles": [
+    "Python pip.md",
     "python/environment.yml.md",
     "python/Python.md",
     "python/requirements.txt.md",
@@ -248,7 +263,6 @@
     "Drawing 2025-09-02 08.44.08.excalidraw.md",
     "python/包版本控制.md",
     "2025-09-02.md",
-    "templates/原子笔记模板.md",
     "python",
     "python/Anaconda",
     "04_document",
