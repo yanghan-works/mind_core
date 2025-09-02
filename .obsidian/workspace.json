@@ -8,51 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "231aa9c081500334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python 虚拟环境.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Python 虚拟环境"
-            }
-          },
-          {
             "id": "57605e2ef39c8747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/数据科学工作流.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "数据科学工作流"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -226,15 +188,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": true,
+      "audio-recorder:开始/结束录音": false,
+      "templates:插入模板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:开始/结束录音": false,
-      "templates:插入模板": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "231aa9c081500334",
+  "active": "57605e2ef39c8747",
   "lastOpenFiles": [
+    "Python 虚拟环境.md",
     "Python pip.md",
     "python/environment.yml.md",
     "python/Python.md",
@@ -262,7 +225,6 @@
     "python/未命名.base",
     "Drawing 2025-09-02 08.44.08.excalidraw.md",
     "python/包版本控制.md",
-    "2025-09-02.md",
     "python",
     "python/Anaconda",
     "04_document",
