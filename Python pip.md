@@ -1,67 +1,68 @@
 # Python pip
 
-## 核心概念
+## 概念
+Python 包管理工具，用于安装、升级和管理 Python 包。
 
-**pip** 是 [[Python]] 的标准包管理器，用于安装和管理 Python 包。
+## 核心命令
 
-## 基本操作
-
-### 安装包
+### 安装
 ```bash
 pip install package_name
-pip install package_name==1.2.3  # 指定版本
-pip install -r requirements.txt   # 批量安装
+pip install package_name==1.2.3
+pip install -r requirements.txt
 ```
 
-### 查看包信息
+### 查看
 ```bash
-pip list                 # 列出已安装包
-pip show package_name    # 显示包详情
-pip freeze              # 输出依赖列表
+pip list
+pip show package_name
+pip freeze
 ```
 
-### 升级与卸载
+### 升级
 ```bash
 pip install --upgrade package_name
+pip install --upgrade pip
+```
+
+### 卸载
+```bash
 pip uninstall package_name
 ```
 
-## 高级用法
+## 配置文件
 
-### 虚拟环境配合
-- 与 [[Python 虚拟环境]] 结合使用
-- 避免全局包污染
+### requirements.txt
+```
+package_name==1.2.3
+another_package>=2.0.0
+```
 
-### 镜像源配置
+### pip.conf / pip.ini
+```ini
+[global]
+index-url = https://pypi.org/simple/
+trusted-host = pypi.org
+```
+
+## 最佳实践
+
+- **虚拟环境**：始终在虚拟环境中使用
+- **版本锁定**：生产环境使用精确版本号
+- **镜像源**：使用国内镜像提升下载速度
+- **依赖管理**：定期更新 requirements.txt
+
+## 常见问题
+
+### 权限错误
+```bash
+pip install --user package_name
+```
+
+### 网络问题
 ```bash
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ package_name
 ```
 
-### requirements.txt
-```text
-requests>=2.25.0
-numpy==1.21.0
-pandas~=1.3.0
-```
-
-## 常见问题
-
-### 权限问题
-```bash
-pip install --user package_name  # 用户级安装
-```
-
-### 缓存清理
-```bash
-pip cache purge
-```
-
-## 相关链接
-
-- [[Python 包管理]]
-- [[Python 虚拟环境]]
-- [[PyPI]]
-
 ---
-*创建时间: 2025-09-02*  
-*标签: #python #包管理 #工具*
+*原子笔记 | 2025-09-02*
