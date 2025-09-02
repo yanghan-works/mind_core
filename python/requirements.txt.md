@@ -53,8 +53,8 @@ git+https://github.com/user/repo.git@v1.0
 
 ## 相关概念
 
-- [[pip install]]
-- [[pip freeze]]
+- `pip install` 命令
+- `pip freeze` 命令
 - [[依赖管理]]
 - [[虚拟环境]]
 - [[包版本控制]]

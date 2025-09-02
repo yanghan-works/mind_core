@@ -14,7 +14,7 @@ Python 包是包含 Python 代码的目录，通常包含 `__init__.py` 文件�
 
 ## 安装方式
 
-- [[pip install]] - 从 [[PyPI]] 安装
+- `pip install` - 从 [[PyPI]] 安装
 - [[conda 包管理|conda install]] - 从 [[conda channels]] 安装
 - 本地安装 - 从源码或 wheel 文件
 
