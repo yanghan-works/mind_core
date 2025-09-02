@@ -34,4 +34,4 @@ conda config --set channel_priority strict
 - [[conda]]
 - [[开源社区]]
 
-#conda-forge #社区 #开源
+#conda-forge #社区 #开源 
